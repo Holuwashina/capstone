@@ -1,0 +1,2015 @@
+PatientID,Age,Gender,Region,Diagnosis,Treatment,AdmissionDate,DischargeDate,LengthOfStay,TreatmentSuccess,InitialSeverity,Comorbidities,InsuranceType,FollowUpVisits
+116739,73,F,South,Obesity,Combined Therapy,2024-04-07,2024-04-14,7,True,7,3,Public,2
+777572,73,F,South,Arthritis,Counseling,2022-12-17,2023-01-04,18,True,6,1,Public,0
+256787,73,F,South,Type 2 Diabetes,Medication,2023-06-29,2023-07-16,17,True,1,0,Public,1
+146316,59,M,West,Anxiety,Physical Therapy,2023-05-20,2023-06-08,19,True,10,3,Private,5
+107473,20,F,South,Heart Disease,Counseling,2024-06-22,2024-07-05,13,True,7,0,Private,3
+776646,20,F,South,Type 2 Diabetes,Counseling,2024-05-06,2024-05-10,4,True,1,0,None,1
+571858,30,M,West,Type 2 Diabetes,Lifestyle Changes,2024-10-20,2024-11-04,15,True,5,1,None,1
+619176,30,M,West,Heart Disease,Counseling,2023-02-03,2023-02-04,1,False,1,2,Public,2
+33326,56,M,South,Heart Disease,Lifestyle Changes,2023-10-21,2023-10-26,5,True,1,0,None,1
+98246,60,F,South,Heart Disease,Surgery,2022-12-21,2023-01-02,12,False,5,0,None,2
+243962,27,M,West,Obesity,Surgery,2023-05-16,2023-05-25,9,True,1,1,None,5
+631262,27,M,West,Anxiety,Physical Therapy,2023-12-25,2024-01-01,7,True,5,1,Private,4
+588508,27,M,West,Heart Disease,Physical Therapy,2022-12-18,2023-01-02,15,False,9,1,Private,4
+750800,73,F,Central,Lower Back Pain,Medication,2023-05-01,2023-05-25,24,True,3,0,Public,3
+735392,48,M,West,Anxiety,Surgery,2024-04-15,2024-04-18,3,True,2,2,Private,4
+439898,48,M,West,Depression,Surgery,2024-01-25,2024-02-15,21,True,9,2,None,1
+471029,48,M,West,Arthritis,Combined Therapy,2023-05-18,2023-05-26,8,True,5,2,Public,0
+291704,71,M,West,Hypertension,Surgery,2024-02-28,2024-03-25,26,True,2,0,Public,0
+911527,71,M,West,Lower Back Pain,Counseling,2024-08-17,2024-09-11,25,True,1,2,Private,4
+795667,34,M,North,Anxiety,Medication,2022-12-03,2022-12-29,26,True,4,1,Public,4
+167414,34,M,North,COPD,Physical Therapy,2024-08-14,2024-08-18,4,True,8,3,None,5
+443143,34,M,North,Obesity,Medication,2024-05-23,2024-06-18,26,True,9,1,None,0
+291369,55,F,North,Obesity,Physical Therapy,2023-08-19,2023-09-17,29,False,4,2,Public,5
+225772,55,F,North,Anxiety,Lifestyle Changes,2023-03-28,2023-04-14,17,True,10,0,Public,5
+352944,74,F,Central,Asthma,Counseling,2024-07-13,2024-08-04,22,True,3,1,Private,0
+97251,79,F,North,COPD,Physical Therapy,2023-02-15,2023-03-11,24,False,9,1,None,5
+101414,79,F,North,Depression,Combined Therapy,2023-09-19,2023-09-29,10,True,9,3,Public,3
+888662,56,F,East,Anxiety,Physical Therapy,2023-09-02,2023-09-10,8,False,10,0,None,0
+633052,76,F,South,Hypertension,Lifestyle Changes,2023-08-22,2023-09-12,21,True,3,0,Private,4
+846335,76,F,South,Arthritis,Surgery,2023-06-21,2023-07-15,24,True,5,3,Private,0
+765179,76,F,South,Lower Back Pain,Counseling,2022-12-31,2023-01-01,1,True,1,0,Public,2
+562275,21,M,West,Anxiety,Combined Therapy,2023-11-19,2023-11-22,3,False,9,2,None,3
+967096,76,M,West,Anxiety,Surgery,2023-03-04,2023-03-12,8,True,8,0,Public,5
+82627,76,M,West,Type 2 Diabetes,Medication,2023-09-18,2023-10-17,29,False,3,1,None,5
+307419,34,M,South,Obesity,Physical Therapy,2024-01-30,2024-02-06,7,True,10,2,Public,3
+659176,56,M,South,Hypertension,Medication,2024-09-02,2024-09-22,20,True,4,3,Private,1
+928463,56,M,South,Obesity,Medication,2024-03-22,2024-03-30,8,False,4,0,Public,0
+379201,56,M,South,Arthritis,Counseling,2024-09-27,2024-10-09,12,True,1,2,Private,3
+201629,76,M,Central,Anxiety,Counseling,2024-02-19,2024-02-26,7,True,5,2,Public,4
+72933,67,M,East,Depression,Counseling,2024-05-28,2024-06-12,15,False,6,0,Private,1
+693384,39,M,Central,Heart Disease,Medication,2023-01-02,2023-01-17,15,True,1,2,Public,0
+810620,39,M,Central,Hypertension,Combined Therapy,2023-05-24,2023-06-19,26,True,10,0,None,1
+83667,50,F,West,Anxiety,Surgery,2023-07-10,2023-07-13,3,False,7,1,None,3
+244098,50,F,West,Depression,Surgery,2024-09-22,2024-09-24,2,False,1,0,None,0
+105907,50,F,West,Type 2 Diabetes,Physical Therapy,2024-10-01,2024-10-12,11,True,3,0,Private,2
+291476,75,F,North,Obesity,Counseling,2023-09-19,2023-10-10,21,False,9,0,Public,0
+666563,75,F,North,Anxiety,Combined Therapy,2023-11-15,2023-11-18,3,True,1,2,None,2
+382554,75,F,North,Heart Disease,Lifestyle Changes,2024-09-05,2024-09-06,1,False,7,1,Public,1
+388162,61,M,East,Lower Back Pain,Counseling,2023-04-03,2023-05-01,28,False,9,0,None,3
+219684,61,M,East,Heart Disease,Physical Therapy,2023-08-30,2023-09-10,11,True,7,0,Private,3
+279946,38,F,Central,Anxiety,Counseling,2024-05-01,2024-05-28,27,True,5,0,None,0
+982153,38,F,Central,Asthma,Combined Therapy,2024-05-26,2024-06-15,20,True,3,0,Public,1
+679514,29,F,North,Hypertension,Combined Therapy,2024-05-11,2024-05-27,16,True,10,3,None,0
+638720,65,M,West,Type 2 Diabetes,Lifestyle Changes,2023-01-22,2023-02-01,10,True,5,2,Public,4
+179451,65,M,West,Obesity,Combined Therapy,2024-04-04,2024-04-11,7,False,4,0,None,5
+764544,54,M,Central,Asthma,Combined Therapy,2024-01-16,2024-02-02,17,True,2,0,Private,2
+171339,74,F,West,Arthritis,Combined Therapy,2023-06-06,2023-06-20,14,True,1,0,None,2
+397887,74,F,West,Lower Back Pain,Medication,2023-11-22,2023-11-23,1,False,10,2,Private,4
+970342,74,F,West,Asthma,Medication,2023-06-25,2023-07-17,22,True,3,3,None,5
+721590,58,F,Central,Anxiety,Physical Therapy,2024-04-08,2024-04-26,18,True,8,0,None,2
+230283,58,F,Central,Hypertension,Medication,2024-02-03,2024-03-02,28,True,6,1,Public,1
+340035,52,F,South,COPD,Counseling,2024-05-12,2024-05-16,4,False,5,1,Public,2
+805635,52,F,South,Hypertension,Physical Therapy,2024-09-12,2024-10-07,25,True,10,1,Private,5
+58655,28,M,East,Lower Back Pain,Medication,2024-07-22,2024-08-09,18,True,6,1,Public,5
+861722,28,M,East,Anxiety,Surgery,2023-05-24,2023-06-20,27,True,3,3,Private,2
+844151,21,M,West,COPD,Medication,2022-12-22,2023-01-01,10,True,7,0,Private,2
+420651,27,M,North,COPD,Combined Therapy,2023-07-31,2023-08-12,12,True,3,3,Private,5
+69403,31,F,Central,Lower Back Pain,Combined Therapy,2023-06-23,2023-07-16,23,True,7,3,Private,0
+957492,31,F,Central,Anxiety,Counseling,2023-05-10,2023-05-27,17,False,9,2,None,0
+918938,37,M,South,Hypertension,Medication,2024-02-11,2024-02-25,14,False,8,2,None,1
+329963,37,M,South,Lower Back Pain,Medication,2024-06-07,2024-06-19,12,True,1,1,Private,0
+687277,37,M,South,Depression,Lifestyle Changes,2023-05-12,2023-05-24,12,True,5,0,Public,0
+414850,74,M,Central,COPD,Lifestyle Changes,2023-12-20,2024-01-09,20,False,5,3,None,3
+958972,74,M,Central,Arthritis,Counseling,2024-10-15,2024-10-22,7,True,5,0,Private,4
+481141,76,F,East,Anxiety,Combined Therapy,2024-04-10,2024-04-13,3,True,3,2,None,5
+277746,76,F,East,Obesity,Lifestyle Changes,2023-03-18,2023-04-05,18,True,6,3,Public,3
+258607,76,F,East,Hypertension,Combined Therapy,2023-03-16,2023-04-12,27,True,3,2,Public,3
+588637,74,F,South,Depression,Surgery,2024-06-28,2024-07-06,8,True,10,3,Public,0
+275504,74,F,South,COPD,Combined Therapy,2024-01-20,2024-02-03,14,True,3,3,None,5
+612982,74,F,South,Type 2 Diabetes,Counseling,2024-06-30,2024-07-17,17,True,2,0,None,4
+941435,81,F,Central,Type 2 Diabetes,Surgery,2023-10-26,2023-11-24,29,False,6,0,None,5
+418801,81,F,Central,Hypertension,Medication,2024-02-24,2024-02-29,5,True,4,0,Public,2
+229974,77,M,East,Asthma,Counseling,2023-09-05,2023-09-10,5,True,9,0,None,0
+534277,77,M,East,Type 2 Diabetes,Physical Therapy,2023-03-15,2023-04-14,30,True,3,0,Public,4
+95325,72,M,West,Hypertension,Combined Therapy,2023-12-16,2024-01-10,25,False,8,2,Private,1
+49405,72,M,West,Obesity,Physical Therapy,2024-07-07,2024-07-20,13,True,9,2,Public,4
+114975,46,M,Central,Obesity,Medication,2024-09-26,2024-10-23,27,False,2,1,Public,4
+657924,46,M,Central,Type 2 Diabetes,Surgery,2023-03-26,2023-04-01,6,False,6,1,Private,4
+830555,79,M,North,Lower Back Pain,Lifestyle Changes,2023-04-01,2023-04-18,17,False,7,2,Public,2
+442666,79,M,North,COPD,Lifestyle Changes,2024-05-09,2024-05-14,5,False,9,0,None,2
+66613,79,M,North,Type 2 Diabetes,Physical Therapy,2024-03-05,2024-03-24,19,False,9,1,Private,2
+400156,52,F,West,Arthritis,Medication,2023-09-22,2023-09-29,7,False,1,2,None,0
+490785,52,F,West,Hypertension,Lifestyle Changes,2024-03-04,2024-04-02,29,True,8,1,Private,1
+263626,24,M,West,Asthma,Surgery,2024-01-12,2024-01-21,9,True,1,3,Public,5
+902592,24,M,West,Hypertension,Lifestyle Changes,2024-01-31,2024-02-29,29,False,5,1,Public,1
+713328,56,M,East,Arthritis,Counseling,2022-12-06,2023-01-04,29,True,9,0,None,5
+120116,56,M,East,Asthma,Lifestyle Changes,2024-06-09,2024-06-21,12,False,4,3,Private,0
+927767,66,M,Central,Arthritis,Counseling,2024-05-10,2024-06-05,26,False,10,0,None,1
+787352,66,M,Central,Heart Disease,Physical Therapy,2024-01-19,2024-02-02,14,True,8,1,None,4
+805934,79,F,Central,Obesity,Medication,2023-06-23,2023-06-27,4,False,7,0,Public,0
+356699,48,M,Central,Obesity,Counseling,2024-04-08,2024-05-04,26,True,3,3,Public,0
+307757,48,M,Central,Hypertension,Medication,2023-02-22,2023-02-24,2,False,8,1,Private,4
+165840,48,M,Central,Arthritis,Surgery,2023-10-31,2023-11-24,24,True,10,3,None,0
+3402,20,M,South,Hypertension,Medication,2023-11-15,2023-11-16,1,True,7,1,Private,0
+918398,20,M,South,Obesity,Surgery,2024-06-10,2024-07-07,27,True,3,1,Private,5
+276183,53,F,North,Lower Back Pain,Combined Therapy,2024-06-08,2024-06-10,2,False,10,0,Public,4
+798975,53,F,North,Type 2 Diabetes,Combined Therapy,2023-12-21,2024-01-10,20,True,5,0,Public,0
+532342,53,F,North,Heart Disease,Lifestyle Changes,2023-04-15,2023-04-24,9,False,7,0,Public,4
+111579,29,M,North,Asthma,Physical Therapy,2024-11-05,2024-11-30,25,True,8,1,Private,3
+655674,29,M,North,Heart Disease,Medication,2024-10-04,2024-10-30,26,False,5,0,None,0
+882554,40,M,South,Lower Back Pain,Surgery,2023-07-17,2023-07-21,4,True,8,0,None,0
+532323,40,M,South,Type 2 Diabetes,Counseling,2024-04-07,2024-04-08,1,True,8,2,Private,1
+208573,35,M,Central,Hypertension,Counseling,2024-03-15,2024-04-09,25,True,3,3,Private,5
+392077,71,M,Central,Hypertension,Surgery,2023-03-26,2023-04-04,9,False,3,1,None,2
+169396,71,M,Central,Depression,Surgery,2024-07-12,2024-08-02,21,True,8,0,Private,5
+999816,69,F,Central,Hypertension,Lifestyle Changes,2024-01-20,2024-02-01,12,True,7,0,Public,5
+967242,69,F,Central,Arthritis,Medication,2024-07-24,2024-08-05,12,True,1,3,Private,5
+963110,36,F,West,COPD,Physical Therapy,2024-01-13,2024-01-20,7,True,1,2,Private,1
+628038,45,M,West,Depression,Physical Therapy,2022-11-28,2022-12-14,16,True,6,3,Public,3
+512340,45,M,West,Anxiety,Counseling,2023-08-06,2023-08-31,25,False,1,0,Private,4
+117301,45,M,West,Type 2 Diabetes,Counseling,2022-12-13,2022-12-30,17,True,8,2,Private,2
+380612,28,F,East,Hypertension,Physical Therapy,2024-11-18,2024-12-14,26,False,10,1,Public,5
+872064,28,F,East,Anxiety,Combined Therapy,2024-10-10,2024-10-22,12,True,3,1,Public,4
+322451,28,F,East,Depression,Combined Therapy,2024-08-15,2024-08-16,1,True,9,0,Private,4
+60738,35,M,South,Obesity,Medication,2023-06-01,2023-06-30,29,True,9,2,Private,0
+920659,35,M,South,Anxiety,Medication,2023-06-03,2023-06-17,14,True,9,2,Public,1
+992948,35,M,South,Hypertension,Medication,2024-02-11,2024-02-22,11,True,6,0,None,4
+89814,77,F,Central,Asthma,Surgery,2023-01-28,2023-02-27,30,False,4,0,Private,4
+509597,41,F,West,Depression,Counseling,2024-06-18,2024-06-28,10,True,8,0,Public,0
+72574,41,F,West,Obesity,Surgery,2024-08-22,2024-09-12,21,True,9,2,Private,0
+558582,41,F,West,Asthma,Lifestyle Changes,2024-07-10,2024-07-24,14,False,8,2,Private,0
+131869,48,F,North,Asthma,Physical Therapy,2024-07-14,2024-07-27,13,False,7,3,Public,1
+691798,48,F,North,Hypertension,Surgery,2023-03-07,2023-03-15,8,True,9,3,Private,3
+992842,80,M,Central,Hypertension,Surgery,2023-12-02,2023-12-29,27,True,2,2,None,0
+173148,80,M,Central,Lower Back Pain,Physical Therapy,2024-01-29,2024-02-04,6,False,7,3,Public,2
+553306,80,M,Central,Arthritis,Lifestyle Changes,2023-06-21,2023-06-27,6,False,3,3,None,3
+636059,77,M,South,Depression,Physical Therapy,2024-10-05,2024-10-15,10,True,6,1,Public,2
+222086,77,M,South,Hypertension,Lifestyle Changes,2023-10-22,2023-11-03,12,True,5,3,Private,1
+565492,49,F,North,Type 2 Diabetes,Lifestyle Changes,2024-11-18,2024-12-02,14,True,8,1,None,5
+765388,49,F,North,Heart Disease,Combined Therapy,2024-07-06,2024-07-11,5,False,4,1,Private,1
+210922,49,F,North,Arthritis,Counseling,2024-05-16,2024-06-01,16,True,8,1,Public,5
+326858,68,F,North,Hypertension,Surgery,2024-06-03,2024-06-24,21,True,10,0,Private,5
+704314,68,F,North,COPD,Lifestyle Changes,2023-10-03,2023-10-25,22,True,4,2,Public,4
+391559,68,F,North,Type 2 Diabetes,Surgery,2024-04-15,2024-05-14,29,False,8,3,None,5
+943313,36,F,Central,Arthritis,Surgery,2023-11-03,2023-11-10,7,True,2,3,Private,5
+473417,36,F,Central,Obesity,Combined Therapy,2024-01-04,2024-01-19,15,True,7,1,Public,5
+259947,36,F,Central,COPD,Physical Therapy,2023-03-01,2023-03-13,12,True,1,2,Public,1
+67136,25,F,West,Anxiety,Physical Therapy,2023-05-21,2023-06-06,16,False,6,1,Private,2
+22056,25,F,West,Obesity,Physical Therapy,2023-08-17,2023-09-01,15,True,1,2,Public,5
+580828,25,F,West,Arthritis,Lifestyle Changes,2024-02-27,2024-03-15,17,True,1,1,Private,0
+617024,50,M,West,Depression,Lifestyle Changes,2023-05-25,2023-06-01,7,False,3,0,Private,3
+7540,52,F,Central,Lower Back Pain,Lifestyle Changes,2023-05-18,2023-06-13,26,True,7,3,None,1
+742225,52,F,Central,Arthritis,Counseling,2023-01-22,2023-02-14,23,False,2,2,Private,2
+61733,52,F,Central,Type 2 Diabetes,Medication,2024-04-01,2024-04-30,29,True,1,3,None,1
+70674,46,F,Central,Heart Disease,Surgery,2023-05-24,2023-06-23,30,False,3,2,Private,4
+32938,46,F,Central,Lower Back Pain,Surgery,2024-10-31,2024-11-16,16,True,8,2,Public,3
+346479,39,M,North,Obesity,Lifestyle Changes,2024-09-25,2024-10-20,25,True,1,2,None,5
+539131,63,F,North,Obesity,Combined Therapy,2023-01-22,2023-01-27,5,True,1,0,None,4
+292004,43,M,North,Heart Disease,Lifestyle Changes,2023-05-31,2023-06-29,29,True,4,0,Private,4
+508993,43,M,North,Depression,Counseling,2024-04-30,2024-05-29,29,True,3,0,None,0
+565427,57,F,East,Anxiety,Medication,2023-05-13,2023-05-14,1,False,9,2,None,0
+758490,45,F,Central,Arthritis,Counseling,2023-03-10,2023-03-17,7,False,8,1,Private,0
+925245,45,F,Central,COPD,Medication,2024-11-23,2024-12-02,9,True,5,0,Public,4
+604201,45,F,Central,Type 2 Diabetes,Combined Therapy,2024-02-14,2024-03-09,24,True,10,3,None,2
+254801,54,M,Central,COPD,Lifestyle Changes,2023-11-30,2023-12-27,27,False,6,0,Private,5
+495948,66,F,North,Obesity,Physical Therapy,2024-07-29,2024-08-23,25,True,9,3,Private,4
+426833,66,F,North,Lower Back Pain,Surgery,2024-08-16,2024-08-21,5,True,9,0,Public,0
+98907,66,F,North,Depression,Medication,2023-04-24,2023-04-26,2,True,2,1,Private,0
+690993,25,M,East,Hypertension,Lifestyle Changes,2023-02-11,2023-02-16,5,False,6,2,None,1
+371507,48,M,Central,Depression,Lifestyle Changes,2023-10-28,2023-11-25,28,True,1,2,Public,0
+431071,48,M,Central,Asthma,Counseling,2023-10-23,2023-11-16,24,True,4,2,None,0
+905798,70,F,Central,Arthritis,Lifestyle Changes,2023-11-25,2023-12-22,27,False,9,0,Private,4
+56802,70,F,Central,Asthma,Lifestyle Changes,2024-06-16,2024-06-19,3,True,7,3,Public,2
+685197,49,F,Central,Depression,Lifestyle Changes,2024-05-04,2024-05-11,7,True,8,3,Private,1
+103198,49,F,Central,COPD,Lifestyle Changes,2024-04-12,2024-05-06,24,True,3,1,None,5
+422179,80,F,South,Anxiety,Surgery,2023-01-14,2023-01-21,7,False,6,3,None,1
+355784,78,F,North,Asthma,Surgery,2024-06-15,2024-07-05,20,True,7,2,Private,1
+903529,69,F,Central,Obesity,Physical Therapy,2024-08-10,2024-08-18,8,True,8,3,None,1
+260735,40,F,Central,Anxiety,Physical Therapy,2023-02-20,2023-03-15,23,True,2,0,None,3
+199448,40,F,Central,Asthma,Surgery,2023-04-25,2023-05-12,17,True,9,1,None,2
+470405,40,F,Central,Type 2 Diabetes,Lifestyle Changes,2024-01-18,2024-02-17,30,False,3,0,None,0
+442374,29,M,West,Anxiety,Surgery,2023-03-16,2023-04-12,27,True,5,2,None,3
+292075,64,F,East,Heart Disease,Medication,2023-04-19,2023-05-08,19,False,3,0,None,0
+261941,64,F,East,COPD,Combined Therapy,2023-11-22,2023-11-24,2,True,5,2,Public,1
+968114,48,F,North,Type 2 Diabetes,Lifestyle Changes,2024-10-07,2024-10-17,10,False,4,3,None,0
+464656,48,F,North,Asthma,Surgery,2023-01-25,2023-02-20,26,True,3,0,None,4
+903189,48,F,North,Heart Disease,Medication,2024-08-16,2024-09-12,27,True,4,2,Private,3
+577057,64,M,East,Hypertension,Counseling,2024-09-22,2024-09-25,3,False,8,0,Private,5
+53045,64,M,East,Obesity,Combined Therapy,2023-02-12,2023-03-12,28,True,10,0,Public,2
+566847,74,M,North,Lower Back Pain,Counseling,2024-04-17,2024-05-04,17,False,1,2,None,0
+15474,66,F,East,Arthritis,Counseling,2024-09-07,2024-09-11,4,False,5,1,Public,0
+971366,66,F,East,Depression,Medication,2023-02-08,2023-02-23,15,False,4,1,None,1
+889921,83,M,North,Lower Back Pain,Combined Therapy,2024-07-05,2024-07-30,25,True,8,3,Private,5
+174389,83,M,North,Anxiety,Lifestyle Changes,2023-05-30,2023-05-31,1,True,9,1,None,1
+509231,47,M,South,Anxiety,Physical Therapy,2023-10-09,2023-11-06,28,True,8,2,None,0
+224130,47,M,South,Asthma,Lifestyle Changes,2023-12-06,2023-12-18,12,True,6,0,None,4
+420521,47,M,South,Depression,Combined Therapy,2024-09-29,2024-10-25,26,True,4,3,Private,5
+61483,39,M,East,Arthritis,Combined Therapy,2024-10-28,2024-11-17,20,True,3,1,Private,4
+397382,39,M,East,Lower Back Pain,Combined Therapy,2023-04-04,2023-04-24,20,False,4,1,Public,4
+409386,39,M,East,Hypertension,Medication,2022-11-29,2022-12-07,8,True,9,2,Private,2
+971524,70,F,West,Type 2 Diabetes,Medication,2023-06-21,2023-06-25,4,True,10,1,Public,1
+823267,74,M,West,Depression,Surgery,2024-07-29,2024-08-07,9,True,3,3,Private,5
+299105,21,F,East,Arthritis,Combined Therapy,2023-11-16,2023-11-22,6,True,3,2,Public,2
+730429,21,F,East,Heart Disease,Surgery,2023-10-22,2023-11-17,26,True,1,0,Public,3
+821414,21,F,East,Anxiety,Physical Therapy,2024-06-17,2024-07-07,20,True,9,3,None,3
+694022,58,M,West,Heart Disease,Lifestyle Changes,2024-02-02,2024-02-05,3,True,5,1,None,0
+510311,58,M,West,Anxiety,Combined Therapy,2024-06-08,2024-06-17,9,True,1,2,None,4
+199122,60,M,East,Lower Back Pain,Physical Therapy,2023-03-28,2023-04-27,30,True,8,1,Public,3
+228275,75,F,North,Asthma,Medication,2023-07-16,2023-07-31,15,True,5,2,Private,3
+607314,85,M,South,Heart Disease,Combined Therapy,2023-01-12,2023-02-01,20,True,2,3,Private,2
+568532,85,M,South,Type 2 Diabetes,Lifestyle Changes,2024-06-21,2024-07-01,10,True,8,1,Private,0
+784309,61,F,East,Lower Back Pain,Lifestyle Changes,2023-01-14,2023-02-03,20,True,7,1,Public,2
+59942,61,F,East,Arthritis,Combined Therapy,2023-07-29,2023-08-18,20,True,3,3,Private,4
+612554,36,M,North,Hypertension,Lifestyle Changes,2023-01-05,2023-01-20,15,True,7,2,Private,4
+527276,85,M,West,Anxiety,Surgery,2023-12-03,2023-12-27,24,False,10,3,Public,5
+894141,36,M,West,Type 2 Diabetes,Surgery,2024-11-11,2024-11-23,12,True,6,0,Public,4
+165080,36,M,West,Hypertension,Lifestyle Changes,2024-01-14,2024-01-30,16,True,9,1,Private,3
+532496,36,M,West,Arthritis,Medication,2023-01-11,2023-01-18,7,True,6,2,Public,1
+892697,31,M,South,Hypertension,Surgery,2023-01-29,2023-02-05,7,True,5,2,None,5
+71849,31,M,South,Anxiety,Combined Therapy,2023-04-21,2023-04-22,1,True,8,3,None,0
+71262,31,M,South,Obesity,Combined Therapy,2024-03-04,2024-03-06,2,True,1,0,Public,2
+903682,66,F,East,Anxiety,Combined Therapy,2024-05-05,2024-06-03,29,True,1,1,Private,5
+423389,66,F,East,Asthma,Surgery,2023-05-29,2023-06-08,10,True,6,0,Public,0
+987335,60,F,South,COPD,Counseling,2023-03-01,2023-03-19,18,True,1,2,Private,0
+597347,60,F,South,Type 2 Diabetes,Physical Therapy,2024-10-19,2024-11-10,22,False,4,1,None,5
+607040,60,F,South,Arthritis,Medication,2023-06-07,2023-06-27,20,True,1,2,Private,1
+41672,23,F,South,Depression,Lifestyle Changes,2024-03-03,2024-03-18,15,True,4,1,Private,2
+85965,23,F,South,Lower Back Pain,Lifestyle Changes,2024-03-23,2024-04-01,9,True,5,3,Private,2
+689305,41,F,Central,Arthritis,Surgery,2023-10-19,2023-11-15,27,True,6,0,None,2
+592683,46,M,East,Anxiety,Combined Therapy,2024-02-24,2024-03-09,14,True,5,3,None,2
+331737,46,M,East,COPD,Physical Therapy,2024-01-08,2024-01-29,21,True,9,3,Private,3
+273432,43,F,East,COPD,Medication,2024-11-23,2024-11-27,4,True,3,2,Public,2
+702258,43,F,East,Asthma,Surgery,2023-05-05,2023-05-19,14,True,6,3,Public,3
+329445,43,F,East,Type 2 Diabetes,Counseling,2024-06-06,2024-06-21,15,True,9,3,Private,5
+278517,56,F,East,Type 2 Diabetes,Combined Therapy,2023-06-01,2023-06-20,19,True,9,0,Public,2
+137235,24,M,North,COPD,Lifestyle Changes,2023-10-01,2023-10-23,22,False,4,2,Public,0
+676856,24,M,North,Lower Back Pain,Medication,2024-05-02,2024-05-19,17,True,6,0,Private,3
+479434,24,M,North,Obesity,Medication,2023-07-19,2023-07-31,12,True,4,1,Public,5
+974146,37,F,South,Type 2 Diabetes,Lifestyle Changes,2023-07-31,2023-08-22,22,False,5,0,None,4
+981188,37,F,South,Asthma,Lifestyle Changes,2024-07-03,2024-07-23,20,True,7,3,None,3
+9767,33,F,North,Hypertension,Counseling,2023-01-23,2023-02-16,24,False,5,3,None,2
+651332,63,F,South,Obesity,Physical Therapy,2023-11-18,2023-11-24,6,True,2,3,None,3
+104837,49,M,Central,Obesity,Counseling,2024-02-08,2024-02-09,1,False,7,3,None,5
+563750,49,M,Central,Lower Back Pain,Surgery,2023-01-23,2023-02-20,28,False,5,0,Private,3
+530458,49,M,Central,Anxiety,Lifestyle Changes,2023-05-12,2023-05-31,19,True,8,3,Public,0
+138890,33,M,South,Asthma,Physical Therapy,2023-06-21,2023-07-06,15,False,7,2,None,1
+365962,75,F,East,Depression,Physical Therapy,2024-11-21,2024-12-06,15,False,6,1,Private,5
+72132,22,M,North,Depression,Physical Therapy,2024-10-12,2024-10-28,16,True,4,0,Private,2
+256150,22,M,North,Anxiety,Medication,2024-10-10,2024-10-24,14,True,8,1,None,4
+298830,22,M,North,Type 2 Diabetes,Medication,2023-09-11,2023-09-24,13,True,10,3,Public,0
+459469,61,F,South,Hypertension,Surgery,2023-03-30,2023-04-27,28,True,3,0,Private,1
+569605,61,F,South,Depression,Combined Therapy,2024-09-05,2024-09-07,2,False,9,1,Public,1
+317212,75,F,North,Heart Disease,Combined Therapy,2024-05-27,2024-06-03,7,False,6,2,Private,2
+846305,75,F,North,Arthritis,Lifestyle Changes,2024-03-17,2024-03-24,7,True,6,1,None,1
+554634,20,F,South,Depression,Counseling,2024-04-18,2024-04-21,3,True,8,2,Private,3
+700305,20,F,South,COPD,Combined Therapy,2022-12-04,2022-12-20,16,True,2,1,Private,2
+581542,58,F,Central,Type 2 Diabetes,Medication,2024-08-23,2024-09-01,9,True,5,1,None,2
+977017,58,F,Central,Arthritis,Medication,2023-07-18,2023-08-01,14,True,10,0,None,4
+108618,58,F,Central,Heart Disease,Combined Therapy,2024-04-26,2024-05-24,28,True,1,1,None,3
+920782,57,M,East,COPD,Medication,2024-11-26,2024-12-14,18,True,5,3,Public,0
+277312,57,M,East,Arthritis,Counseling,2023-03-12,2023-03-23,11,True,6,2,Public,5
+932931,57,M,East,Anxiety,Physical Therapy,2023-02-25,2023-03-12,15,True,1,3,Public,1
+778480,62,F,South,Asthma,Counseling,2023-02-19,2023-03-12,21,False,4,2,None,5
+162998,62,F,South,COPD,Counseling,2024-01-31,2024-02-26,26,False,5,1,None,1
+295442,62,F,South,Heart Disease,Physical Therapy,2023-06-27,2023-07-24,27,False,8,0,None,1
+220861,68,F,West,Type 2 Diabetes,Combined Therapy,2024-03-11,2024-03-21,10,True,8,3,None,1
+359536,68,F,West,COPD,Physical Therapy,2024-06-07,2024-06-30,23,True,3,1,Public,4
+720892,68,F,West,Depression,Combined Therapy,2023-05-05,2023-06-04,30,False,4,3,Public,5
+894343,73,M,West,Lower Back Pain,Medication,2024-04-03,2024-04-08,5,True,9,0,Public,3
+529959,73,M,West,Hypertension,Combined Therapy,2023-06-21,2023-07-10,19,False,7,1,Private,3
+263319,33,M,North,Heart Disease,Physical Therapy,2023-12-12,2023-12-25,13,True,8,0,Private,1
+952273,33,M,North,Anxiety,Medication,2024-10-31,2024-11-10,10,True,5,2,Private,4
+53266,33,M,North,Obesity,Combined Therapy,2024-09-15,2024-09-30,15,True,7,3,Private,4
+665095,43,M,West,Depression,Physical Therapy,2023-02-07,2023-02-21,14,True,6,2,Public,1
+869634,43,M,West,Lower Back Pain,Lifestyle Changes,2023-10-23,2023-11-18,26,True,1,2,Private,2
+46228,43,M,West,Asthma,Medication,2023-06-30,2023-07-12,12,False,9,0,Private,0
+349759,70,F,East,Depression,Physical Therapy,2022-11-30,2022-12-28,28,True,8,0,Public,5
+137174,73,F,Central,Type 2 Diabetes,Surgery,2024-07-18,2024-08-08,21,True,7,0,Public,2
+274680,55,M,South,Asthma,Surgery,2024-04-05,2024-05-01,26,True,4,3,None,1
+777236,55,M,South,Obesity,Combined Therapy,2023-04-02,2023-04-26,24,True,10,0,Private,1
+578478,29,M,Central,COPD,Surgery,2023-11-06,2023-11-18,12,False,7,0,None,1
+448462,38,F,South,Hypertension,Counseling,2024-05-29,2024-06-07,9,True,5,3,None,3
+10139,38,F,South,Obesity,Physical Therapy,2024-02-06,2024-03-06,29,True,1,1,Private,1
+78898,47,F,West,Type 2 Diabetes,Physical Therapy,2023-02-22,2023-02-28,6,False,5,0,None,2
+724586,47,F,West,Asthma,Combined Therapy,2024-10-13,2024-10-24,11,True,1,2,Private,0
+156294,47,F,West,Anxiety,Physical Therapy,2024-10-30,2024-11-29,30,False,10,1,Public,4
+37778,55,F,North,Obesity,Lifestyle Changes,2024-01-25,2024-01-31,6,True,3,1,Public,3
+387151,55,F,North,Hypertension,Counseling,2024-09-06,2024-09-27,21,True,9,0,Private,4
+579364,39,F,North,Arthritis,Medication,2024-02-23,2024-03-10,16,False,4,0,Public,3
+450664,39,F,North,COPD,Combined Therapy,2023-03-23,2023-04-17,25,False,9,1,Private,1
+43860,39,F,North,Type 2 Diabetes,Lifestyle Changes,2023-03-06,2023-03-13,7,False,7,2,None,2
+382364,52,F,West,Heart Disease,Surgery,2023-07-25,2023-08-11,17,True,3,3,Public,2
+978413,52,F,West,Asthma,Counseling,2024-10-26,2024-11-06,11,False,1,2,Private,0
+902512,64,M,South,Type 2 Diabetes,Medication,2024-08-07,2024-09-02,26,True,2,1,None,1
+942590,64,M,South,Hypertension,Physical Therapy,2022-12-28,2023-01-04,7,True,9,1,Private,2
+220281,64,M,South,COPD,Combined Therapy,2023-09-01,2023-09-03,2,True,10,2,None,5
+261650,71,M,West,Asthma,Combined Therapy,2024-05-10,2024-06-09,30,True,8,1,Public,4
+107786,71,M,West,Type 2 Diabetes,Counseling,2024-04-29,2024-05-05,6,False,2,1,Public,5
+818011,83,F,West,Asthma,Counseling,2023-08-29,2023-09-04,6,False,3,0,Public,5
+927082,83,F,West,Type 2 Diabetes,Physical Therapy,2024-02-05,2024-02-23,18,False,10,1,Private,3
+426117,61,F,East,Lower Back Pain,Surgery,2024-10-07,2024-10-12,5,True,4,1,None,2
+785884,61,F,East,Hypertension,Physical Therapy,2024-03-24,2024-04-01,8,True,4,3,Private,3
+970733,61,F,East,Heart Disease,Lifestyle Changes,2023-03-28,2023-03-31,3,True,10,3,Private,2
+248237,49,F,South,Hypertension,Physical Therapy,2024-11-19,2024-11-29,10,False,8,3,Public,1
+170395,64,M,Central,Depression,Counseling,2024-09-29,2024-10-12,13,False,8,1,None,0
+850155,55,F,South,Arthritis,Counseling,2024-08-10,2024-08-29,19,True,5,1,Public,0
+924231,69,M,North,Anxiety,Physical Therapy,2023-04-14,2023-04-30,16,False,5,3,Private,5
+25990,19,M,North,Heart Disease,Counseling,2023-10-14,2023-11-10,27,True,2,1,Public,3
+772343,56,M,East,COPD,Medication,2023-04-16,2023-05-05,19,True,2,2,Private,2
+348321,56,M,East,Anxiety,Surgery,2024-11-15,2024-11-22,7,True,4,0,Private,1
+976031,22,M,West,Heart Disease,Lifestyle Changes,2024-07-27,2024-08-08,12,False,10,3,Public,2
+841204,22,M,West,Lower Back Pain,Surgery,2023-10-13,2023-11-01,19,True,9,0,None,3
+906036,24,M,North,Hypertension,Combined Therapy,2024-05-01,2024-05-07,6,True,9,2,None,3
+850132,24,M,North,Obesity,Physical Therapy,2024-06-20,2024-06-27,7,True,8,1,None,2
+279766,76,F,Central,Anxiety,Combined Therapy,2023-06-08,2023-06-14,6,True,10,1,None,2
+825622,76,F,Central,Heart Disease,Lifestyle Changes,2023-03-31,2023-04-06,6,False,6,1,Public,0
+113346,46,F,North,Arthritis,Medication,2024-05-25,2024-05-28,3,True,8,0,Public,2
+914533,58,F,Central,Type 2 Diabetes,Counseling,2023-09-21,2023-10-17,26,True,3,3,Public,5
+900300,58,F,Central,Obesity,Surgery,2022-12-28,2023-01-11,14,True,5,3,None,2
+233238,58,F,Central,Heart Disease,Counseling,2023-11-28,2023-12-27,29,True,10,1,None,5
+856253,73,M,West,Asthma,Medication,2023-05-02,2023-05-05,3,True,7,1,Private,0
+482662,73,M,West,Type 2 Diabetes,Counseling,2024-11-10,2024-11-26,16,False,3,1,Private,4
+320015,69,F,East,Hypertension,Medication,2023-08-26,2023-09-22,27,True,1,1,Private,4
+833980,69,F,East,Asthma,Medication,2024-08-26,2024-08-31,5,False,10,2,Public,0
+238651,21,M,Central,Hypertension,Lifestyle Changes,2024-10-04,2024-10-28,24,True,2,1,Public,2
+24813,21,M,Central,Heart Disease,Counseling,2023-05-20,2023-05-31,11,False,9,2,Public,5
+202511,21,M,Central,Type 2 Diabetes,Combined Therapy,2024-04-23,2024-05-04,11,True,2,3,Public,4
+344207,80,F,North,Asthma,Surgery,2023-10-03,2023-10-19,16,False,1,0,None,1
+906339,80,F,North,Hypertension,Medication,2023-07-02,2023-07-23,21,True,5,1,Public,4
+810891,80,F,North,COPD,Physical Therapy,2023-01-20,2023-02-16,27,True,9,0,Private,0
+368203,33,F,Central,Obesity,Surgery,2023-07-02,2023-07-24,22,True,5,1,Public,3
+534150,33,F,Central,Depression,Combined Therapy,2024-04-09,2024-04-30,21,True,7,3,Private,3
+712526,39,M,West,Hypertension,Surgery,2023-10-04,2023-11-02,29,True,8,3,Public,4
+562262,36,M,East,Arthritis,Lifestyle Changes,2024-09-13,2024-10-05,22,True,10,0,None,5
+984861,36,M,East,Asthma,Lifestyle Changes,2023-08-12,2023-09-07,26,True,5,2,Private,5
+120944,34,F,North,Lower Back Pain,Combined Therapy,2022-12-19,2022-12-29,10,True,6,3,Public,3
+273903,34,F,North,Type 2 Diabetes,Combined Therapy,2024-10-09,2024-10-20,11,True,3,1,Private,3
+608792,73,F,West,Heart Disease,Lifestyle Changes,2023-04-15,2023-04-17,2,True,9,2,None,4
+40115,73,F,West,Depression,Surgery,2023-06-22,2023-07-01,9,True,7,3,Public,0
+625550,73,F,West,Obesity,Medication,2023-02-20,2023-03-05,13,False,7,2,None,3
+362479,79,F,North,Obesity,Lifestyle Changes,2023-10-31,2023-11-19,19,False,10,3,None,4
+824629,79,F,North,Anxiety,Lifestyle Changes,2024-06-15,2024-07-04,19,False,1,3,Public,2
+457592,79,F,North,Arthritis,Lifestyle Changes,2023-07-29,2023-08-04,6,True,9,2,None,1
+536265,20,F,North,Asthma,Physical Therapy,2024-03-12,2024-03-31,19,True,4,0,Public,0
+403906,20,F,North,COPD,Medication,2023-02-25,2023-03-14,17,True,8,0,None,3
+604596,20,F,North,Obesity,Combined Therapy,2024-10-26,2024-11-25,30,True,10,2,None,0
+267095,18,F,Central,Asthma,Lifestyle Changes,2023-04-24,2023-05-14,20,True,2,2,Private,2
+743215,83,F,North,Hypertension,Physical Therapy,2023-01-01,2023-01-14,13,True,2,1,None,5
+1773,83,F,North,Anxiety,Counseling,2023-11-01,2023-11-05,4,True,7,3,Public,1
+970535,83,F,North,Heart Disease,Combined Therapy,2024-01-05,2024-01-16,11,False,1,0,Public,0
+564607,18,F,Central,Type 2 Diabetes,Surgery,2024-08-15,2024-08-22,7,True,8,0,Private,1
+754377,18,F,Central,COPD,Lifestyle Changes,2024-05-14,2024-05-15,1,False,3,2,None,2
+777991,18,F,Central,Depression,Lifestyle Changes,2024-11-27,2024-12-12,15,True,4,1,None,0
+703204,85,M,North,Lower Back Pain,Surgery,2024-06-22,2024-07-15,23,False,2,0,None,5
+381913,85,M,North,Heart Disease,Lifestyle Changes,2023-04-30,2023-05-09,9,True,4,3,Private,1
+73372,85,M,North,Arthritis,Combined Therapy,2023-10-28,2023-11-16,19,False,8,2,None,4
+965498,47,M,South,Lower Back Pain,Surgery,2024-04-26,2024-05-03,7,True,1,2,Public,2
+653425,47,M,South,Arthritis,Counseling,2023-08-11,2023-08-18,7,False,8,1,Public,2
+695612,80,F,West,Asthma,Lifestyle Changes,2023-07-29,2023-08-23,25,False,8,1,None,0
+130679,29,M,East,Anxiety,Counseling,2024-09-16,2024-09-25,9,True,9,0,None,3
+943767,29,M,East,Hypertension,Combined Therapy,2024-06-09,2024-06-10,1,True,3,3,Public,1
+531756,29,M,East,Heart Disease,Physical Therapy,2023-07-19,2023-07-24,5,True,8,2,None,1
+699287,20,F,West,COPD,Medication,2023-07-26,2023-08-09,14,True,7,0,None,4
+342027,20,F,West,Hypertension,Surgery,2023-10-11,2023-11-07,27,True,10,0,Private,0
+731076,35,M,North,Obesity,Medication,2023-10-06,2023-10-28,22,True,4,3,None,2
+581343,35,M,North,Type 2 Diabetes,Counseling,2023-07-15,2023-08-08,24,False,10,2,None,2
+201158,35,M,North,Heart Disease,Physical Therapy,2023-03-06,2023-04-05,30,True,9,2,None,1
+697229,42,F,Central,Obesity,Lifestyle Changes,2023-10-20,2023-11-13,24,False,5,3,Private,1
+397562,42,F,Central,COPD,Lifestyle Changes,2024-11-27,2024-12-17,20,True,6,2,None,0
+784475,72,F,Central,Depression,Medication,2024-05-07,2024-05-13,6,False,1,1,Private,2
+182480,72,F,Central,Arthritis,Counseling,2024-10-29,2024-11-27,29,False,8,3,Private,1
+596750,72,F,Central,Asthma,Medication,2024-03-20,2024-04-09,20,True,1,3,Public,0
+425800,77,F,Central,Lower Back Pain,Counseling,2023-07-19,2023-08-18,30,True,10,0,Public,3
+874224,77,F,Central,Obesity,Surgery,2024-01-27,2024-02-07,11,True,1,0,Private,4
+318635,77,F,Central,Asthma,Combined Therapy,2022-11-28,2022-12-01,3,True,3,2,Private,3
+220392,21,M,North,COPD,Combined Therapy,2023-07-08,2023-07-13,5,True,1,2,None,2
+823927,74,F,West,Type 2 Diabetes,Combined Therapy,2023-10-27,2023-11-20,24,False,10,3,Private,3
+636130,74,F,West,Heart Disease,Combined Therapy,2024-02-21,2024-02-26,5,True,10,1,Private,2
+337902,27,M,East,Arthritis,Combined Therapy,2024-04-19,2024-05-15,26,True,1,0,Private,3
+463246,24,F,West,COPD,Surgery,2023-11-24,2023-11-26,2,True,4,2,Private,0
+708446,24,F,West,Heart Disease,Surgery,2023-11-06,2023-11-15,9,True,6,0,Public,2
+536004,24,F,West,Asthma,Medication,2023-05-12,2023-06-08,27,True,10,0,Public,2
+832291,81,F,North,Anxiety,Medication,2023-11-30,2023-12-05,5,True,6,1,Public,1
+834692,81,F,North,COPD,Counseling,2024-10-27,2024-11-24,28,False,4,2,Public,4
+177934,25,M,West,Lower Back Pain,Surgery,2024-06-21,2024-07-09,18,True,6,0,Private,1
+88914,54,F,North,Obesity,Counseling,2024-04-22,2024-05-04,12,False,1,1,None,3
+540490,59,M,West,Depression,Medication,2023-07-06,2023-08-03,28,True,6,2,Private,2
+663686,59,M,West,Hypertension,Medication,2024-04-26,2024-05-01,5,True,10,0,None,5
+351470,38,F,East,Obesity,Physical Therapy,2024-03-22,2024-03-30,8,True,5,3,Public,3
+858179,38,F,East,Hypertension,Lifestyle Changes,2023-02-08,2023-02-11,3,True,7,2,None,4
+246277,38,F,East,Type 2 Diabetes,Medication,2024-07-03,2024-07-16,13,True,4,2,Public,1
+325498,19,M,North,Anxiety,Counseling,2024-05-03,2024-05-15,12,True,1,3,None,0
+845742,19,M,North,Type 2 Diabetes,Combined Therapy,2023-05-21,2023-06-01,11,False,5,1,None,5
+154511,19,M,North,Hypertension,Counseling,2023-05-01,2023-05-23,22,True,1,1,Public,4
+48458,37,F,North,Asthma,Physical Therapy,2022-12-16,2022-12-18,2,True,8,1,Private,4
+498216,37,F,North,Heart Disease,Lifestyle Changes,2023-06-06,2023-06-14,8,True,4,2,Public,2
+891014,37,F,North,Obesity,Counseling,2024-03-16,2024-04-11,26,True,8,3,Public,3
+76365,75,F,East,Depression,Counseling,2024-07-16,2024-08-14,29,False,10,3,Public,3
+434572,75,F,East,Heart Disease,Surgery,2023-11-16,2023-12-07,21,False,4,3,Public,4
+660356,75,F,East,COPD,Physical Therapy,2024-10-16,2024-10-25,9,True,6,3,Private,0
+203880,60,M,West,Asthma,Lifestyle Changes,2024-02-18,2024-03-16,27,True,8,1,Public,4
+730180,60,M,West,Lower Back Pain,Combined Therapy,2024-06-07,2024-06-12,5,True,7,2,None,4
+518392,60,M,West,Depression,Physical Therapy,2023-09-22,2023-10-13,21,True,6,0,Public,5
+255836,45,M,West,Depression,Surgery,2023-10-04,2023-10-16,12,True,4,2,Private,1
+687926,45,M,West,Heart Disease,Lifestyle Changes,2023-03-22,2023-04-14,23,True,4,3,None,0
+5814,45,M,West,Type 2 Diabetes,Physical Therapy,2024-05-15,2024-06-10,26,False,9,1,Public,1
+787443,46,F,East,Lower Back Pain,Medication,2024-10-21,2024-10-28,7,True,4,1,Private,0
+807451,69,F,Central,Asthma,Surgery,2024-09-26,2024-10-25,29,False,3,2,Public,3
+111764,69,F,Central,Heart Disease,Surgery,2024-10-15,2024-10-29,14,True,5,2,None,4
+445798,70,F,East,Type 2 Diabetes,Lifestyle Changes,2024-07-24,2024-08-04,11,True,1,1,Public,5
+184430,29,F,West,Hypertension,Counseling,2023-05-16,2023-06-01,16,True,8,1,Private,1
+729716,29,F,West,Obesity,Counseling,2024-08-13,2024-08-26,13,True,6,1,None,1
+487115,29,F,West,Heart Disease,Physical Therapy,2024-01-04,2024-01-08,4,False,2,0,None,1
+584482,23,M,East,Depression,Combined Therapy,2023-01-06,2023-02-04,29,False,2,2,None,2
+962037,23,M,East,Hypertension,Medication,2023-06-09,2023-07-06,27,True,7,1,Public,0
+127253,50,F,West,Obesity,Physical Therapy,2024-09-16,2024-09-22,6,False,6,2,None,5
+139816,50,F,West,Lower Back Pain,Physical Therapy,2023-11-17,2023-12-09,22,True,3,2,None,5
+487213,50,F,West,Hypertension,Surgery,2024-08-11,2024-09-09,29,True,5,0,None,5
+556932,66,M,South,Obesity,Counseling,2024-04-29,2024-05-12,13,True,4,3,Public,0
+624377,66,M,South,Hypertension,Surgery,2024-02-05,2024-02-14,9,False,3,3,Private,3
+996188,42,F,Central,Hypertension,Medication,2023-08-01,2023-08-02,1,True,4,3,Private,2
+934727,42,F,Central,Arthritis,Medication,2024-07-06,2024-07-22,16,True,10,3,Public,4
+642412,41,F,Central,Arthritis,Physical Therapy,2023-11-06,2023-11-26,20,True,10,3,Public,0
+754213,41,F,Central,Obesity,Physical Therapy,2024-08-22,2024-09-06,15,True,10,0,None,5
+529298,41,F,Central,Hypertension,Lifestyle Changes,2024-10-20,2024-11-14,25,True,7,3,None,3
+870914,44,M,West,Lower Back Pain,Physical Therapy,2023-10-25,2023-11-04,10,True,2,1,Private,0
+574485,79,F,East,Obesity,Lifestyle Changes,2024-11-01,2024-11-10,9,False,3,1,None,3
+940790,79,F,East,Asthma,Surgery,2023-11-09,2023-12-04,25,True,9,3,Private,3
+779779,79,F,East,Depression,Lifestyle Changes,2023-03-31,2023-04-04,4,False,8,0,Private,0
+497732,27,M,West,Type 2 Diabetes,Combined Therapy,2024-09-27,2024-10-16,19,True,3,0,Public,5
+271782,68,M,Central,Obesity,Counseling,2023-11-12,2023-12-04,22,True,2,0,Public,0
+259249,68,M,Central,Depression,Physical Therapy,2024-07-03,2024-07-29,26,False,8,3,Private,0
+668636,68,M,Central,Type 2 Diabetes,Physical Therapy,2024-09-10,2024-09-24,14,True,10,1,Private,3
+803013,32,M,Central,COPD,Physical Therapy,2023-07-01,2023-07-13,12,True,8,0,Public,4
+546622,32,M,Central,Heart Disease,Physical Therapy,2024-07-24,2024-08-04,11,True,6,0,Private,2
+657193,44,F,North,Asthma,Counseling,2023-12-09,2023-12-28,19,False,7,1,Public,4
+287936,44,F,North,Type 2 Diabetes,Combined Therapy,2023-06-01,2023-06-28,27,False,1,2,Public,2
+81247,24,F,North,Anxiety,Surgery,2023-11-04,2023-11-07,3,True,6,2,Private,1
+299607,24,F,North,Lower Back Pain,Medication,2024-06-04,2024-07-01,27,True,6,1,None,1
+284913,24,F,North,Arthritis,Surgery,2023-05-29,2023-06-09,11,True,9,2,None,5
+335239,84,F,Central,Depression,Physical Therapy,2023-08-15,2023-09-06,22,False,10,2,Public,1
+566390,84,F,Central,Lower Back Pain,Medication,2024-10-21,2024-11-04,14,True,10,3,Public,5
+145095,35,M,Central,Obesity,Surgery,2023-01-29,2023-02-12,14,False,7,0,None,1
+242495,35,M,Central,Heart Disease,Physical Therapy,2023-03-25,2023-04-03,9,True,1,1,Private,4
+727659,35,M,Central,Asthma,Physical Therapy,2023-09-21,2023-10-20,29,True,9,2,Private,0
+740734,78,F,West,Asthma,Counseling,2023-03-26,2023-04-08,13,True,4,0,Private,2
+67348,78,F,West,COPD,Combined Therapy,2023-05-13,2023-05-16,3,True,8,3,Private,3
+427398,55,F,North,Anxiety,Lifestyle Changes,2023-10-16,2023-11-03,18,True,6,2,Private,1
+568969,55,F,North,COPD,Counseling,2023-08-12,2023-08-17,5,True,4,3,None,5
+435970,21,F,West,Obesity,Surgery,2023-11-24,2023-12-21,27,True,7,2,Private,0
+216881,49,F,Central,Arthritis,Counseling,2023-01-15,2023-02-14,30,False,8,1,Public,5
+440552,49,F,Central,Type 2 Diabetes,Counseling,2024-09-04,2024-09-09,5,True,3,3,Private,2
+948791,49,F,Central,Obesity,Combined Therapy,2023-09-26,2023-10-01,5,True,2,1,Public,0
+612451,58,F,Central,COPD,Lifestyle Changes,2024-07-17,2024-08-03,17,True,7,0,Public,4
+20480,29,M,North,Anxiety,Medication,2024-05-21,2024-06-13,23,True,6,3,Public,1
+923435,19,F,North,COPD,Medication,2024-09-23,2024-09-28,5,True,7,3,Private,5
+603655,74,M,West,Obesity,Combined Therapy,2024-07-14,2024-08-07,24,True,10,2,Public,1
+500149,78,M,West,Heart Disease,Counseling,2023-09-19,2023-10-13,24,False,4,0,Private,2
+988536,78,M,West,Asthma,Medication,2022-12-02,2023-01-01,30,False,7,0,Public,2
+313118,78,M,West,COPD,Medication,2023-08-28,2023-09-25,28,True,3,1,Public,1
+408930,57,F,Central,Hypertension,Lifestyle Changes,2024-07-05,2024-07-18,13,True,8,3,Public,1
+934953,57,F,Central,Obesity,Surgery,2024-09-20,2024-10-01,11,False,1,2,Public,5
+439375,57,F,Central,COPD,Combined Therapy,2024-09-07,2024-09-13,6,True,4,1,None,0
+783826,39,M,East,Arthritis,Counseling,2024-01-20,2024-02-15,26,True,1,2,None,1
+572661,39,M,East,Lower Back Pain,Lifestyle Changes,2024-06-20,2024-07-10,20,False,6,2,Private,3
+632556,39,M,East,Type 2 Diabetes,Counseling,2024-08-10,2024-08-15,5,True,5,2,None,2
+231251,39,M,West,Depression,Lifestyle Changes,2024-10-25,2024-11-16,22,False,10,3,None,1
+230080,42,F,South,COPD,Surgery,2023-12-12,2024-01-01,20,True,8,2,Public,4
+457007,42,F,South,Depression,Medication,2023-06-27,2023-07-07,10,False,6,0,None,5
+30434,42,F,South,Hypertension,Counseling,2023-12-10,2023-12-13,3,True,3,1,Public,2
+352457,26,M,East,Depression,Lifestyle Changes,2023-09-26,2023-10-15,19,False,5,1,Public,5
+712131,26,M,East,Asthma,Combined Therapy,2024-04-30,2024-05-05,5,True,5,1,Private,5
+423956,56,M,West,COPD,Lifestyle Changes,2024-08-08,2024-09-05,28,False,2,0,Private,3
+173061,56,M,West,Lower Back Pain,Surgery,2024-06-12,2024-06-26,14,True,7,2,None,3
+490094,56,M,West,Type 2 Diabetes,Surgery,2024-09-10,2024-10-05,25,True,1,1,Private,3
+133827,65,F,West,Heart Disease,Surgery,2024-11-11,2024-12-07,26,False,5,3,Public,2
+560069,65,F,West,COPD,Lifestyle Changes,2024-03-25,2024-04-16,22,False,2,3,Public,1
+950983,55,M,North,Anxiety,Medication,2022-12-18,2022-12-27,9,False,4,1,Private,5
+620644,55,M,North,Obesity,Combined Therapy,2023-09-30,2023-10-06,6,True,3,3,Private,3
+695205,55,M,North,Depression,Surgery,2024-02-09,2024-03-10,30,False,3,1,Public,5
+88025,44,F,West,Type 2 Diabetes,Physical Therapy,2022-12-19,2022-12-30,11,True,4,0,None,5
+449433,44,F,West,Anxiety,Counseling,2024-04-10,2024-04-23,13,True,8,3,Private,3
+908959,44,F,West,Anxiety,Surgery,2023-03-13,2023-03-30,17,True,9,0,Public,2
+190556,44,F,West,Obesity,Lifestyle Changes,2023-11-21,2023-11-25,4,True,7,2,Public,2
+272793,69,F,South,Obesity,Lifestyle Changes,2023-01-06,2023-01-30,24,False,6,0,None,1
+343254,69,F,South,Type 2 Diabetes,Combined Therapy,2023-09-18,2023-09-22,4,True,10,3,Public,2
+476786,49,F,South,Depression,Surgery,2023-05-11,2023-05-15,4,False,8,3,Private,5
+353894,49,F,South,COPD,Combined Therapy,2023-08-08,2023-08-12,4,True,8,0,Public,1
+922369,49,F,South,Lower Back Pain,Physical Therapy,2024-07-11,2024-07-13,2,False,7,1,Public,4
+291773,68,M,North,Lower Back Pain,Counseling,2023-09-18,2023-10-08,20,False,2,0,None,3
+997409,68,M,North,Hypertension,Counseling,2024-07-04,2024-07-05,1,True,7,3,None,5
+442042,68,M,North,Obesity,Counseling,2024-09-04,2024-09-28,24,False,2,1,Private,2
+875467,64,M,South,Anxiety,Counseling,2023-06-11,2023-07-05,24,True,9,0,Private,5
+493152,64,M,South,Asthma,Counseling,2023-01-30,2023-02-09,10,True,6,3,Public,1
+785408,64,M,South,Heart Disease,Combined Therapy,2022-12-13,2023-01-06,24,True,8,0,Public,0
+54615,48,M,North,Asthma,Lifestyle Changes,2024-01-20,2024-02-16,27,True,9,2,Public,4
+235113,48,M,North,Type 2 Diabetes,Surgery,2023-08-26,2023-09-06,11,False,1,0,None,1
+71951,46,F,South,Arthritis,Surgery,2024-04-15,2024-05-14,29,False,3,0,Public,2
+683414,31,F,South,Heart Disease,Physical Therapy,2024-07-26,2024-08-12,17,False,3,2,None,2
+790870,31,F,South,Asthma,Medication,2022-12-29,2023-01-23,25,False,4,2,Private,3
+995740,31,F,South,Type 2 Diabetes,Medication,2022-12-22,2023-01-17,26,True,4,1,None,1
+209044,35,M,South,Hypertension,Combined Therapy,2023-06-08,2023-07-06,28,True,2,3,None,3
+21369,35,M,South,Type 2 Diabetes,Medication,2024-09-09,2024-09-20,11,True,5,1,None,3
+159784,77,M,Central,Obesity,Lifestyle Changes,2024-03-24,2024-04-09,16,True,3,0,None,1
+132352,77,M,Central,COPD,Medication,2023-06-01,2023-06-24,23,False,3,3,None,4
+701978,23,F,Central,Obesity,Counseling,2023-11-30,2023-12-17,17,True,2,1,Private,2
+591364,23,F,Central,Depression,Combined Therapy,2023-02-24,2023-03-02,6,True,1,1,Public,1
+487623,23,F,Central,Heart Disease,Lifestyle Changes,2023-05-16,2023-06-10,25,False,2,2,None,2
+268690,21,F,Central,Depression,Surgery,2024-05-24,2024-05-28,4,True,9,1,Public,0
+386814,64,M,Central,Lower Back Pain,Counseling,2024-07-15,2024-08-12,28,True,2,3,None,3
+635324,64,M,Central,Hypertension,Medication,2023-04-07,2023-05-03,26,False,5,0,Public,3
+784256,46,F,Central,Type 2 Diabetes,Counseling,2024-03-13,2024-03-22,9,True,1,3,Private,4
+120096,18,F,East,COPD,Surgery,2024-06-07,2024-06-16,9,True,5,1,Private,1
+859099,53,F,North,Arthritis,Lifestyle Changes,2024-07-24,2024-08-02,9,True,8,2,Public,4
+326147,53,F,North,COPD,Counseling,2023-04-04,2023-04-07,3,True,9,0,Private,1
+606794,50,M,North,Depression,Physical Therapy,2023-02-19,2023-03-09,18,False,2,2,None,5
+974008,50,M,North,Hypertension,Medication,2022-12-17,2023-01-09,23,True,9,2,Private,0
+603766,50,M,North,Anxiety,Lifestyle Changes,2023-07-28,2023-08-23,26,True,4,2,Public,3
+952134,20,M,West,COPD,Physical Therapy,2024-05-07,2024-05-17,10,True,2,1,Private,5
+415922,20,M,West,Depression,Combined Therapy,2023-09-15,2023-10-07,22,True,4,0,None,4
+207963,25,F,East,Asthma,Lifestyle Changes,2024-06-05,2024-06-12,7,False,3,1,Public,0
+620859,25,F,East,COPD,Medication,2023-01-26,2023-02-07,12,True,5,1,None,5
+870917,25,F,East,Lower Back Pain,Surgery,2024-05-17,2024-06-14,28,False,7,0,None,3
+254646,69,M,East,Heart Disease,Lifestyle Changes,2024-03-29,2024-04-04,6,True,1,0,None,5
+731059,69,M,East,Type 2 Diabetes,Physical Therapy,2023-02-15,2023-03-06,19,False,8,0,None,4
+316232,43,F,Central,Obesity,Combined Therapy,2024-07-20,2024-08-07,18,True,7,0,Private,1
+717497,43,F,Central,Asthma,Surgery,2024-09-18,2024-10-08,20,True,6,0,None,4
+844657,43,F,Central,COPD,Surgery,2024-03-08,2024-03-29,21,True,3,3,Private,1
+834904,66,M,East,Hypertension,Counseling,2023-03-02,2023-03-11,9,True,6,0,None,2
+820652,66,M,East,Arthritis,Medication,2024-02-10,2024-03-11,30,True,1,3,None,1
+364069,22,M,Central,Anxiety,Surgery,2022-12-29,2022-12-31,2,True,2,1,Public,2
+449186,22,M,Central,Asthma,Surgery,2024-01-15,2024-02-01,17,False,7,3,None,0
+388571,52,F,West,Anxiety,Surgery,2024-04-24,2024-05-15,21,True,8,0,Public,2
+530538,52,F,West,Depression,Surgery,2023-01-20,2023-02-06,17,True,3,0,Public,3
+357806,52,F,West,Heart Disease,Surgery,2024-04-13,2024-04-17,4,True,4,0,Private,3
+890844,64,F,Central,Heart Disease,Surgery,2022-12-07,2023-01-05,29,False,9,2,Public,2
+862276,74,M,West,Asthma,Counseling,2023-10-20,2023-10-28,8,False,1,2,None,5
+110665,74,M,West,Obesity,Lifestyle Changes,2023-12-13,2024-01-10,28,True,7,1,None,5
+379781,66,M,Central,Obesity,Physical Therapy,2023-10-30,2023-11-17,18,False,2,2,Private,5
+934884,66,M,Central,Arthritis,Counseling,2024-04-04,2024-04-15,11,True,2,3,Private,2
+482071,66,M,Central,Depression,Surgery,2024-09-01,2024-09-06,5,True,4,1,None,0
+160422,48,M,South,Asthma,Combined Therapy,2024-05-30,2024-06-18,19,True,8,3,None,3
+184692,48,M,North,Lower Back Pain,Physical Therapy,2023-11-01,2023-11-16,15,True,8,1,Public,3
+547091,48,M,North,Anxiety,Surgery,2024-06-19,2024-07-08,19,True,1,3,Private,3
+283201,48,M,North,Heart Disease,Surgery,2024-04-16,2024-05-02,16,False,7,3,None,3
+847458,44,M,North,Depression,Lifestyle Changes,2024-03-20,2024-04-03,14,True,4,0,Private,1
+564315,24,F,West,Lower Back Pain,Combined Therapy,2024-11-11,2024-12-04,23,False,5,2,Public,1
+506983,24,F,West,Asthma,Lifestyle Changes,2024-07-21,2024-08-17,27,False,4,2,None,5
+456732,24,F,West,COPD,Lifestyle Changes,2023-11-24,2023-11-26,2,False,4,1,Private,4
+766536,18,M,East,Asthma,Counseling,2024-08-30,2024-09-11,12,True,6,3,Private,3
+281433,21,F,West,Hypertension,Medication,2024-03-02,2024-03-07,5,True,9,2,None,2
+893085,21,F,West,Type 2 Diabetes,Physical Therapy,2023-08-05,2023-08-28,23,False,5,3,Public,2
+871084,45,F,West,Obesity,Medication,2023-06-06,2023-07-05,29,True,7,2,None,2
+90872,75,M,West,Type 2 Diabetes,Lifestyle Changes,2024-11-22,2024-12-03,11,True,8,2,None,4
+924457,75,M,West,Asthma,Physical Therapy,2023-07-02,2023-07-20,18,True,2,2,Private,3
+255709,81,M,North,COPD,Lifestyle Changes,2023-11-13,2023-12-01,18,False,8,3,Public,2
+487282,81,M,North,Lower Back Pain,Surgery,2024-07-02,2024-07-21,19,True,8,2,None,0
+639979,58,M,North,Type 2 Diabetes,Lifestyle Changes,2024-02-13,2024-02-20,7,False,7,0,Public,0
+397399,58,M,North,Hypertension,Surgery,2024-04-29,2024-05-09,10,False,6,2,None,0
+30094,27,M,West,Arthritis,Counseling,2023-08-16,2023-08-31,15,True,2,3,Public,3
+892288,27,M,West,Obesity,Surgery,2023-12-16,2024-01-07,22,True,1,1,None,2
+190672,27,M,West,Type 2 Diabetes,Counseling,2023-08-07,2023-08-25,18,False,5,2,None,4
+222423,42,M,West,Obesity,Combined Therapy,2023-12-11,2023-12-20,9,True,3,3,None,1
+836587,42,M,West,Heart Disease,Counseling,2023-08-30,2023-09-14,15,True,9,2,Public,3
+356871,31,M,East,Lower Back Pain,Surgery,2023-06-16,2023-07-07,21,False,1,2,None,3
+923082,31,M,East,Type 2 Diabetes,Surgery,2023-07-03,2023-07-08,5,True,1,1,Public,0
+735244,31,M,East,Anxiety,Combined Therapy,2024-03-05,2024-03-30,25,True,9,3,Public,3
+289688,52,M,North,Obesity,Physical Therapy,2024-10-11,2024-11-09,29,False,8,3,Private,4
+10644,52,M,North,Anxiety,Physical Therapy,2024-02-02,2024-02-25,23,True,1,3,None,4
+994115,52,M,North,Depression,Surgery,2024-01-03,2024-01-11,8,True,7,0,None,2
+89771,37,F,Central,Asthma,Medication,2023-04-25,2023-05-11,16,True,9,3,Public,2
+755053,37,F,Central,Type 2 Diabetes,Medication,2023-06-03,2023-06-19,16,False,2,0,Public,0
+512311,56,M,North,Hypertension,Medication,2023-10-09,2023-11-07,29,True,4,3,None,5
+794993,56,M,North,COPD,Lifestyle Changes,2024-02-02,2024-02-26,24,True,3,2,Private,3
+724156,56,M,North,Lower Back Pain,Counseling,2023-06-02,2023-06-10,8,True,2,1,None,1
+677278,31,M,Central,Depression,Medication,2023-12-02,2023-12-31,29,False,3,1,None,5
+514663,75,M,North,Type 2 Diabetes,Medication,2024-06-02,2024-06-10,8,True,8,0,Private,2
+831450,75,M,North,Obesity,Counseling,2023-11-11,2023-12-04,23,False,7,2,Public,1
+97573,35,F,West,Arthritis,Medication,2022-12-11,2023-01-02,22,True,10,2,Public,1
+232360,35,F,West,Lower Back Pain,Medication,2023-07-14,2023-07-17,3,False,3,1,Public,1
+725391,18,F,South,Lower Back Pain,Physical Therapy,2023-10-08,2023-10-21,13,True,9,2,None,1
+321080,47,M,South,Hypertension,Lifestyle Changes,2023-06-04,2023-06-29,25,True,6,0,Private,4
+609805,24,M,South,Heart Disease,Surgery,2024-04-26,2024-05-08,12,True,1,2,Private,3
+496249,24,M,South,COPD,Physical Therapy,2023-09-10,2023-09-24,14,True,5,1,Private,3
+556711,24,M,South,Hypertension,Medication,2024-01-31,2024-02-16,16,True,3,2,None,5
+446173,73,F,East,Heart Disease,Lifestyle Changes,2023-08-22,2023-09-06,15,True,7,0,Public,4
+577124,73,F,East,Asthma,Surgery,2024-06-29,2024-07-18,19,True,1,0,Private,3
+368900,73,F,East,Type 2 Diabetes,Surgery,2023-08-11,2023-09-06,26,True,4,0,Public,3
+475786,41,M,West,Depression,Lifestyle Changes,2024-05-26,2024-05-28,2,True,6,0,None,0
+321517,41,M,West,Asthma,Medication,2023-06-26,2023-07-23,27,False,2,2,Private,2
+241736,81,F,South,Depression,Counseling,2023-06-11,2023-06-16,5,True,10,2,Public,2
+756321,35,M,West,Lower Back Pain,Lifestyle Changes,2023-03-01,2023-03-08,7,False,10,1,None,5
+330876,35,M,West,Asthma,Combined Therapy,2023-04-26,2023-05-26,30,False,10,2,None,2
+778967,35,M,West,Heart Disease,Lifestyle Changes,2023-02-28,2023-03-14,14,True,9,3,Private,4
+997067,76,F,South,Heart Disease,Counseling,2024-01-18,2024-01-22,4,False,2,1,None,1
+723688,35,M,East,Obesity,Medication,2024-07-12,2024-08-08,27,True,3,2,Public,5
+200845,35,M,East,Depression,Medication,2023-04-20,2023-04-21,1,True,3,2,Public,2
+774483,35,M,East,Heart Disease,Surgery,2023-05-15,2023-06-09,25,False,3,1,None,1
+289930,26,M,Central,Type 2 Diabetes,Counseling,2023-12-09,2024-01-05,27,True,2,2,Public,4
+618226,26,M,Central,Arthritis,Combined Therapy,2024-06-12,2024-07-04,22,False,10,0,Private,3
+550121,26,M,Central,Depression,Physical Therapy,2024-07-10,2024-08-07,28,True,4,0,Private,2
+296745,71,F,East,Depression,Combined Therapy,2024-03-05,2024-03-22,17,False,1,3,Public,0
+873074,71,F,East,Arthritis,Medication,2023-02-14,2023-03-14,28,True,2,0,None,0
+310636,71,F,East,Anxiety,Medication,2023-04-27,2023-05-16,19,True,3,0,None,5
+378411,62,F,East,Asthma,Lifestyle Changes,2023-05-23,2023-06-05,13,True,6,0,None,4
+316950,62,F,East,Anxiety,Lifestyle Changes,2023-04-16,2023-05-07,21,False,3,0,Private,3
+742411,62,F,East,Obesity,Medication,2022-12-08,2022-12-10,2,True,3,0,Private,2
+132731,72,M,Central,Type 2 Diabetes,Lifestyle Changes,2024-01-16,2024-02-13,28,True,2,1,Public,0
+47726,72,M,Central,Hypertension,Lifestyle Changes,2023-06-29,2023-07-17,18,False,6,2,Public,2
+580238,72,M,Central,COPD,Counseling,2023-01-09,2023-02-07,29,True,9,1,None,2
+731295,58,M,South,COPD,Counseling,2023-07-12,2023-08-03,22,True,1,0,Public,0
+668854,64,F,West,Arthritis,Medication,2023-03-06,2023-03-15,9,True,2,2,Private,0
+789359,64,F,West,Hypertension,Surgery,2024-10-02,2024-10-09,7,True,3,1,Private,3
+107570,64,F,West,COPD,Combined Therapy,2023-12-14,2023-12-16,2,False,9,1,None,3
+12861,36,F,Central,Arthritis,Counseling,2024-10-05,2024-10-15,10,True,9,0,None,1
+298151,36,F,Central,Obesity,Combined Therapy,2024-02-16,2024-02-23,7,True,2,3,None,5
+501968,36,F,Central,Type 2 Diabetes,Combined Therapy,2023-11-27,2023-12-24,27,True,7,2,Public,4
+357256,18,M,West,Asthma,Surgery,2023-11-05,2023-12-01,26,True,2,0,Private,2
+53872,18,M,West,COPD,Combined Therapy,2023-04-20,2023-04-26,6,False,7,2,None,5
+986776,18,M,West,Type 2 Diabetes,Combined Therapy,2023-06-12,2023-06-23,11,False,2,2,None,0
+500935,43,F,East,Hypertension,Lifestyle Changes,2024-09-27,2024-10-18,21,True,3,0,Public,1
+862050,74,M,South,COPD,Counseling,2023-02-24,2023-02-26,2,True,10,2,Private,2
+420172,74,M,South,Heart Disease,Combined Therapy,2023-01-17,2023-01-25,8,False,7,1,Private,1
+77680,74,M,South,Asthma,Surgery,2023-12-14,2023-12-25,11,False,1,1,None,2
+660021,73,M,South,Heart Disease,Lifestyle Changes,2024-02-19,2024-02-28,9,False,10,2,None,2
+56213,73,M,South,Lower Back Pain,Medication,2024-05-14,2024-06-06,23,True,5,1,Private,2
+156445,70,F,Central,Hypertension,Lifestyle Changes,2023-03-25,2023-03-31,6,False,2,2,Private,0
+590180,70,F,Central,Lower Back Pain,Surgery,2024-08-19,2024-08-20,1,False,9,0,Private,4
+89318,35,F,North,Anxiety,Combined Therapy,2023-07-21,2023-08-11,21,True,6,2,None,3
+124205,35,F,North,COPD,Surgery,2023-06-08,2023-07-08,30,False,10,2,Private,0
+801577,35,F,North,Arthritis,Lifestyle Changes,2024-02-04,2024-03-02,27,True,6,3,Public,2
+635770,69,M,South,Obesity,Physical Therapy,2023-10-17,2023-11-05,19,True,3,0,Public,3
+829151,69,M,South,Anxiety,Surgery,2024-03-05,2024-03-07,2,True,6,3,Private,2
+236650,69,M,South,Depression,Lifestyle Changes,2024-03-22,2024-04-12,21,False,1,1,Public,2
+547957,46,M,North,Obesity,Counseling,2024-07-22,2024-08-11,20,True,7,2,Private,2
+472398,73,M,South,Type 2 Diabetes,Counseling,2023-09-19,2023-10-19,30,False,10,2,Public,5
+464226,73,M,South,Hypertension,Physical Therapy,2024-11-02,2024-11-07,5,True,5,0,Public,3
+901950,75,M,South,Asthma,Medication,2023-07-16,2023-08-05,20,False,9,0,Private,4
+449660,75,M,South,Hypertension,Physical Therapy,2024-02-28,2024-03-02,3,True,3,0,Public,5
+596251,64,F,West,Lower Back Pain,Medication,2023-07-23,2023-07-28,5,False,5,2,Public,5
+63156,64,F,West,Asthma,Counseling,2024-03-24,2024-03-27,3,False,4,1,None,4
+776039,64,F,West,Depression,Counseling,2024-03-15,2024-04-06,22,True,1,0,None,2
+993620,74,M,Central,Lower Back Pain,Physical Therapy,2023-02-13,2023-02-23,10,True,1,1,None,5
+217881,74,M,Central,Obesity,Combined Therapy,2024-07-12,2024-07-22,10,True,5,1,None,4
+221275,74,M,Central,Asthma,Combined Therapy,2024-03-27,2024-04-22,26,True,8,1,None,2
+692509,44,M,South,Obesity,Counseling,2023-06-21,2023-06-30,9,True,8,3,None,1
+164686,44,M,South,COPD,Lifestyle Changes,2023-01-30,2023-02-18,19,False,7,1,None,1
+182256,44,M,South,Type 2 Diabetes,Medication,2023-06-02,2023-06-08,6,True,8,3,Private,5
+78711,77,M,South,Anxiety,Counseling,2024-01-30,2024-02-24,25,False,2,3,Public,1
+2805,77,M,South,Asthma,Combined Therapy,2023-03-29,2023-04-23,25,True,4,1,Public,2
+472387,77,M,South,Lower Back Pain,Lifestyle Changes,2023-10-11,2023-10-21,10,True,5,1,Private,0
+622656,31,M,South,Asthma,Medication,2024-05-16,2024-06-11,26,False,8,3,Public,5
+305407,31,M,South,Obesity,Physical Therapy,2023-11-27,2023-12-09,12,True,2,0,Private,1
+242720,31,M,South,Anxiety,Physical Therapy,2022-12-23,2023-01-08,16,True,5,3,None,3
+741296,33,F,West,Asthma,Medication,2023-07-09,2023-07-31,22,True,6,0,Public,5
+737135,25,F,East,Type 2 Diabetes,Physical Therapy,2023-07-05,2023-07-25,20,True,4,1,None,4
+476086,25,F,East,Lower Back Pain,Surgery,2024-09-25,2024-10-07,12,True,1,0,Private,0
+720775,25,F,East,COPD,Combined Therapy,2023-01-22,2023-02-14,23,False,2,0,Private,5
+968790,54,F,North,Type 2 Diabetes,Counseling,2023-05-28,2023-06-14,17,True,1,3,Private,0
+826097,54,F,North,Arthritis,Surgery,2023-06-21,2023-07-10,19,True,10,0,None,2
+655420,54,F,North,Obesity,Medication,2024-08-03,2024-08-10,7,True,5,0,None,4
+693300,73,M,West,Arthritis,Surgery,2024-02-29,2024-03-01,1,True,4,2,Private,3
+979022,73,M,West,Anxiety,Counseling,2024-08-13,2024-08-17,4,False,8,2,Public,1
+445790,79,M,Central,Asthma,Lifestyle Changes,2023-04-30,2023-05-10,10,False,2,1,Public,3
+571015,79,M,Central,Heart Disease,Combined Therapy,2023-02-25,2023-03-06,9,True,10,0,Public,3
+679094,79,M,Central,Obesity,Physical Therapy,2023-05-21,2023-06-20,30,False,1,3,Public,2
+952538,20,M,West,Depression,Lifestyle Changes,2023-03-23,2023-03-26,3,False,1,0,Public,3
+866785,69,F,West,Heart Disease,Medication,2023-06-22,2023-07-06,14,False,8,3,Public,0
+74878,69,F,West,Obesity,Combined Therapy,2023-03-18,2023-04-13,26,True,2,2,Public,5
+173982,69,F,West,Arthritis,Medication,2023-01-13,2023-01-18,5,False,6,3,Public,3
+322554,77,F,West,Anxiety,Physical Therapy,2024-08-04,2024-08-14,10,True,3,0,Public,1
+785339,41,M,South,Asthma,Physical Therapy,2024-03-04,2024-03-21,17,True,5,1,Private,4
+596856,41,M,South,Depression,Lifestyle Changes,2024-08-29,2024-09-23,25,False,9,1,None,4
+302630,41,M,South,Anxiety,Lifestyle Changes,2024-11-12,2024-12-02,20,True,7,1,Private,1
+130394,71,F,Central,Depression,Combined Therapy,2023-11-04,2023-12-02,28,True,6,2,Public,3
+722131,22,M,Central,Obesity,Combined Therapy,2023-11-27,2023-12-23,26,False,9,0,Private,3
+733723,38,M,Central,Anxiety,Lifestyle Changes,2023-07-22,2023-07-29,7,False,1,0,Public,0
+988467,38,M,Central,Asthma,Surgery,2023-10-06,2023-10-21,15,True,9,0,Private,5
+524783,70,M,South,Type 2 Diabetes,Lifestyle Changes,2023-06-27,2023-07-15,18,False,4,3,Public,5
+517781,70,M,South,Hypertension,Counseling,2024-01-21,2024-02-01,11,True,5,2,None,1
+84349,70,M,South,Anxiety,Surgery,2023-11-03,2023-12-03,30,False,9,3,Public,5
+41797,21,M,North,Obesity,Medication,2024-03-06,2024-04-05,30,False,10,3,None,2
+453014,21,M,North,Anxiety,Surgery,2024-10-18,2024-11-13,26,True,10,3,Private,3
+337978,28,F,Central,Arthritis,Lifestyle Changes,2024-06-20,2024-06-21,1,False,6,1,None,0
+262529,28,F,Central,Depression,Combined Therapy,2024-03-10,2024-03-13,3,True,1,3,Private,3
+95763,28,F,Central,Obesity,Physical Therapy,2022-12-18,2022-12-19,1,True,6,1,None,4
+707053,43,M,North,Heart Disease,Lifestyle Changes,2023-05-24,2023-06-04,11,True,3,0,Public,0
+902317,43,M,North,COPD,Counseling,2024-09-07,2024-09-11,4,False,9,2,Private,1
+615643,43,M,North,Type 2 Diabetes,Counseling,2024-02-17,2024-02-26,9,True,6,1,Private,2
+801909,23,M,Central,Obesity,Surgery,2022-12-14,2022-12-16,2,True,5,1,Public,5
+861322,23,M,Central,Depression,Physical Therapy,2024-05-03,2024-05-21,18,True,1,0,Public,0
+604238,23,M,Central,Anxiety,Combined Therapy,2023-06-25,2023-07-05,10,False,8,0,Private,5
+800177,52,M,South,Obesity,Physical Therapy,2022-12-29,2023-01-02,4,True,5,2,Private,0
+183700,52,M,South,Depression,Medication,2024-07-07,2024-07-26,19,True,3,0,None,1
+544173,45,F,North,Lower Back Pain,Surgery,2023-11-28,2023-12-09,11,False,1,1,Private,3
+463711,65,M,South,Type 2 Diabetes,Combined Therapy,2024-04-17,2024-04-20,3,False,6,1,None,3
+291668,65,M,South,Anxiety,Physical Therapy,2024-11-08,2024-11-19,11,True,7,0,Private,0
+613762,43,M,West,Heart Disease,Medication,2023-04-17,2023-04-21,4,True,2,3,Private,5
+665620,43,M,West,Hypertension,Surgery,2023-11-01,2023-11-14,13,False,1,3,Private,3
+515611,43,M,South,Heart Disease,Lifestyle Changes,2024-08-21,2024-08-24,3,True,4,2,None,3
+492841,25,F,East,COPD,Combined Therapy,2023-02-06,2023-03-03,25,True,10,3,None,4
+428184,25,F,East,Anxiety,Lifestyle Changes,2023-08-25,2023-09-14,20,True,10,0,Private,5
+336653,25,F,East,Asthma,Combined Therapy,2023-08-13,2023-08-24,11,True,10,1,Private,1
+109680,49,F,Central,Heart Disease,Counseling,2024-05-01,2024-05-08,7,True,6,1,Public,2
+168637,49,F,Central,Hypertension,Physical Therapy,2024-09-24,2024-10-22,28,True,5,0,Private,2
+431641,37,M,West,COPD,Lifestyle Changes,2023-08-11,2023-08-21,10,False,3,2,Public,5
+519536,37,M,West,Hypertension,Physical Therapy,2024-05-19,2024-06-13,25,False,5,2,Public,0
+694769,37,M,West,Lower Back Pain,Surgery,2023-07-09,2023-07-13,4,True,10,3,Public,4
+853085,83,M,Central,Type 2 Diabetes,Counseling,2023-10-05,2023-10-19,14,True,1,1,None,4
+576818,83,M,Central,Lower Back Pain,Surgery,2024-07-10,2024-07-12,2,True,6,1,None,3
+476919,47,F,East,Type 2 Diabetes,Surgery,2022-12-26,2023-01-02,7,False,1,3,None,1
+329795,58,M,East,Asthma,Counseling,2023-02-04,2023-02-10,6,True,3,3,None,3
+338977,58,M,East,COPD,Physical Therapy,2023-06-12,2023-07-11,29,True,4,1,Public,4
+810075,36,M,West,Type 2 Diabetes,Surgery,2023-02-26,2023-03-25,27,True,8,0,Private,4
+906924,38,M,West,Lower Back Pain,Physical Therapy,2023-10-07,2023-10-28,21,True,4,1,None,0
+864998,38,M,West,Obesity,Combined Therapy,2024-01-01,2024-01-19,18,False,1,3,None,4
+689606,38,M,West,Arthritis,Combined Therapy,2022-11-28,2022-12-05,7,True,9,2,Private,1
+568950,47,M,North,Arthritis,Counseling,2024-10-03,2024-10-26,23,False,6,1,Private,2
+433321,47,M,North,Anxiety,Physical Therapy,2023-11-21,2023-11-24,3,False,2,2,Private,5
+196694,82,M,North,Depression,Medication,2023-01-09,2023-01-22,13,True,2,1,Private,3
+379353,84,M,East,Anxiety,Medication,2024-01-04,2024-01-25,21,True,6,3,None,4
+793188,84,M,East,Depression,Medication,2024-03-25,2024-04-06,12,True,4,3,None,4
+655788,28,F,East,Type 2 Diabetes,Lifestyle Changes,2023-12-20,2023-12-22,2,True,7,2,Public,3
+796907,28,F,East,Heart Disease,Combined Therapy,2023-11-06,2023-11-24,18,False,9,3,Private,2
+213446,39,F,South,Depression,Surgery,2023-01-07,2023-01-21,14,False,2,1,None,5
+575898,39,F,South,Depression,Counseling,2023-06-23,2023-07-16,23,True,9,1,Private,3
+972735,39,F,South,Obesity,Lifestyle Changes,2023-03-09,2023-04-06,28,False,1,0,Public,1
+459398,39,F,South,Heart Disease,Surgery,2023-07-09,2023-07-28,19,True,8,0,Private,1
+732168,59,F,Central,Hypertension,Counseling,2024-10-12,2024-10-24,12,True,1,1,None,2
+127324,59,F,Central,Arthritis,Counseling,2023-12-09,2024-01-06,28,True,9,3,Private,5
+660626,81,M,North,Heart Disease,Counseling,2022-12-20,2022-12-21,1,True,2,1,Private,1
+838141,81,M,North,Hypertension,Physical Therapy,2024-03-14,2024-03-24,10,False,2,1,None,0
+744261,81,M,North,Depression,Combined Therapy,2023-06-01,2023-06-24,23,True,7,1,Private,3
+325845,56,M,West,Depression,Physical Therapy,2023-03-31,2023-04-06,6,False,3,2,Private,2
+14338,56,M,West,Type 2 Diabetes,Combined Therapy,2024-01-29,2024-02-05,7,True,9,3,Public,1
+427809,56,M,West,Hypertension,Surgery,2024-01-30,2024-02-18,19,False,5,1,Public,0
+235615,25,F,West,Obesity,Counseling,2023-02-08,2023-03-05,25,False,10,3,None,1
+957276,64,F,East,Arthritis,Counseling,2024-09-11,2024-09-30,19,True,8,3,Public,1
+483863,64,F,East,Obesity,Combined Therapy,2023-02-24,2023-03-11,15,True,5,3,None,5
+679172,23,F,West,Heart Disease,Counseling,2023-02-27,2023-03-07,8,True,3,2,Public,4
+161450,23,F,West,Arthritis,Physical Therapy,2024-09-04,2024-10-04,30,False,8,2,Public,4
+977957,23,F,West,Depression,Counseling,2023-12-20,2024-01-12,23,True,6,2,Private,5
+306039,28,M,East,Obesity,Counseling,2024-06-06,2024-06-14,8,False,5,0,Private,0
+739677,75,F,North,Hypertension,Combined Therapy,2023-12-28,2023-12-30,2,False,2,1,Private,3
+435673,56,M,Central,COPD,Counseling,2023-06-28,2023-07-02,4,True,6,2,Private,0
+505937,60,F,East,COPD,Medication,2024-09-06,2024-09-25,19,True,8,0,None,3
+255570,60,F,East,Hypertension,Combined Therapy,2023-11-29,2023-12-20,21,False,10,1,Private,4
+578043,60,F,East,Anxiety,Lifestyle Changes,2023-11-17,2023-12-06,19,True,8,2,Private,4
+402219,68,M,South,Anxiety,Medication,2023-03-20,2023-03-22,2,True,5,2,Private,5
+966648,68,M,South,Heart Disease,Counseling,2023-04-25,2023-05-04,9,False,6,3,Private,4
+532929,68,M,South,Lower Back Pain,Surgery,2024-03-07,2024-04-02,26,True,7,2,Private,3
+922040,19,F,North,COPD,Combined Therapy,2024-06-29,2024-07-02,3,True,7,3,Private,0
+905997,19,F,North,Obesity,Physical Therapy,2023-03-14,2023-04-03,20,True,7,2,Private,5
+289666,19,F,North,Asthma,Surgery,2023-01-21,2023-01-22,1,True,3,2,Public,1
+828381,18,F,North,Obesity,Medication,2024-07-20,2024-08-01,12,True,10,0,Public,5
+435098,18,F,North,COPD,Lifestyle Changes,2024-09-21,2024-10-08,17,False,7,0,None,5
+979630,18,F,North,Lower Back Pain,Lifestyle Changes,2023-08-18,2023-09-06,19,True,8,3,None,1
+532401,49,F,East,Arthritis,Counseling,2024-07-31,2024-08-15,15,False,4,2,Private,0
+860408,49,F,East,Type 2 Diabetes,Combined Therapy,2023-06-23,2023-06-30,7,True,1,2,Public,0
+296578,49,F,East,COPD,Lifestyle Changes,2022-11-29,2022-12-08,9,False,6,0,Private,4
+313058,25,F,West,Depression,Lifestyle Changes,2024-06-13,2024-07-11,28,True,7,2,Private,3
+615448,79,M,West,Depression,Medication,2024-09-08,2024-10-05,27,False,4,1,None,5
+691998,79,M,West,Heart Disease,Physical Therapy,2024-02-21,2024-03-21,29,True,3,2,Private,2
+907291,79,M,West,Lower Back Pain,Combined Therapy,2023-12-13,2023-12-30,17,True,2,0,None,2
+468238,35,M,North,Arthritis,Physical Therapy,2023-03-23,2023-04-16,24,True,2,1,Public,0
+507868,35,M,North,COPD,Medication,2024-01-20,2024-02-09,20,True,4,1,Public,3
+348588,36,M,South,Type 2 Diabetes,Counseling,2023-08-23,2023-09-14,22,True,4,2,Public,3
+799929,27,F,North,COPD,Physical Therapy,2024-01-30,2024-02-16,17,True,9,2,Private,1
+395533,27,F,North,Hypertension,Combined Therapy,2024-01-24,2024-01-28,4,True,7,0,Public,5
+978166,27,F,North,Asthma,Surgery,2023-11-16,2023-12-06,20,False,6,3,None,0
+911843,48,F,North,Anxiety,Medication,2023-08-04,2023-08-25,21,True,9,0,None,1
+731380,48,F,North,Hypertension,Counseling,2023-04-23,2023-05-12,19,True,8,3,Public,4
+599573,58,M,East,Anxiety,Surgery,2023-06-01,2023-06-11,10,False,8,0,Private,0
+244907,58,M,East,Heart Disease,Combined Therapy,2023-09-21,2023-10-12,21,False,7,1,None,2
+813217,20,M,North,Depression,Lifestyle Changes,2024-09-22,2024-10-20,28,True,8,3,Public,4
+45767,39,F,West,Hypertension,Surgery,2023-10-13,2023-11-06,24,False,4,3,None,2
+780879,71,F,Central,Obesity,Combined Therapy,2023-08-02,2023-08-31,29,True,5,0,None,1
+739485,71,F,Central,Anxiety,Counseling,2023-11-30,2023-12-21,21,False,2,2,Public,0
+850823,71,F,Central,Lower Back Pain,Surgery,2024-11-06,2024-12-03,27,False,8,3,Public,3
+404832,49,F,North,Type 2 Diabetes,Lifestyle Changes,2023-09-20,2023-09-22,2,True,10,0,None,0
+830884,21,F,East,Depression,Medication,2024-04-26,2024-05-25,29,False,4,2,None,3
+683691,78,F,Central,COPD,Medication,2024-08-26,2024-09-01,6,True,8,3,None,2
+519389,58,F,West,Type 2 Diabetes,Surgery,2023-03-26,2023-04-06,11,True,3,1,None,3
+132378,25,F,South,Hypertension,Surgery,2022-12-26,2022-12-30,4,True,2,0,Public,2
+618849,49,M,South,Obesity,Counseling,2023-12-23,2024-01-03,11,False,4,3,Public,3
+911946,49,M,South,COPD,Physical Therapy,2023-08-12,2023-09-02,21,True,3,0,Public,5
+916655,69,F,South,Anxiety,Counseling,2023-02-13,2023-03-15,30,True,4,0,None,3
+461694,21,M,Central,Heart Disease,Surgery,2024-09-14,2024-10-09,25,True,8,3,None,1
+551499,21,M,Central,Asthma,Physical Therapy,2023-02-13,2023-02-28,15,True,5,3,Private,2
+479123,75,M,South,Lower Back Pain,Surgery,2024-11-04,2024-11-19,15,True,5,2,Private,5
+757537,83,F,Central,Asthma,Counseling,2022-12-09,2022-12-31,22,False,7,2,Private,3
+429893,83,F,Central,Lower Back Pain,Combined Therapy,2023-03-19,2023-04-03,15,True,2,2,Private,4
+686587,36,F,North,Hypertension,Physical Therapy,2024-10-04,2024-10-14,10,True,10,1,None,1
+78463,36,F,North,Obesity,Medication,2023-03-27,2023-03-28,1,True,6,2,None,2
+819488,36,F,North,Heart Disease,Lifestyle Changes,2023-11-27,2023-12-27,30,True,8,1,Public,4
+355007,18,M,North,Heart Disease,Medication,2023-06-21,2023-07-09,18,True,9,3,Private,4
+726353,74,F,South,Arthritis,Medication,2024-03-26,2024-03-30,4,True,9,2,Public,3
+681403,74,F,South,Asthma,Combined Therapy,2023-10-02,2023-10-15,13,True,10,2,Public,2
+893140,74,F,South,COPD,Combined Therapy,2023-01-29,2023-02-10,12,False,8,3,Public,0
+893744,70,F,Central,Arthritis,Physical Therapy,2023-08-10,2023-09-06,27,True,4,0,Private,5
+901085,70,F,Central,Depression,Physical Therapy,2024-05-04,2024-05-31,27,True,8,1,None,5
+398468,70,F,Central,Heart Disease,Counseling,2024-01-16,2024-01-20,4,False,9,3,Public,0
+657246,70,F,East,Lower Back Pain,Counseling,2023-07-31,2023-08-27,27,True,1,0,Public,3
+930546,70,F,East,Hypertension,Surgery,2024-06-08,2024-06-20,12,True,9,0,Private,5
+511650,26,M,Central,COPD,Medication,2024-07-09,2024-07-22,13,True,4,2,Public,3
+567296,63,M,East,COPD,Lifestyle Changes,2024-10-05,2024-11-02,28,True,1,2,None,5
+647453,63,M,East,Heart Disease,Lifestyle Changes,2022-12-25,2023-01-24,30,True,10,0,Private,1
+246174,83,M,Central,Depression,Counseling,2023-01-20,2023-02-02,13,False,9,2,None,0
+717644,83,M,Central,Lower Back Pain,Medication,2024-04-01,2024-04-30,29,True,4,0,None,4
+301338,83,M,Central,Hypertension,Physical Therapy,2024-11-12,2024-11-24,12,False,7,1,Public,1
+783041,25,M,South,Lower Back Pain,Physical Therapy,2023-05-23,2023-06-22,30,False,9,1,Public,3
+455052,25,M,South,Anxiety,Medication,2023-02-06,2023-02-18,12,True,2,3,None,5
+797305,33,F,South,Lower Back Pain,Medication,2023-02-12,2023-02-28,16,False,9,2,Public,0
+738083,74,M,North,Anxiety,Counseling,2024-04-03,2024-04-04,1,False,7,1,None,1
+105389,74,M,North,Type 2 Diabetes,Combined Therapy,2024-10-05,2024-10-23,18,False,4,0,Private,2
+174446,74,M,North,Hypertension,Counseling,2023-11-07,2023-11-21,14,True,6,0,Private,4
+314012,36,F,West,Depression,Lifestyle Changes,2024-05-20,2024-06-18,29,True,4,3,Private,2
+30353,71,F,East,Heart Disease,Lifestyle Changes,2024-10-29,2024-11-08,10,True,9,0,Private,4
+340131,71,F,East,Arthritis,Lifestyle Changes,2023-01-02,2023-01-03,1,False,5,0,Public,5
+58845,71,F,East,Asthma,Lifestyle Changes,2024-08-07,2024-09-02,26,True,7,0,None,3
+375876,55,F,West,COPD,Lifestyle Changes,2023-07-13,2023-08-01,19,True,6,2,None,1
+451607,55,F,West,Anxiety,Surgery,2023-09-15,2023-09-18,3,True,6,1,Public,1
+256059,26,M,North,Hypertension,Combined Therapy,2023-03-21,2023-04-08,18,True,8,3,Public,3
+432067,26,M,North,COPD,Medication,2024-01-14,2024-01-31,17,True,6,3,None,1
+714919,28,M,North,Anxiety,Combined Therapy,2024-02-10,2024-02-22,12,True,7,2,None,4
+188803,28,M,North,Hypertension,Counseling,2024-08-04,2024-08-31,27,True,10,0,None,5
+183573,54,F,South,Heart Disease,Medication,2023-04-09,2023-05-01,22,False,3,1,None,2
+639098,54,F,South,Lower Back Pain,Physical Therapy,2023-01-28,2023-02-16,19,True,1,0,Private,2
+401126,54,F,South,Obesity,Lifestyle Changes,2024-10-04,2024-11-01,28,True,3,1,None,1
+716318,36,F,Central,Asthma,Physical Therapy,2024-03-23,2024-04-08,16,False,5,1,None,1
+521841,59,M,Central,Asthma,Physical Therapy,2023-06-03,2023-06-29,26,True,8,0,Public,2
+611484,81,M,North,Lower Back Pain,Counseling,2024-11-06,2024-11-26,20,True,4,1,None,2
+243467,74,F,South,Anxiety,Surgery,2023-03-19,2023-04-06,18,True,9,3,Public,5
+668891,65,F,Central,Hypertension,Medication,2023-11-21,2023-11-30,9,False,6,2,None,5
+481894,65,F,Central,Arthritis,Surgery,2023-06-13,2023-06-17,4,True,9,0,Public,3
+699233,82,M,Central,Asthma,Lifestyle Changes,2023-06-14,2023-06-21,7,True,4,3,None,5
+942573,82,M,Central,COPD,Physical Therapy,2022-12-05,2022-12-09,4,True,8,3,None,4
+487853,30,M,South,Lower Back Pain,Medication,2024-08-13,2024-08-21,8,True,9,3,Private,3
+301603,71,M,Central,Heart Disease,Combined Therapy,2024-10-27,2024-11-16,20,True,2,3,None,5
+573149,55,M,Central,Anxiety,Lifestyle Changes,2024-05-07,2024-05-09,2,False,2,2,Public,3
+77449,55,M,Central,Depression,Lifestyle Changes,2023-03-30,2023-04-02,3,True,1,3,None,0
+991151,64,M,North,Depression,Counseling,2023-11-06,2023-11-28,22,True,4,2,Private,3
+616113,64,M,North,Lower Back Pain,Lifestyle Changes,2023-08-23,2023-08-25,2,True,1,1,None,5
+669975,82,M,North,Asthma,Physical Therapy,2023-07-18,2023-08-01,14,True,1,1,Private,0
+723846,82,M,North,Anxiety,Physical Therapy,2023-10-23,2023-10-25,2,True,9,3,None,5
+479027,72,F,Central,Depression,Medication,2023-06-10,2023-06-20,10,True,9,1,None,5
+316797,72,F,Central,Lower Back Pain,Counseling,2024-09-14,2024-09-30,16,True,1,0,Private,4
+403380,85,M,North,Arthritis,Medication,2023-05-01,2023-05-31,30,True,7,1,None,3
+506680,85,M,North,Depression,Lifestyle Changes,2024-09-20,2024-09-25,5,True,1,0,Public,4
+248728,85,M,North,Lower Back Pain,Counseling,2023-02-18,2023-03-04,14,False,8,2,Public,4
+599704,70,F,West,Obesity,Surgery,2023-09-20,2023-10-16,26,True,10,1,None,0
+602733,70,F,West,COPD,Lifestyle Changes,2023-09-02,2023-09-04,2,True,4,3,None,2
+733247,69,M,East,COPD,Counseling,2023-07-15,2023-08-09,25,True,6,3,None,4
+23005,31,F,East,COPD,Medication,2023-07-15,2023-07-27,12,False,9,0,None,1
+690203,84,F,East,Arthritis,Lifestyle Changes,2024-09-02,2024-09-15,13,False,2,3,Private,5
+287813,84,F,East,Depression,Physical Therapy,2023-10-01,2023-10-24,23,True,9,2,Private,5
+593419,84,F,East,COPD,Combined Therapy,2022-12-04,2022-12-24,20,True,2,2,Private,3
+719112,34,M,Central,Hypertension,Combined Therapy,2024-09-29,2024-10-16,17,True,9,3,Public,0
+780841,34,M,Central,Heart Disease,Surgery,2024-07-24,2024-08-02,9,True,8,0,None,4
+954851,34,M,Central,Anxiety,Lifestyle Changes,2023-01-05,2023-01-28,23,True,9,3,None,5
+781369,26,M,West,Hypertension,Combined Therapy,2024-03-13,2024-03-23,10,True,6,1,Private,3
+873294,26,M,West,COPD,Counseling,2023-12-18,2023-12-24,6,True,3,2,Public,3
+946795,26,M,West,Heart Disease,Surgery,2024-10-30,2024-11-29,30,False,9,1,Private,1
+813423,52,F,Central,Lower Back Pain,Counseling,2023-07-08,2023-07-22,14,False,6,3,Public,2
+241296,77,F,East,Depression,Surgery,2024-08-09,2024-08-28,19,False,2,0,Private,1
+840886,82,M,West,Asthma,Physical Therapy,2024-03-13,2024-03-21,8,True,7,2,None,5
+229642,29,M,East,Arthritis,Combined Therapy,2023-08-28,2023-09-14,17,True,7,1,Private,0
+199367,29,M,East,Obesity,Surgery,2024-04-05,2024-04-06,1,False,9,2,Private,1
+262801,46,F,South,Asthma,Lifestyle Changes,2024-03-24,2024-04-03,10,True,8,0,Public,2
+792280,46,F,South,Anxiety,Surgery,2024-05-07,2024-06-03,27,True,5,0,Public,5
+804751,54,M,South,Type 2 Diabetes,Physical Therapy,2024-06-09,2024-07-09,30,True,6,3,Public,1
+713928,20,F,Central,Depression,Lifestyle Changes,2024-04-23,2024-05-13,20,True,10,2,Private,2
+143423,20,F,Central,Hypertension,Medication,2024-09-09,2024-10-01,22,True,4,3,Private,3
+101883,20,F,Central,Heart Disease,Lifestyle Changes,2024-03-29,2024-04-03,5,True,7,1,Public,4
+657937,80,F,East,COPD,Counseling,2024-10-29,2024-10-31,2,False,7,2,Private,5
+41337,30,F,West,Heart Disease,Medication,2024-04-13,2024-04-19,6,False,5,0,Private,3
+826918,55,F,Central,Depression,Combined Therapy,2023-07-25,2023-08-14,20,True,4,3,Public,3
+34985,55,F,Central,COPD,Medication,2023-11-05,2023-11-15,10,True,9,2,Public,2
+382584,55,F,Central,Hypertension,Counseling,2024-02-21,2024-03-11,19,True,5,1,None,1
+137795,56,F,North,COPD,Physical Therapy,2024-06-18,2024-07-18,30,False,8,1,Public,5
+953813,56,F,North,Lower Back Pain,Counseling,2023-02-06,2023-03-04,26,True,9,0,Public,1
+342589,36,F,East,Obesity,Medication,2023-07-15,2023-08-12,28,False,7,3,None,4
+435686,29,F,North,Depression,Counseling,2024-06-30,2024-07-05,5,False,9,2,None,0
+210548,29,F,North,Anxiety,Counseling,2023-04-13,2023-04-22,9,False,6,1,Public,3
+824718,47,M,West,Type 2 Diabetes,Combined Therapy,2023-03-10,2023-03-27,17,True,4,3,Private,2
+919035,47,M,West,COPD,Combined Therapy,2024-01-20,2024-02-18,29,True,6,1,Private,3
+556639,61,F,Central,Obesity,Lifestyle Changes,2023-09-08,2023-09-27,19,False,1,3,None,5
+957860,77,M,South,Heart Disease,Counseling,2023-12-22,2024-01-14,23,False,2,1,None,4
+870813,77,M,South,Type 2 Diabetes,Surgery,2023-06-27,2023-07-03,6,True,1,0,Public,2
+269452,55,M,Central,Hypertension,Surgery,2023-04-04,2023-04-20,16,True,7,1,Public,1
+864749,55,M,Central,COPD,Counseling,2024-11-06,2024-11-08,2,True,6,1,Public,1
+845664,55,M,Central,Lower Back Pain,Medication,2023-12-07,2024-01-01,25,False,2,2,Private,2
+782824,23,F,West,COPD,Counseling,2023-07-15,2023-08-11,27,True,1,2,None,1
+355168,45,F,East,Depression,Medication,2024-10-04,2024-10-06,2,True,8,2,Public,0
+120764,45,F,East,COPD,Physical Therapy,2024-08-13,2024-08-23,10,False,3,3,Private,2
+78957,45,F,East,Anxiety,Lifestyle Changes,2023-11-26,2023-12-02,6,True,1,0,None,4
+790785,63,M,Central,Lower Back Pain,Physical Therapy,2023-03-17,2023-03-20,3,True,6,2,Public,1
+901922,63,M,Central,COPD,Surgery,2023-05-22,2023-06-03,12,False,6,2,Private,1
+759396,63,M,Central,Anxiety,Surgery,2024-05-06,2024-05-14,8,True,2,0,Public,0
+416716,85,F,West,Heart Disease,Combined Therapy,2024-05-04,2024-05-12,8,False,9,1,None,2
+843671,59,M,West,Hypertension,Physical Therapy,2024-09-14,2024-10-12,28,True,2,0,None,1
+383542,83,F,South,Anxiety,Physical Therapy,2024-02-03,2024-02-23,20,True,3,1,Private,2
+829090,32,F,North,Lower Back Pain,Counseling,2023-02-06,2023-02-25,19,True,9,2,None,1
+14594,38,M,Central,Heart Disease,Combined Therapy,2023-09-30,2023-10-05,5,False,2,1,Private,1
+562636,38,M,Central,Type 2 Diabetes,Combined Therapy,2023-06-21,2023-07-02,11,False,3,0,Public,5
+476877,38,M,Central,Arthritis,Lifestyle Changes,2023-03-03,2023-04-01,29,True,9,2,None,4
+705511,64,F,West,Asthma,Physical Therapy,2023-09-10,2023-09-22,12,True,2,0,Private,2
+705000,64,F,West,COPD,Medication,2024-07-01,2024-07-25,24,False,7,0,Public,1
+612955,34,M,South,COPD,Lifestyle Changes,2023-06-19,2023-07-02,13,True,10,0,Private,5
+862367,82,M,North,Type 2 Diabetes,Physical Therapy,2023-09-19,2023-10-16,27,False,9,1,None,5
+985967,82,M,North,Hypertension,Lifestyle Changes,2024-04-06,2024-04-16,10,True,9,3,None,4
+113609,44,F,South,Obesity,Counseling,2023-09-12,2023-09-19,7,True,1,3,None,1
+245180,44,F,South,Lower Back Pain,Physical Therapy,2024-05-05,2024-05-29,24,True,4,3,Private,1
+26240,22,M,Central,COPD,Lifestyle Changes,2023-11-29,2023-12-06,7,False,8,0,Private,3
+927187,22,M,Central,Type 2 Diabetes,Lifestyle Changes,2024-03-23,2024-04-11,19,True,1,0,Public,0
+343939,65,F,East,Type 2 Diabetes,Combined Therapy,2024-02-07,2024-02-12,5,True,10,2,None,0
+639717,65,F,East,Heart Disease,Physical Therapy,2024-11-07,2024-12-05,28,False,2,3,None,0
+679112,43,F,South,Anxiety,Lifestyle Changes,2023-05-18,2023-05-23,5,True,8,0,Private,4
+666269,74,F,South,Arthritis,Physical Therapy,2023-01-16,2023-01-30,14,False,2,1,Private,0
+486819,52,M,South,Hypertension,Medication,2024-08-28,2024-09-15,18,True,3,1,Private,3
+735132,52,M,South,Lower Back Pain,Medication,2024-11-03,2024-11-17,14,True,8,2,None,2
+680776,50,M,North,Asthma,Counseling,2023-07-20,2023-08-19,30,False,9,2,Private,1
+122343,50,M,North,Arthritis,Medication,2023-10-11,2023-10-31,20,False,7,3,Public,2
+47549,50,M,North,Anxiety,Surgery,2023-03-16,2023-04-07,22,False,7,2,Private,0
+319149,39,F,Central,Heart Disease,Combined Therapy,2022-12-26,2023-01-23,28,False,1,0,Private,4
+121761,39,F,Central,Hypertension,Combined Therapy,2023-12-15,2024-01-02,18,True,7,3,Public,1
+246205,39,F,Central,Type 2 Diabetes,Combined Therapy,2023-02-11,2023-02-24,13,False,3,0,Public,2
+563658,27,M,North,Heart Disease,Surgery,2024-10-17,2024-10-31,14,True,3,2,None,4
+407524,27,M,North,Depression,Lifestyle Changes,2023-03-13,2023-04-02,20,True,7,2,Private,2
+389033,32,F,West,Type 2 Diabetes,Surgery,2023-11-15,2023-12-05,20,True,8,0,None,3
+995497,34,M,West,Type 2 Diabetes,Combined Therapy,2024-05-01,2024-05-14,13,False,1,0,None,1
+730316,34,M,West,COPD,Surgery,2024-06-27,2024-07-13,16,True,1,3,Public,2
+439486,85,F,South,Anxiety,Surgery,2024-01-21,2024-01-25,4,False,9,0,None,4
+778325,45,M,South,Asthma,Medication,2024-02-27,2024-03-24,26,True,2,1,Public,2
+162029,50,M,Central,Heart Disease,Medication,2024-06-14,2024-06-20,6,True,6,1,None,4
+435037,50,M,Central,Anxiety,Surgery,2024-10-15,2024-10-21,6,True,2,3,None,2
+103831,53,M,East,Asthma,Physical Therapy,2024-04-19,2024-05-19,30,True,3,3,Public,1
+513117,53,M,East,Depression,Physical Therapy,2024-09-05,2024-09-07,2,False,1,2,Private,3
+427940,71,M,East,Lower Back Pain,Surgery,2024-03-20,2024-04-03,14,True,2,1,Public,5
+997742,71,M,East,Hypertension,Combined Therapy,2024-11-26,2024-11-29,3,True,5,2,Private,5
+34305,71,M,East,Obesity,Surgery,2023-07-03,2023-07-06,3,True,8,2,None,2
+388528,19,M,East,Depression,Combined Therapy,2024-05-17,2024-06-01,15,False,3,1,None,5
+464920,19,M,East,Obesity,Counseling,2023-05-15,2023-05-18,3,True,3,2,None,3
+996729,30,M,East,Obesity,Combined Therapy,2023-11-08,2023-11-19,11,False,8,2,Public,3
+897004,30,M,East,Hypertension,Surgery,2023-05-30,2023-06-13,14,False,8,2,Public,4
+104180,30,M,East,Type 2 Diabetes,Medication,2023-09-05,2023-10-01,26,True,6,3,Private,2
+385178,63,F,North,Depression,Lifestyle Changes,2024-05-13,2024-05-24,11,True,7,2,Private,4
+945497,63,F,North,COPD,Surgery,2024-01-24,2024-02-08,15,True,1,2,Private,3
+376096,55,F,Central,Heart Disease,Medication,2024-04-11,2024-05-08,27,True,10,2,Private,1
+417479,55,F,Central,Lower Back Pain,Counseling,2023-01-14,2023-02-05,22,True,6,1,Private,1
+199028,31,M,South,Asthma,Lifestyle Changes,2023-06-30,2023-07-24,24,False,1,2,None,3
+995109,31,M,South,Hypertension,Counseling,2023-03-02,2023-03-15,13,True,6,1,Private,5
+864226,31,M,South,Arthritis,Counseling,2024-09-16,2024-09-18,2,True,9,3,Public,3
+96126,31,M,Central,Hypertension,Lifestyle Changes,2023-11-16,2023-12-11,25,True,9,3,Public,2
+222409,59,M,North,Obesity,Medication,2024-04-25,2024-05-19,24,False,10,1,Public,5
+670556,59,M,North,Lower Back Pain,Lifestyle Changes,2024-04-09,2024-05-04,25,False,5,0,Private,3
+22394,27,F,Central,Hypertension,Physical Therapy,2024-03-05,2024-04-02,28,True,9,1,None,0
+825013,40,F,East,Hypertension,Surgery,2023-01-06,2023-01-08,2,False,10,0,Private,5
+255400,40,F,East,Obesity,Surgery,2023-08-14,2023-08-30,16,False,6,2,Private,4
+825206,40,F,East,COPD,Physical Therapy,2023-03-05,2023-03-28,23,True,4,3,Private,2
+215173,56,F,Central,Type 2 Diabetes,Surgery,2024-02-09,2024-03-04,24,True,2,1,Public,4
+870127,56,F,Central,Asthma,Counseling,2023-01-20,2023-02-05,16,True,4,0,Private,2
+581128,56,F,Central,Heart Disease,Lifestyle Changes,2024-07-14,2024-07-27,13,True,8,1,Public,2
+614867,65,F,East,Heart Disease,Surgery,2023-05-07,2023-05-17,10,False,1,2,None,5
+852547,65,F,East,Arthritis,Physical Therapy,2023-05-14,2023-05-22,8,False,10,2,Public,2
+244316,65,F,East,Hypertension,Surgery,2024-10-03,2024-10-29,26,False,8,3,Public,4
+811984,80,M,Central,Depression,Physical Therapy,2023-08-10,2023-09-06,27,False,4,3,None,1
+826952,80,M,Central,Asthma,Combined Therapy,2023-03-22,2023-04-03,12,True,7,0,None,0
+624932,80,M,Central,Arthritis,Surgery,2024-10-27,2024-11-01,5,True,7,3,Private,1
+290743,27,F,East,Type 2 Diabetes,Counseling,2022-11-30,2022-12-21,21,True,3,1,Private,0
+151716,27,F,East,Heart Disease,Combined Therapy,2024-09-24,2024-10-23,29,True,7,1,None,2
+566456,69,F,South,Anxiety,Surgery,2023-03-08,2023-03-31,23,False,10,1,None,3
+837302,69,F,South,Type 2 Diabetes,Surgery,2023-06-10,2023-06-30,20,False,3,0,Public,2
+115266,41,M,East,Lower Back Pain,Combined Therapy,2023-04-12,2023-04-14,2,False,9,2,Private,0
+908536,56,F,North,Arthritis,Medication,2024-04-24,2024-04-30,6,True,7,0,Private,3
+138205,28,F,Central,Type 2 Diabetes,Medication,2022-12-18,2023-01-15,28,True,5,0,None,0
+375644,28,F,Central,Arthritis,Counseling,2022-12-09,2022-12-24,15,False,2,1,Public,2
+826730,28,F,Central,Heart Disease,Lifestyle Changes,2024-08-02,2024-08-24,22,True,3,2,Private,3
+617457,83,F,North,Arthritis,Surgery,2023-05-31,2023-06-20,20,False,8,3,None,3
+16547,24,M,East,Anxiety,Medication,2023-08-06,2023-09-03,28,False,1,3,Private,3
+278258,24,M,East,Arthritis,Surgery,2023-04-12,2023-04-23,11,True,4,0,Private,5
+132915,41,M,East,Asthma,Surgery,2023-01-07,2023-01-16,9,True,2,0,None,5
+441409,41,M,East,Hypertension,Combined Therapy,2024-06-26,2024-07-16,20,True,3,0,Public,1
+119169,54,M,East,Hypertension,Counseling,2024-01-10,2024-01-12,2,True,4,2,Public,1
+66645,54,M,East,Depression,Physical Therapy,2024-06-29,2024-07-12,13,True,5,3,None,5
+470050,45,M,West,Hypertension,Lifestyle Changes,2023-12-02,2023-12-26,24,True,8,0,Private,5
+379625,45,M,West,Arthritis,Surgery,2024-07-24,2024-08-12,19,True,1,2,Public,3
+622503,45,M,West,Obesity,Surgery,2023-12-31,2024-01-11,11,True,6,1,Private,0
+473962,52,F,North,Depression,Combined Therapy,2023-02-20,2023-03-04,12,True,4,3,None,0
+232311,52,F,North,Hypertension,Combined Therapy,2023-12-24,2024-01-17,24,True,1,1,Private,3
+45471,52,F,North,Arthritis,Counseling,2024-03-19,2024-04-06,18,True,1,0,Private,0
+821273,37,M,Central,Arthritis,Combined Therapy,2024-06-14,2024-06-17,3,True,3,2,None,1
+909095,37,M,Central,Obesity,Physical Therapy,2024-11-02,2024-11-09,7,True,3,0,Public,2
+546781,71,F,West,Asthma,Medication,2024-04-22,2024-05-08,16,False,3,2,Private,2
+480292,71,F,West,Arthritis,Combined Therapy,2023-07-20,2023-08-19,30,True,9,1,Private,3
+32663,55,F,South,Type 2 Diabetes,Medication,2024-04-10,2024-05-05,25,True,6,0,Public,0
+502248,58,F,South,Asthma,Medication,2023-01-14,2023-01-22,8,False,4,1,Public,3
+421126,35,F,Central,Depression,Lifestyle Changes,2024-09-16,2024-09-20,4,True,7,3,None,0
+719425,35,F,Central,Anxiety,Counseling,2023-10-25,2023-11-01,7,False,8,2,Public,0
+514084,37,F,North,Anxiety,Surgery,2023-02-19,2023-03-15,24,True,7,1,Private,0
+953890,37,F,North,COPD,Surgery,2024-06-03,2024-07-02,29,True,10,0,Public,1
+77060,83,F,South,Anxiety,Lifestyle Changes,2023-11-07,2023-11-28,21,True,9,2,None,3
+84714,83,F,South,Type 2 Diabetes,Surgery,2024-10-26,2024-10-30,4,True,5,3,Public,2
+637846,32,M,Central,COPD,Combined Therapy,2023-08-05,2023-08-11,6,True,5,3,Private,1
+68872,32,M,Central,Arthritis,Surgery,2023-03-23,2023-04-03,11,True,7,1,None,2
+288375,39,M,West,Depression,Surgery,2023-03-06,2023-03-26,20,True,4,2,Private,0
+663829,39,M,West,Hypertension,Medication,2024-03-26,2024-04-17,22,True,9,1,Private,2
+574993,40,F,Central,COPD,Lifestyle Changes,2024-02-25,2024-03-17,21,True,5,1,Public,1
+340981,40,F,Central,Anxiety,Physical Therapy,2024-06-03,2024-06-20,17,True,7,1,None,1
+626410,40,F,Central,Arthritis,Lifestyle Changes,2023-09-19,2023-09-23,4,True,9,2,Private,3
+309222,20,M,Central,Depression,Counseling,2024-01-14,2024-02-04,21,True,9,1,Public,5
+530108,69,M,West,Asthma,Combined Therapy,2023-11-15,2023-11-21,6,False,8,1,Private,0
+451096,69,M,West,Lower Back Pain,Medication,2024-03-12,2024-04-04,23,True,2,0,Public,5
+831621,47,F,North,Heart Disease,Medication,2023-02-13,2023-02-23,10,True,1,2,None,5
+119971,20,M,South,Asthma,Combined Therapy,2024-05-26,2024-06-22,27,False,2,3,Private,0
+686516,34,F,Central,Anxiety,Medication,2024-09-20,2024-10-20,30,False,2,3,Private,1
+920341,34,F,Central,Asthma,Lifestyle Changes,2024-04-16,2024-05-08,22,True,3,1,Private,5
+578116,77,F,East,Lower Back Pain,Lifestyle Changes,2024-07-17,2024-07-25,8,True,4,0,Private,4
+907534,77,F,East,Type 2 Diabetes,Physical Therapy,2024-06-09,2024-07-03,24,True,1,2,Public,3
+450961,69,F,East,Arthritis,Combined Therapy,2023-05-14,2023-05-22,8,False,2,1,Public,5
+931230,55,M,West,Lower Back Pain,Lifestyle Changes,2023-11-13,2023-12-04,21,True,3,0,Private,4
+433914,55,M,West,Depression,Lifestyle Changes,2023-05-24,2023-06-22,29,True,2,1,None,4
+867611,50,M,South,Anxiety,Medication,2023-08-18,2023-08-27,9,False,5,0,Public,5
+418098,50,M,South,Type 2 Diabetes,Surgery,2023-11-15,2023-11-18,3,True,7,0,None,1
+765054,50,M,South,Heart Disease,Combined Therapy,2023-10-17,2023-11-08,22,True,6,0,Private,2
+327730,25,F,North,Depression,Combined Therapy,2023-02-09,2023-02-14,5,True,5,2,Public,4
+327704,25,F,North,Lower Back Pain,Counseling,2023-10-25,2023-10-26,1,True,9,1,Public,5
+267271,25,F,North,Obesity,Counseling,2024-04-27,2024-05-24,27,False,2,1,Private,4
+999914,55,M,South,Heart Disease,Combined Therapy,2023-09-14,2023-10-01,17,True,4,2,Public,3
+720184,55,M,South,Obesity,Physical Therapy,2023-03-26,2023-03-30,4,False,6,2,None,2
+497305,59,M,Central,Anxiety,Physical Therapy,2024-11-13,2024-12-12,29,False,8,1,Public,3
+95656,59,M,Central,COPD,Combined Therapy,2023-01-19,2023-02-14,26,False,2,3,Public,2
+89511,59,M,Central,Type 2 Diabetes,Surgery,2024-09-04,2024-09-27,23,True,10,0,Private,5
+452855,79,F,North,Arthritis,Combined Therapy,2023-02-08,2023-02-16,8,True,1,2,None,3
+780758,72,F,South,Heart Disease,Surgery,2023-02-11,2023-03-05,22,True,9,2,None,2
+390748,53,M,East,Heart Disease,Surgery,2024-06-23,2024-07-08,15,True,3,1,None,2
+136435,53,M,East,Type 2 Diabetes,Lifestyle Changes,2024-08-19,2024-09-06,18,False,9,3,Private,5
+62894,53,M,East,Anxiety,Surgery,2024-02-03,2024-02-15,12,False,9,0,Public,4
+588866,37,M,Central,Heart Disease,Lifestyle Changes,2024-02-26,2024-03-08,11,True,10,2,Public,1
+345658,69,F,West,Asthma,Lifestyle Changes,2024-02-07,2024-03-08,30,True,6,1,Public,2
+128168,78,F,North,Heart Disease,Surgery,2024-05-01,2024-05-23,22,True,2,2,None,3
+370774,62,M,South,Heart Disease,Medication,2023-10-13,2023-10-19,6,True,2,3,Public,2
+697660,75,F,East,Obesity,Physical Therapy,2024-10-06,2024-10-13,7,False,3,1,Public,3
+786730,75,F,East,Lower Back Pain,Counseling,2024-11-27,2024-12-06,9,False,3,2,Private,0
+910260,49,F,South,Anxiety,Combined Therapy,2023-10-22,2023-11-09,18,True,6,0,None,2
+756086,49,F,South,Depression,Surgery,2024-11-08,2024-11-12,4,True,7,1,Private,0
+301601,49,F,South,Type 2 Diabetes,Counseling,2023-01-06,2023-01-20,14,True,6,3,None,4
+327626,35,F,West,COPD,Physical Therapy,2024-03-08,2024-04-01,24,True,8,2,Public,3
+108633,35,F,West,Hypertension,Lifestyle Changes,2023-08-28,2023-08-30,2,True,6,1,None,4
+532060,56,M,East,COPD,Physical Therapy,2024-02-19,2024-03-10,20,True,10,1,Public,0
+162246,56,M,East,Lower Back Pain,Physical Therapy,2023-05-12,2023-06-09,28,False,9,0,Private,3
+505612,19,F,East,Obesity,Surgery,2024-04-21,2024-04-28,7,False,6,3,Private,5
+888432,19,F,East,Heart Disease,Combined Therapy,2023-05-21,2023-05-25,4,True,4,2,None,4
+367121,83,F,West,Arthritis,Combined Therapy,2023-02-20,2023-02-22,2,True,7,3,Private,4
+583286,36,F,Central,Heart Disease,Medication,2024-09-14,2024-09-28,14,True,5,2,Private,2
+120465,61,F,Central,Arthritis,Lifestyle Changes,2023-09-09,2023-09-10,1,False,10,1,Public,2
+292099,61,F,Central,Anxiety,Physical Therapy,2024-07-12,2024-07-15,3,True,6,2,None,1
+237144,77,F,East,Arthritis,Lifestyle Changes,2024-02-16,2024-03-02,15,True,9,2,None,3
+449956,71,F,East,Hypertension,Surgery,2024-08-15,2024-08-22,7,True,8,1,Private,4
+588215,50,M,West,Obesity,Combined Therapy,2024-09-14,2024-09-22,8,True,1,3,None,3
+858182,28,M,Central,Anxiety,Counseling,2024-07-16,2024-08-15,30,False,2,1,Private,2
+643378,28,M,Central,Asthma,Medication,2024-03-24,2024-03-31,7,True,4,1,Private,5
+673918,28,M,Central,Obesity,Medication,2024-05-05,2024-05-11,6,True,1,2,Public,4
+27529,79,M,North,COPD,Lifestyle Changes,2024-02-03,2024-02-22,19,True,6,3,Private,5
+974215,66,M,Central,Depression,Physical Therapy,2024-03-15,2024-04-13,29,False,10,1,None,2
+869752,79,F,West,Obesity,Medication,2024-04-21,2024-05-19,28,False,3,0,Public,5
+280439,79,F,West,Depression,Combined Therapy,2024-05-19,2024-06-03,15,True,10,1,Private,4
+189179,79,F,West,Type 2 Diabetes,Surgery,2022-12-20,2023-01-12,23,False,2,3,Public,3
+736833,33,M,South,Obesity,Physical Therapy,2023-06-28,2023-07-19,21,True,5,1,Private,3
+323993,33,M,South,Depression,Counseling,2024-07-12,2024-07-24,12,False,5,3,Public,1
+356331,33,M,South,Hypertension,Medication,2024-11-12,2024-11-13,1,True,6,0,Private,5
+6402,57,F,West,Type 2 Diabetes,Counseling,2023-08-27,2023-09-20,24,False,1,1,None,0
+912117,40,F,North,Asthma,Medication,2023-04-17,2023-04-29,12,False,9,2,Private,2
+593830,40,F,North,Hypertension,Physical Therapy,2023-03-19,2023-03-30,11,True,1,0,None,3
+420252,40,F,North,Heart Disease,Medication,2024-04-21,2024-04-24,3,True,3,0,Private,5
+148766,29,M,South,Hypertension,Medication,2023-01-21,2023-02-11,21,True,1,3,None,1
+663928,29,M,South,Depression,Lifestyle Changes,2024-06-25,2024-07-10,15,True,4,3,Public,1
+96214,29,M,South,Obesity,Medication,2022-12-21,2022-12-29,8,False,2,1,None,4
+556251,84,F,South,Hypertension,Counseling,2024-06-29,2024-07-19,20,False,10,0,None,3
+394468,84,F,South,Type 2 Diabetes,Counseling,2023-05-14,2023-06-12,29,False,6,2,Public,0
+475682,84,F,South,Anxiety,Surgery,2023-10-20,2023-11-14,25,True,7,1,None,3
+165055,74,M,North,Asthma,Lifestyle Changes,2023-08-19,2023-09-09,21,True,1,0,Private,3
+326775,74,M,North,Hypertension,Lifestyle Changes,2023-09-11,2023-09-20,9,True,6,1,None,0
+340140,63,M,East,Asthma,Surgery,2024-06-10,2024-07-09,29,False,4,2,None,4
+987137,69,F,West,Asthma,Surgery,2024-07-23,2024-08-17,25,False,6,2,Public,5
+625185,69,F,West,Lower Back Pain,Lifestyle Changes,2024-02-11,2024-02-14,3,True,8,2,Public,0
+926251,69,F,West,Obesity,Surgery,2023-02-01,2023-02-09,8,False,1,0,Private,2
+163137,79,M,Central,Lower Back Pain,Surgery,2023-01-07,2023-01-26,19,False,6,2,Public,1
+791083,20,F,Central,Type 2 Diabetes,Surgery,2023-03-30,2023-04-06,7,True,5,2,Public,4
+52179,20,F,Central,COPD,Surgery,2024-03-21,2024-03-24,3,False,10,0,None,3
+85544,20,F,Central,Arthritis,Surgery,2024-05-04,2024-05-26,22,True,5,0,Public,1
+464637,26,F,North,Hypertension,Lifestyle Changes,2023-06-27,2023-07-26,29,True,8,2,None,0
+444611,26,F,North,Obesity,Counseling,2024-04-25,2024-04-29,4,True,9,2,Private,5
+636565,26,F,North,Lower Back Pain,Physical Therapy,2023-12-10,2024-01-08,29,True,4,1,Public,5
+434303,83,F,North,Type 2 Diabetes,Physical Therapy,2023-11-06,2023-11-11,5,True,2,1,Public,5
+226040,69,M,West,Arthritis,Medication,2023-06-28,2023-07-16,18,True,3,3,Private,0
+537234,50,M,North,Obesity,Combined Therapy,2024-07-06,2024-07-10,4,False,4,2,Public,2
+361939,50,M,North,Depression,Surgery,2023-02-24,2023-02-26,2,True,10,1,Public,4
+116276,67,F,North,Anxiety,Combined Therapy,2023-10-27,2023-11-01,5,False,5,2,Private,4
+711163,67,F,North,Asthma,Surgery,2023-07-06,2023-08-03,28,True,10,3,Private,0
+621946,21,M,Central,Type 2 Diabetes,Lifestyle Changes,2024-05-07,2024-06-02,26,False,3,2,None,5
+552530,21,M,Central,COPD,Surgery,2023-12-10,2023-12-28,18,True,10,2,Public,1
+323401,21,M,Central,Hypertension,Physical Therapy,2024-04-29,2024-05-21,22,True,9,2,Private,1
+231230,46,F,Central,Type 2 Diabetes,Combined Therapy,2023-01-02,2023-01-25,23,False,6,3,Public,3
+628437,46,F,Central,COPD,Medication,2023-10-01,2023-10-18,17,False,2,0,Public,0
+8060,46,F,Central,Obesity,Physical Therapy,2023-01-09,2023-01-28,19,True,10,2,Private,3
+316061,62,M,South,Hypertension,Physical Therapy,2023-05-05,2023-05-20,15,False,5,2,Public,3
+804624,62,M,South,Obesity,Lifestyle Changes,2023-05-11,2023-05-15,4,False,1,2,Private,0
+801280,33,M,East,Lower Back Pain,Lifestyle Changes,2023-03-14,2023-04-04,21,True,9,2,Public,4
+303507,18,M,West,Depression,Counseling,2023-06-14,2023-06-25,11,False,10,3,Public,5
+125812,18,M,West,Asthma,Surgery,2023-08-09,2023-08-30,21,True,8,1,Private,3
+521546,79,M,West,Heart Disease,Combined Therapy,2022-12-04,2022-12-30,26,False,2,0,Public,1
+451574,46,M,West,Type 2 Diabetes,Medication,2024-06-30,2024-07-04,4,True,3,2,Public,4
+135461,46,M,West,Anxiety,Medication,2023-04-13,2023-05-03,20,True,4,1,Private,3
+558453,46,M,West,Lower Back Pain,Combined Therapy,2023-09-19,2023-10-05,16,True,4,3,Private,2
+241288,70,M,East,Depression,Medication,2024-05-27,2024-06-02,6,False,7,3,None,2
+585864,70,M,East,COPD,Combined Therapy,2023-12-21,2023-12-26,5,True,7,0,Public,5
+700499,35,F,East,Anxiety,Combined Therapy,2024-09-05,2024-09-28,23,True,9,2,Public,4
+371371,80,M,South,Lower Back Pain,Counseling,2024-08-15,2024-09-08,24,False,9,0,Private,4
+416359,80,M,South,Type 2 Diabetes,Lifestyle Changes,2023-01-22,2023-02-15,24,True,9,1,Public,2
+778086,52,M,West,Hypertension,Counseling,2024-09-27,2024-10-04,7,True,8,0,Public,5
+457409,52,M,West,Asthma,Counseling,2022-12-30,2023-01-23,24,False,8,0,Private,1
+482087,43,F,East,Anxiety,Physical Therapy,2022-12-12,2022-12-15,3,True,3,0,Private,4
+81644,43,F,East,Hypertension,Surgery,2024-11-12,2024-11-29,17,True,6,2,None,5
+328267,43,F,East,Asthma,Lifestyle Changes,2024-09-27,2024-10-16,19,True,2,3,Private,3
+450137,39,F,North,Obesity,Counseling,2024-02-18,2024-03-07,18,False,9,0,None,4
+424068,39,F,North,Heart Disease,Medication,2024-02-16,2024-03-14,27,False,7,2,Public,0
+671237,39,F,North,Depression,Medication,2024-06-01,2024-06-03,2,True,4,0,Public,1
+303578,31,F,South,Asthma,Surgery,2023-10-18,2023-10-30,12,True,8,0,Private,4
+424707,31,F,South,Depression,Surgery,2023-02-25,2023-03-12,15,True,2,3,None,1
+340544,31,F,South,Hypertension,Combined Therapy,2022-12-14,2022-12-30,16,True,5,2,Public,3
+840247,34,F,North,COPD,Combined Therapy,2023-04-10,2023-05-02,22,False,10,0,Private,1
+482446,34,F,North,Type 2 Diabetes,Medication,2024-03-22,2024-04-12,21,True,7,3,None,3
+723108,24,F,West,Lower Back Pain,Physical Therapy,2024-09-04,2024-09-05,1,False,10,3,Private,0
+379430,24,F,West,Asthma,Combined Therapy,2024-11-11,2024-11-12,1,False,6,2,None,3
+457925,43,F,North,Arthritis,Surgery,2023-02-04,2023-03-05,29,True,4,1,Public,0
+111005,43,F,North,Obesity,Medication,2024-09-13,2024-09-16,3,True,10,1,Public,1
+456839,43,F,North,Asthma,Physical Therapy,2023-06-04,2023-06-10,6,False,8,0,None,0
+419902,46,F,East,COPD,Combined Therapy,2024-02-28,2024-03-16,17,False,1,0,Public,3
+82467,46,F,East,Asthma,Combined Therapy,2024-01-08,2024-01-15,7,True,7,1,None,5
+912811,46,F,East,Obesity,Counseling,2023-10-01,2023-10-17,16,False,7,0,None,0
+782033,77,M,West,Obesity,Physical Therapy,2023-07-26,2023-07-27,1,True,9,3,Public,0
+232335,77,M,West,Anxiety,Medication,2023-08-18,2023-09-09,22,True,10,2,Public,1
+816964,77,M,West,Asthma,Medication,2023-08-13,2023-08-23,10,True,3,3,Private,3
+80089,66,F,South,Asthma,Counseling,2023-04-07,2023-05-06,29,False,1,1,Private,3
+663984,66,F,South,Anxiety,Combined Therapy,2023-12-29,2024-01-23,25,True,7,0,Private,5
+556379,66,F,South,Obesity,Counseling,2023-02-24,2023-03-09,13,True,5,1,Public,0
+203322,69,M,South,COPD,Counseling,2023-12-29,2024-01-20,22,False,3,2,Public,5
+813934,69,M,South,Asthma,Counseling,2024-10-31,2024-11-25,25,True,3,3,Public,5
+368154,84,M,East,Lower Back Pain,Combined Therapy,2023-08-26,2023-09-05,10,False,3,3,Public,5
+858729,84,M,East,COPD,Combined Therapy,2024-06-14,2024-06-28,14,True,3,2,None,0
+854628,84,M,East,Obesity,Lifestyle Changes,2024-04-12,2024-04-15,3,True,4,1,Public,2
+247745,67,M,North,Arthritis,Lifestyle Changes,2023-03-22,2023-04-14,23,False,10,2,Private,2
+153557,63,F,Central,Heart Disease,Lifestyle Changes,2023-02-15,2023-02-19,4,True,3,2,Public,5
+206854,63,F,Central,Anxiety,Counseling,2023-06-14,2023-06-25,11,True,5,3,None,1
+631661,63,F,Central,Depression,Surgery,2023-04-11,2023-04-20,9,False,3,1,Public,1
+797143,56,M,South,Arthritis,Surgery,2023-03-26,2023-04-11,16,True,7,2,Public,5
+687351,45,F,South,Depression,Counseling,2024-07-09,2024-08-03,25,False,5,0,Private,1
+185751,20,M,North,Obesity,Physical Therapy,2023-01-25,2023-01-30,5,True,2,3,Private,3
+658452,20,M,North,Heart Disease,Medication,2024-07-20,2024-08-08,19,True,8,3,Private,2
+486490,20,M,North,Anxiety,Physical Therapy,2023-12-16,2023-12-29,13,False,8,3,None,3
+591119,34,M,North,Arthritis,Medication,2024-07-05,2024-07-16,11,False,2,0,None,5
+607616,34,M,North,Depression,Medication,2024-07-10,2024-07-25,15,True,7,0,Public,0
+714220,34,M,North,Obesity,Medication,2023-11-11,2023-11-22,11,True,6,0,Private,5
+924894,68,M,West,Heart Disease,Counseling,2024-11-14,2024-12-12,28,False,5,0,Public,1
+674225,68,M,West,COPD,Physical Therapy,2024-02-09,2024-03-09,29,False,5,2,None,5
+654858,75,M,East,Arthritis,Counseling,2024-04-04,2024-04-21,17,True,5,2,Private,3
+906228,22,F,South,Type 2 Diabetes,Counseling,2023-08-06,2023-08-23,17,True,8,0,Private,3
+331495,22,F,South,Depression,Medication,2024-03-29,2024-04-27,29,True,1,1,Public,2
+461124,78,M,North,Anxiety,Surgery,2023-03-25,2023-04-10,16,False,1,2,Private,2
+491699,23,M,Central,Type 2 Diabetes,Surgery,2023-01-20,2023-02-17,28,True,9,0,Public,0
+662055,23,M,Central,Obesity,Physical Therapy,2023-11-06,2023-11-07,1,False,7,3,Private,5
+835012,23,M,Central,Heart Disease,Lifestyle Changes,2023-07-21,2023-08-11,21,True,10,2,Private,3
+620148,30,M,South,Lower Back Pain,Physical Therapy,2023-06-29,2023-07-22,23,True,6,1,Public,2
+369038,30,M,South,COPD,Surgery,2023-01-10,2023-02-04,25,True,7,1,Private,2
+77794,30,M,South,Asthma,Medication,2023-12-27,2024-01-06,10,False,6,3,Private,2
+484172,19,F,South,Hypertension,Surgery,2023-07-27,2023-08-09,13,True,5,0,Private,5
+39434,19,F,South,Heart Disease,Surgery,2023-11-14,2023-11-17,3,True,6,3,Private,2
+386649,53,F,North,Type 2 Diabetes,Counseling,2023-01-11,2023-01-28,17,False,5,0,Public,0
+301022,53,F,North,Obesity,Lifestyle Changes,2024-09-03,2024-09-24,21,True,6,2,None,1
+675981,53,F,North,Lower Back Pain,Combined Therapy,2023-01-26,2023-01-31,5,False,3,1,Private,0
+896840,77,F,South,COPD,Physical Therapy,2024-09-29,2024-10-17,18,True,8,0,Private,3
+644883,51,M,North,Depression,Physical Therapy,2023-02-06,2023-02-16,10,False,2,3,None,5
+531699,51,M,North,Lower Back Pain,Surgery,2024-03-03,2024-03-07,4,True,10,2,Public,4
+485188,70,F,South,Anxiety,Physical Therapy,2023-09-22,2023-09-25,3,False,1,2,Public,1
+581242,84,M,East,Type 2 Diabetes,Physical Therapy,2024-02-21,2024-03-19,27,True,1,3,None,3
+774814,84,M,East,Asthma,Surgery,2024-08-04,2024-08-17,13,True,4,2,Private,2
+43015,84,M,East,Anxiety,Combined Therapy,2024-10-23,2024-11-16,24,True,2,0,Public,0
+953207,53,M,South,Depression,Combined Therapy,2023-11-12,2023-12-09,27,True,6,3,Private,5
+599425,53,M,South,Lower Back Pain,Surgery,2024-08-18,2024-09-16,29,True,2,0,Public,4
+197383,60,F,North,Anxiety,Surgery,2024-04-17,2024-05-14,27,True,9,3,Public,2
+634394,51,F,West,COPD,Medication,2023-08-04,2023-08-08,4,False,1,3,Private,5
+525721,51,F,West,Obesity,Counseling,2023-12-02,2023-12-20,18,False,10,3,Private,4
+64879,51,F,West,Type 2 Diabetes,Medication,2023-03-25,2023-03-30,5,True,4,3,None,3
+108529,33,M,North,Obesity,Medication,2023-11-12,2023-12-01,19,False,5,1,Public,2
+942802,40,F,North,Lower Back Pain,Physical Therapy,2024-08-18,2024-08-27,9,True,10,1,Private,2
+360120,40,F,North,Depression,Medication,2024-09-08,2024-10-06,28,True,6,1,Private,0
+88425,33,F,North,Heart Disease,Physical Therapy,2024-06-04,2024-06-17,13,True,1,3,None,2
+677513,33,F,North,Depression,Counseling,2023-12-24,2024-01-10,17,True,5,1,None,0
+41043,33,F,North,Obesity,Surgery,2023-04-11,2023-04-26,15,False,5,1,Private,5
+741995,46,F,West,Heart Disease,Lifestyle Changes,2023-06-08,2023-07-02,24,True,7,3,Private,2
+460767,65,M,Central,Obesity,Physical Therapy,2023-11-03,2023-11-19,16,True,10,1,Private,0
+548141,65,M,Central,Heart Disease,Combined Therapy,2024-01-09,2024-01-31,22,True,5,1,None,2
+166457,40,M,Central,Type 2 Diabetes,Surgery,2024-03-15,2024-04-06,22,True,4,2,Public,5
+390963,40,M,Central,Heart Disease,Physical Therapy,2023-09-06,2023-09-22,16,True,6,2,None,1
+296635,40,M,Central,Hypertension,Surgery,2024-11-09,2024-12-09,30,False,2,2,None,0
+428625,22,M,North,Arthritis,Combined Therapy,2023-09-24,2023-10-24,30,True,4,0,None,0
+354803,22,M,North,Asthma,Surgery,2024-07-21,2024-08-05,15,True,7,3,Private,3
+626928,52,M,South,Obesity,Physical Therapy,2024-05-08,2024-05-23,15,True,2,3,None,1
+827564,78,F,East,Heart Disease,Lifestyle Changes,2023-01-07,2023-01-27,20,True,3,3,None,3
+678748,28,F,West,COPD,Lifestyle Changes,2024-04-01,2024-04-28,27,False,6,2,Private,5
+69113,28,F,West,Asthma,Medication,2023-08-14,2023-09-07,24,True,3,1,Private,4
+99096,54,F,West,Heart Disease,Counseling,2023-08-11,2023-08-19,8,True,10,1,Public,5
+711332,54,F,West,Type 2 Diabetes,Medication,2024-02-04,2024-02-11,7,True,5,2,None,1
+297949,54,F,West,Obesity,Surgery,2023-09-24,2023-09-26,2,True,5,0,Private,4
+758889,85,F,East,Lower Back Pain,Combined Therapy,2023-06-11,2023-07-05,24,False,6,1,Public,2
+688457,50,F,South,Hypertension,Surgery,2024-09-19,2024-10-07,18,True,2,3,Private,3
+631977,50,F,South,Lower Back Pain,Physical Therapy,2024-10-31,2024-11-16,16,True,1,0,None,0
+157677,60,M,West,COPD,Surgery,2024-10-06,2024-10-14,8,False,3,3,Public,3
+85461,32,F,Central,Hypertension,Surgery,2023-08-13,2023-08-27,14,True,6,1,Private,2
+695847,20,M,Central,Depression,Medication,2024-02-23,2024-03-09,15,True,8,2,Private,5
+961278,20,M,Central,Obesity,Medication,2023-03-17,2023-03-31,14,True,4,1,Private,3
+325301,53,M,North,Arthritis,Surgery,2023-08-26,2023-08-30,4,True,7,2,Public,2
+732409,27,F,East,Heart Disease,Combined Therapy,2024-04-20,2024-05-16,26,True,8,1,Public,1
+410997,27,F,East,COPD,Medication,2024-04-25,2024-05-01,6,False,10,0,Private,0
+623945,55,M,West,Type 2 Diabetes,Surgery,2023-03-08,2023-04-05,28,True,6,2,Public,3
+983566,55,M,West,Asthma,Physical Therapy,2024-05-31,2024-06-05,5,True,6,3,Private,4
+324620,18,M,North,Depression,Physical Therapy,2023-02-01,2023-02-22,21,True,8,2,None,2
+394976,18,M,North,COPD,Combined Therapy,2024-02-05,2024-02-11,6,True,9,2,None,1
+830117,32,M,North,Type 2 Diabetes,Surgery,2024-04-10,2024-04-30,20,True,5,2,Public,2
+852686,32,M,North,Anxiety,Medication,2023-08-10,2023-08-29,19,True,5,1,Private,2
+702667,42,M,North,Anxiety,Counseling,2023-03-07,2023-03-19,12,True,5,1,Public,4
+869226,42,M,North,Asthma,Surgery,2024-05-26,2024-06-17,22,True,8,2,Public,0
+718709,70,F,Central,Heart Disease,Combined Therapy,2024-06-23,2024-07-22,29,True,2,2,Private,3
+551963,70,F,Central,COPD,Lifestyle Changes,2024-11-05,2024-11-12,7,True,2,2,Private,5
+677406,70,F,Central,Type 2 Diabetes,Combined Therapy,2023-02-08,2023-03-04,24,False,6,0,Private,0
+443973,29,M,North,Depression,Physical Therapy,2024-05-01,2024-05-26,25,True,7,1,Public,1
+379404,29,M,North,COPD,Counseling,2023-12-27,2024-01-14,18,True,4,1,Private,0
+380211,22,M,East,Type 2 Diabetes,Medication,2022-12-12,2023-01-11,30,True,5,0,None,5
+189019,22,M,East,Depression,Physical Therapy,2023-07-25,2023-08-18,24,True,1,3,Public,3
+358332,22,M,East,Hypertension,Medication,2023-05-13,2023-05-30,17,False,4,3,None,4
+509892,45,F,West,Obesity,Physical Therapy,2024-07-15,2024-07-20,5,True,9,1,Public,2
+237547,79,F,South,Lower Back Pain,Lifestyle Changes,2023-04-26,2023-05-18,22,True,6,0,None,4
+162471,43,F,Central,COPD,Physical Therapy,2023-03-14,2023-03-17,3,True,5,2,Public,1
+310160,46,M,Central,Arthritis,Physical Therapy,2023-01-26,2023-02-13,18,True,10,2,Public,1
+826403,46,M,Central,Depression,Combined Therapy,2024-09-13,2024-09-28,15,True,4,3,Private,2
+532351,19,M,South,Anxiety,Surgery,2023-02-14,2023-02-15,1,True,5,2,Public,1
+565990,19,M,South,Lower Back Pain,Counseling,2024-07-18,2024-07-23,5,True,2,3,Private,1
+774524,19,M,South,COPD,Physical Therapy,2024-09-06,2024-09-28,22,True,5,0,None,0
+552108,32,F,West,Obesity,Lifestyle Changes,2024-10-14,2024-11-05,22,False,6,3,Public,0
+694083,58,M,East,Asthma,Surgery,2022-12-27,2023-01-10,14,True,8,0,None,5
+918964,35,F,North,Obesity,Surgery,2023-08-16,2023-08-21,5,False,6,1,Public,5
+648052,84,F,North,Obesity,Surgery,2024-07-15,2024-07-23,8,False,3,0,Private,5
+626258,57,F,South,Anxiety,Counseling,2023-03-09,2023-03-27,18,False,10,2,Public,1
+161745,57,F,South,Arthritis,Combined Therapy,2023-09-16,2023-10-05,19,True,9,3,None,1
+189630,53,M,West,Heart Disease,Counseling,2023-04-03,2023-04-27,24,True,6,1,None,5
+726501,53,M,West,COPD,Medication,2024-09-03,2024-09-19,16,False,5,1,Private,1
+655087,20,F,South,Arthritis,Surgery,2024-07-18,2024-08-08,21,False,9,0,None,0
+946503,20,F,North,Hypertension,Counseling,2024-08-17,2024-09-03,17,False,3,1,Public,2
+756215,20,F,North,Type 2 Diabetes,Counseling,2023-04-05,2023-04-10,5,True,8,2,Public,2
+45814,20,F,North,Heart Disease,Medication,2023-11-02,2023-11-25,23,True,3,2,Public,5
+381995,82,F,East,Asthma,Combined Therapy,2023-10-13,2023-10-28,15,True,9,2,Private,4
+754540,39,F,South,COPD,Lifestyle Changes,2024-05-06,2024-06-04,29,True,1,1,None,1
+465776,39,F,South,Arthritis,Combined Therapy,2023-05-31,2023-06-24,24,True,1,3,None,4
+298768,37,F,South,Obesity,Surgery,2024-03-16,2024-03-26,10,True,3,2,None,4
+784897,37,F,South,Anxiety,Medication,2024-07-04,2024-07-06,2,True,10,0,Public,1
+470735,61,F,North,Depression,Physical Therapy,2024-07-28,2024-08-27,30,True,4,3,Private,3
+559951,48,F,North,Type 2 Diabetes,Physical Therapy,2023-05-28,2023-06-27,30,True,2,2,Private,4
+324500,82,F,Central,Arthritis,Medication,2023-06-01,2023-06-06,5,False,5,1,None,5
+822471,38,M,Central,Arthritis,Medication,2024-08-17,2024-08-30,13,True,3,3,Private,3
+947885,48,F,North,Hypertension,Lifestyle Changes,2023-11-27,2023-12-24,27,False,3,3,Public,4
+203440,79,M,South,Type 2 Diabetes,Medication,2024-09-06,2024-10-06,30,False,3,1,Private,5
+711256,79,M,South,Heart Disease,Lifestyle Changes,2023-09-09,2023-09-20,11,False,8,1,Private,5
+461999,82,F,Central,Hypertension,Counseling,2024-02-14,2024-02-20,6,True,6,2,Public,2
+806814,82,F,Central,Asthma,Physical Therapy,2023-11-21,2023-11-24,3,False,1,1,Private,0
+815922,82,F,Central,Arthritis,Physical Therapy,2023-07-04,2023-07-31,27,True,5,2,None,1
+527335,21,F,South,Depression,Counseling,2023-09-20,2023-09-23,3,True,5,1,Private,0
+438997,33,M,West,Heart Disease,Medication,2024-01-11,2024-01-30,19,False,8,0,None,3
+856572,30,M,East,Obesity,Surgery,2023-04-02,2023-04-20,18,False,9,3,Public,1
+840181,30,M,East,Lower Back Pain,Counseling,2023-05-02,2023-05-14,12,True,4,2,Private,0
+145121,30,M,East,Heart Disease,Lifestyle Changes,2024-03-11,2024-04-04,24,True,1,1,Private,5
+262147,29,F,West,Type 2 Diabetes,Combined Therapy,2024-10-06,2024-11-01,26,True,4,0,Public,2
+672324,29,F,West,Heart Disease,Combined Therapy,2023-01-07,2023-02-03,27,True,2,1,None,2
+916578,23,F,South,Anxiety,Surgery,2023-12-06,2023-12-26,20,False,9,1,Private,5
+581478,68,F,North,COPD,Lifestyle Changes,2023-09-12,2023-09-13,1,False,10,2,None,4
+107573,70,M,South,Lower Back Pain,Physical Therapy,2024-11-22,2024-12-18,26,False,4,1,None,1
+886982,43,F,North,COPD,Counseling,2024-06-02,2024-06-24,22,False,8,3,Private,2
+892512,48,M,North,Depression,Counseling,2024-01-02,2024-01-18,16,True,5,0,None,2
+298910,48,M,North,Anxiety,Medication,2023-03-04,2023-03-14,10,True,7,1,Private,1
+800185,46,M,West,Lower Back Pain,Medication,2023-02-01,2023-02-08,7,False,4,1,None,0
+286042,46,M,West,Depression,Physical Therapy,2023-04-01,2023-04-11,10,False,1,0,Public,2
+949282,46,M,West,Heart Disease,Medication,2023-11-11,2023-12-09,28,True,9,3,None,1
+154506,28,F,West,COPD,Lifestyle Changes,2023-12-31,2024-01-21,21,True,1,3,None,5
+458723,28,F,West,Heart Disease,Physical Therapy,2024-09-03,2024-09-06,3,True,2,3,Public,5
+992386,28,F,West,Obesity,Surgery,2023-02-07,2023-02-11,4,True,3,3,None,3
+232823,69,F,North,Lower Back Pain,Counseling,2024-11-04,2024-11-08,4,True,1,0,None,4
+473041,69,F,North,Depression,Medication,2024-08-23,2024-08-26,3,True,3,1,Public,1
+366566,33,F,South,Anxiety,Surgery,2024-10-15,2024-10-20,5,True,10,3,None,2
+27965,33,F,South,Type 2 Diabetes,Physical Therapy,2024-11-19,2024-12-11,22,False,2,3,Private,4
+55843,33,F,South,Depression,Surgery,2023-10-16,2023-10-21,5,True,1,2,Private,0
+526392,58,M,Central,Obesity,Surgery,2023-10-01,2023-10-28,27,True,9,0,Private,0
+247231,58,M,Central,Depression,Combined Therapy,2023-09-14,2023-10-12,28,True,8,0,Private,4
+85569,52,M,Central,Asthma,Counseling,2023-09-23,2023-10-14,21,True,9,1,Public,5
+235445,52,M,Central,Obesity,Surgery,2023-09-15,2023-09-19,4,False,4,3,Private,3
+334165,52,M,Central,Lower Back Pain,Medication,2022-12-19,2023-01-07,19,True,8,3,Private,4
+103896,20,M,South,Depression,Medication,2024-11-19,2024-12-12,23,True,8,0,Public,0
+749421,36,M,East,COPD,Counseling,2024-09-09,2024-09-30,21,True,10,1,Public,4
+351577,35,F,East,Depression,Medication,2024-04-15,2024-05-06,21,True,8,3,Public,5
+153143,25,M,Central,Heart Disease,Medication,2024-08-03,2024-08-25,22,True,6,2,None,3
+40163,25,M,Central,Lower Back Pain,Counseling,2023-03-14,2023-04-10,27,True,8,1,Public,3
+961959,25,M,Central,Arthritis,Physical Therapy,2023-07-08,2023-08-01,24,False,6,0,Public,4
+495404,44,F,East,Obesity,Medication,2024-09-02,2024-09-18,16,False,6,2,None,5
+871482,23,F,South,Hypertension,Combined Therapy,2024-05-21,2024-06-12,22,False,5,2,None,5
+795702,23,F,North,Type 2 Diabetes,Lifestyle Changes,2023-03-15,2023-03-22,7,False,3,0,Public,0
+491897,23,F,North,Depression,Physical Therapy,2024-05-29,2024-06-26,28,True,2,2,Private,3
+645239,36,M,West,Lower Back Pain,Medication,2023-11-11,2023-12-09,28,False,10,3,None,0
+949860,36,M,West,Hypertension,Counseling,2022-12-02,2022-12-16,14,True,4,1,None,2
+19927,49,F,Central,Heart Disease,Surgery,2023-01-28,2023-02-13,16,True,10,3,None,2
+226130,49,F,Central,Type 2 Diabetes,Lifestyle Changes,2023-06-14,2023-07-06,22,False,6,2,None,4
+156782,49,F,Central,Asthma,Medication,2024-09-06,2024-09-13,7,True,4,0,Public,0
+985898,61,M,North,Arthritis,Physical Therapy,2024-01-28,2024-02-07,10,True,5,3,Private,5
+638457,61,M,North,Type 2 Diabetes,Physical Therapy,2024-06-14,2024-06-18,4,True,10,2,Public,3
+443814,30,M,Central,Heart Disease,Combined Therapy,2024-01-11,2024-02-08,28,True,5,2,Private,0
+813875,30,M,Central,Lower Back Pain,Medication,2023-02-22,2023-03-17,23,False,7,0,Public,5
+249183,30,M,Central,Hypertension,Lifestyle Changes,2023-07-09,2023-07-31,22,True,2,3,None,4
+127767,69,M,South,Type 2 Diabetes,Medication,2023-07-19,2023-07-31,12,True,2,3,Public,3
+250021,69,M,South,Heart Disease,Counseling,2023-01-04,2023-01-25,21,False,10,1,Public,1
+669989,49,M,South,Arthritis,Counseling,2023-10-20,2023-11-17,28,True,2,3,Public,4
+653064,49,M,South,Asthma,Surgery,2024-08-05,2024-08-21,16,True,3,0,None,0
+65858,49,M,South,Heart Disease,Physical Therapy,2023-11-18,2023-12-06,18,False,10,0,Private,2
+877330,70,F,East,Obesity,Lifestyle Changes,2023-02-22,2023-03-16,22,False,2,0,None,1
+524108,70,F,East,Lower Back Pain,Lifestyle Changes,2024-10-31,2024-11-30,30,True,9,0,None,3
+562093,70,F,East,COPD,Physical Therapy,2024-03-05,2024-03-19,14,True,1,1,Private,5
+662652,53,F,Central,Anxiety,Physical Therapy,2022-12-10,2023-01-07,28,True,3,1,Public,2
+602980,53,F,Central,Lower Back Pain,Lifestyle Changes,2024-01-02,2024-01-13,11,False,3,0,None,2
+753448,53,F,Central,Type 2 Diabetes,Surgery,2023-06-03,2023-06-22,19,True,4,2,Private,3
+305420,34,F,North,Asthma,Surgery,2023-03-19,2023-04-01,13,False,1,0,None,2
+1640,34,F,North,Depression,Lifestyle Changes,2023-10-27,2023-10-28,1,False,8,2,None,3
+369954,34,F,North,Obesity,Combined Therapy,2024-03-19,2024-04-10,22,True,8,3,Public,4
+598384,25,M,West,Arthritis,Combined Therapy,2023-06-02,2023-06-24,22,True,2,0,Private,2
+196412,25,M,West,Anxiety,Counseling,2023-10-17,2023-11-04,18,True,1,0,None,3
+700674,71,M,West,Asthma,Medication,2024-04-27,2024-05-24,27,False,10,3,None,3
+548913,71,M,West,Arthritis,Medication,2023-02-02,2023-02-05,3,True,3,1,Private,5
+70966,18,M,West,Hypertension,Medication,2023-09-04,2023-09-13,9,True,8,0,None,1
+570511,18,M,West,Anxiety,Counseling,2024-01-10,2024-01-20,10,True,5,3,Public,3
+824613,23,F,North,Type 2 Diabetes,Physical Therapy,2023-12-27,2023-12-29,2,False,7,1,Private,3
+581070,23,F,North,Arthritis,Lifestyle Changes,2023-12-27,2024-01-18,22,False,10,2,Public,3
+409420,70,M,Central,Hypertension,Surgery,2022-12-13,2022-12-16,3,True,8,2,Private,1
+492972,70,M,Central,Type 2 Diabetes,Counseling,2024-10-06,2024-10-19,13,False,1,2,Private,0
+666549,42,M,South,Obesity,Physical Therapy,2022-12-31,2023-01-23,23,False,10,0,None,2
+391435,42,M,South,Lower Back Pain,Medication,2023-09-24,2023-10-09,15,True,1,3,None,0
+783618,83,F,East,Anxiety,Counseling,2023-06-13,2023-07-03,20,False,5,1,Public,0
+374440,83,F,East,Asthma,Counseling,2022-12-10,2023-01-03,24,False,8,0,None,5
+70841,51,M,North,Asthma,Surgery,2024-08-01,2024-08-14,13,False,7,3,Public,4
+252838,51,M,North,Type 2 Diabetes,Lifestyle Changes,2023-08-22,2023-08-31,9,True,8,2,None,1
+689023,51,M,North,Depression,Counseling,2024-06-19,2024-07-14,25,True,8,3,Public,3
+108699,26,F,West,COPD,Surgery,2024-03-29,2024-04-26,28,True,10,0,Public,3
+610169,26,F,West,Heart Disease,Medication,2024-07-19,2024-08-08,20,True,3,2,Public,3
+793435,26,F,West,Asthma,Physical Therapy,2024-06-21,2024-06-30,9,False,8,1,None,4
+139890,59,F,North,Type 2 Diabetes,Surgery,2023-08-13,2023-09-02,20,False,2,3,None,4
+369412,59,F,North,Heart Disease,Medication,2023-01-01,2023-01-20,19,False,9,3,Public,4
+354992,40,F,West,Depression,Physical Therapy,2024-01-26,2024-02-14,19,True,4,2,None,3
+674020,40,F,West,Arthritis,Surgery,2024-08-20,2024-09-04,15,True,10,2,Private,1
+870720,74,F,West,Depression,Counseling,2023-04-12,2023-04-29,17,False,6,0,Private,5
+717941,74,F,West,Obesity,Combined Therapy,2024-07-25,2024-08-11,17,True,1,1,None,2
+729168,68,F,Central,Lower Back Pain,Counseling,2023-11-23,2023-12-04,11,True,1,1,Private,2
+662423,68,F,Central,Type 2 Diabetes,Physical Therapy,2023-12-04,2023-12-28,24,True,3,3,Private,2
+850916,61,M,North,Asthma,Counseling,2023-04-18,2023-05-02,14,True,1,1,None,0
+66165,61,M,North,Depression,Surgery,2023-03-12,2023-04-07,26,True,9,2,None,0
+813894,64,M,North,Arthritis,Counseling,2024-06-06,2024-07-04,28,True,2,0,Private,0
+38780,64,M,North,Depression,Counseling,2023-11-18,2023-12-18,30,False,8,1,None,3
+211383,43,F,East,Anxiety,Physical Therapy,2023-07-13,2023-08-09,27,True,7,1,Public,4
+829538,75,F,West,Obesity,Physical Therapy,2023-01-01,2023-01-07,6,True,3,1,Public,5
+928818,75,F,West,Type 2 Diabetes,Physical Therapy,2023-05-01,2023-05-07,6,False,5,0,Private,1
+330926,75,F,West,Lower Back Pain,Medication,2022-12-30,2022-12-31,1,False,1,3,None,0
+325138,23,F,West,Hypertension,Surgery,2024-11-21,2024-12-15,24,True,4,0,Private,1
+417568,23,F,West,Asthma,Surgery,2024-01-02,2024-01-29,27,True,9,1,Private,2
+569408,23,F,West,Obesity,Lifestyle Changes,2024-08-22,2024-09-18,27,False,1,2,Private,5
+265618,75,F,Central,COPD,Counseling,2023-11-30,2023-12-15,15,True,5,3,Private,0
+789882,75,F,Central,Asthma,Counseling,2022-12-26,2023-01-15,20,False,6,0,None,2
+200386,33,F,Central,Obesity,Lifestyle Changes,2024-04-13,2024-05-04,21,True,2,0,Public,1
+374314,35,F,West,Obesity,Medication,2023-07-08,2023-07-18,10,True,6,0,Public,0
+818771,35,F,West,Heart Disease,Medication,2024-09-27,2024-10-26,29,False,2,2,None,2
+907855,35,F,West,Depression,Surgery,2023-01-04,2023-01-06,2,False,8,3,None,1
+348048,56,F,Central,Anxiety,Surgery,2024-04-20,2024-04-28,8,False,2,0,Public,1
+130521,22,M,East,Heart Disease,Medication,2023-06-28,2023-07-04,6,True,6,0,Private,3
+385896,20,M,South,Heart Disease,Medication,2024-08-09,2024-09-07,29,True,1,0,None,2
+932694,20,M,South,Asthma,Counseling,2023-11-02,2023-11-21,19,True,10,2,None,2
+779414,20,M,South,Type 2 Diabetes,Combined Therapy,2023-10-04,2023-10-17,13,True,4,3,Private,3
+938095,27,M,East,Type 2 Diabetes,Surgery,2023-11-04,2023-11-07,3,True,5,3,Private,2
+355505,33,M,West,Obesity,Counseling,2023-09-24,2023-10-17,23,True,2,2,Private,2
+520306,33,M,West,COPD,Physical Therapy,2023-04-22,2023-04-27,5,False,10,0,Private,1
+521691,33,M,West,Hypertension,Lifestyle Changes,2024-05-18,2024-05-29,11,True,5,1,None,2
+969209,76,M,North,Lower Back Pain,Counseling,2023-09-09,2023-10-05,26,True,1,0,None,2
+544500,76,M,North,Arthritis,Physical Therapy,2024-08-08,2024-08-20,12,True,3,3,None,2
+840064,33,F,North,Lower Back Pain,Physical Therapy,2023-06-23,2023-06-29,6,True,3,0,Public,3
+762400,33,F,North,Arthritis,Surgery,2023-01-31,2023-02-04,4,True,9,3,Private,2
+82760,76,F,West,Anxiety,Surgery,2023-10-23,2023-11-20,28,False,7,1,None,1
+631718,76,F,West,Obesity,Surgery,2023-10-28,2023-11-01,4,False,4,3,Public,0
+189222,76,F,West,Arthritis,Physical Therapy,2024-08-27,2024-08-30,3,True,3,2,None,3
+308036,55,M,North,Asthma,Lifestyle Changes,2024-01-25,2024-02-16,22,True,1,2,Public,2
+107581,55,M,North,COPD,Surgery,2023-08-04,2023-08-22,18,False,9,0,Public,3
+343848,55,M,North,Obesity,Combined Therapy,2023-01-29,2023-02-05,7,True,9,2,None,5
+310000,80,F,North,COPD,Physical Therapy,2024-04-24,2024-05-21,27,True,4,2,Private,5
+467576,80,F,North,Asthma,Surgery,2023-07-24,2023-08-03,10,True,2,3,Private,4
+752524,70,M,North,COPD,Surgery,2024-03-10,2024-04-04,25,False,9,2,None,0
+174739,70,M,North,Anxiety,Combined Therapy,2023-10-24,2023-11-04,11,False,2,1,Public,2
+465471,70,M,North,Hypertension,Medication,2024-05-16,2024-06-01,16,False,2,0,None,2
+468849,29,F,South,Hypertension,Counseling,2023-08-28,2023-09-26,29,True,9,0,Public,4
+762120,29,F,South,Anxiety,Lifestyle Changes,2022-12-30,2023-01-17,18,True,3,3,None,1
+955889,57,M,South,Arthritis,Combined Therapy,2024-10-03,2024-10-28,25,True,4,1,None,2
+644718,57,M,South,Obesity,Medication,2023-08-28,2023-09-02,5,False,9,0,Private,1
+287892,57,M,South,Hypertension,Combined Therapy,2023-10-31,2023-11-04,4,False,8,1,Private,1
+829924,22,M,West,Lower Back Pain,Combined Therapy,2024-04-07,2024-04-21,14,False,6,3,Private,0
+78686,22,M,West,Asthma,Lifestyle Changes,2023-01-11,2023-02-10,30,True,8,0,None,1
+668480,63,M,West,Hypertension,Counseling,2024-05-02,2024-05-22,20,True,10,0,None,2
+380959,63,M,West,Heart Disease,Counseling,2023-10-09,2023-10-24,15,False,2,0,Private,2
+840010,81,F,West,Asthma,Combined Therapy,2023-12-31,2024-01-01,1,True,2,3,None,4
+712413,81,F,West,Obesity,Combined Therapy,2024-07-02,2024-07-21,19,False,1,3,Private,0
+999072,37,F,Central,Depression,Physical Therapy,2023-04-01,2023-04-06,5,True,3,3,Private,0
+149715,37,F,Central,Hypertension,Physical Therapy,2022-12-22,2023-01-13,22,True,8,1,None,3
+637086,85,F,South,Anxiety,Surgery,2024-09-17,2024-10-13,26,True,3,2,Public,4
+819264,85,F,South,Obesity,Surgery,2024-05-07,2024-05-30,23,False,8,2,Private,3
+36489,85,F,South,Hypertension,Surgery,2023-11-03,2023-11-28,25,True,2,0,None,3
+70499,30,F,West,Heart Disease,Surgery,2023-03-06,2023-03-19,13,True,4,1,Private,3
+816332,30,F,West,COPD,Lifestyle Changes,2023-05-30,2023-06-14,15,True,7,3,None,0
+384123,30,F,West,Arthritis,Medication,2024-04-12,2024-05-09,27,True,4,1,Public,5
+401451,24,M,North,Arthritis,Medication,2023-09-05,2023-10-05,30,True,1,1,Private,1
+33958,18,F,Central,Obesity,Combined Therapy,2024-02-11,2024-03-02,20,True,9,2,Private,3
+160891,31,M,East,Lower Back Pain,Surgery,2024-03-11,2024-03-24,13,True,6,3,None,5
+471778,85,M,North,Depression,Physical Therapy,2024-05-08,2024-05-29,21,True,7,2,None,2
+390084,85,M,North,COPD,Surgery,2023-09-12,2023-09-13,1,True,7,1,None,5
+800152,30,M,North,Type 2 Diabetes,Surgery,2023-11-07,2023-11-12,5,True,9,0,None,2
+601800,30,M,North,Depression,Combined Therapy,2023-01-26,2023-02-24,29,False,7,0,Private,4
+555178,30,M,North,Anxiety,Surgery,2023-03-14,2023-04-11,28,True,8,2,Private,3
+417368,79,F,Central,Anxiety,Combined Therapy,2023-09-09,2023-10-06,27,True,6,1,None,3
+681113,79,F,Central,Type 2 Diabetes,Lifestyle Changes,2023-07-30,2023-08-01,2,False,2,3,Private,4
+261736,84,M,Central,Anxiety,Counseling,2023-07-02,2023-07-04,2,False,7,3,Private,2
+27172,43,F,West,Depression,Lifestyle Changes,2023-02-24,2023-03-16,20,True,1,3,Public,5
+195085,43,F,West,Type 2 Diabetes,Physical Therapy,2024-06-21,2024-07-08,17,True,9,0,Public,0
+542895,43,F,West,COPD,Physical Therapy,2023-12-20,2023-12-25,5,True,3,0,None,2
+957918,31,M,North,Type 2 Diabetes,Combined Therapy,2023-09-24,2023-10-18,24,True,10,3,None,4
+123481,31,M,North,Arthritis,Physical Therapy,2024-02-07,2024-02-19,12,True,1,3,Public,3
+812609,31,M,North,Hypertension,Combined Therapy,2023-06-19,2023-07-09,20,True,6,3,Private,0
+738237,59,M,North,Asthma,Lifestyle Changes,2023-06-18,2023-07-09,21,True,3,1,None,3
+224993,59,M,North,Arthritis,Physical Therapy,2023-11-09,2023-11-14,5,False,6,2,None,3
+299449,59,M,North,Obesity,Lifestyle Changes,2024-03-17,2024-04-03,17,False,10,3,Public,5
+960997,51,F,Central,Asthma,Counseling,2024-05-20,2024-06-04,15,False,6,2,Public,1
+209902,51,F,Central,Hypertension,Combined Therapy,2023-12-14,2023-12-18,4,True,8,1,Public,2
+142321,51,F,Central,Obesity,Combined Therapy,2023-03-03,2023-03-14,11,True,9,2,Private,0
+77649,85,M,North,Heart Disease,Combined Therapy,2024-09-20,2024-09-23,3,False,7,3,Public,2
+181043,85,M,North,Lower Back Pain,Medication,2023-11-14,2023-11-29,15,True,2,1,None,1
+748022,85,M,North,Obesity,Lifestyle Changes,2024-10-26,2024-10-28,2,True,6,0,Private,5
+92055,53,F,North,Obesity,Surgery,2023-11-08,2023-11-14,6,False,4,1,Private,5
+715054,53,F,North,Heart Disease,Physical Therapy,2024-08-18,2024-08-25,7,False,3,3,None,1
+335112,53,F,North,Arthritis,Combined Therapy,2024-09-14,2024-10-10,26,True,1,0,None,0
+364301,68,M,Central,Obesity,Counseling,2024-04-29,2024-04-30,1,False,5,3,Public,5
+68093,68,M,Central,Type 2 Diabetes,Physical Therapy,2024-06-01,2024-06-13,12,True,2,1,Public,2
+568507,68,M,Central,COPD,Lifestyle Changes,2024-01-29,2024-02-27,29,True,10,0,None,2
+934629,27,M,West,Hypertension,Physical Therapy,2023-07-11,2023-07-17,6,False,10,0,None,5
+892717,27,M,West,Anxiety,Surgery,2023-07-18,2023-08-17,30,True,10,3,None,2
+746385,75,F,East,Depression,Physical Therapy,2023-03-30,2023-04-03,4,True,2,2,Private,4
+972370,75,F,East,Anxiety,Counseling,2024-06-01,2024-06-12,11,False,9,0,Private,5
+668676,77,F,North,Depression,Surgery,2024-05-24,2024-06-14,21,False,8,0,Private,3
+832250,77,F,North,Asthma,Surgery,2023-04-12,2023-04-29,17,False,5,3,None,0
+533469,45,M,East,Asthma,Medication,2023-09-04,2023-09-22,18,False,1,1,None,2
+127257,45,M,East,Arthritis,Counseling,2023-05-21,2023-06-05,15,False,5,0,Public,5
+830541,82,M,East,Heart Disease,Medication,2023-05-03,2023-05-23,20,False,1,3,Public,3
+248235,82,M,East,COPD,Lifestyle Changes,2023-03-15,2023-04-08,24,True,9,0,None,4
+518019,82,M,East,Obesity,Physical Therapy,2024-08-02,2024-08-18,16,True,6,2,Private,3
+378427,69,M,West,Arthritis,Physical Therapy,2022-12-18,2022-12-31,13,True,5,3,Private,3
+600076,69,M,West,Asthma,Lifestyle Changes,2024-02-01,2024-02-18,17,True,6,0,Public,3
+490110,69,M,West,Lower Back Pain,Physical Therapy,2023-09-10,2023-09-19,9,False,3,2,None,1
+578443,33,F,South,Depression,Counseling,2024-08-13,2024-08-21,8,True,5,0,Private,1
+641674,70,M,East,Obesity,Physical Therapy,2023-03-08,2023-04-02,25,True,5,2,None,3
+90403,33,M,West,Type 2 Diabetes,Physical Therapy,2024-10-14,2024-11-01,18,True,3,1,None,4
+324314,33,M,West,Depression,Lifestyle Changes,2023-01-18,2023-01-22,4,False,9,1,Private,0
+751759,82,F,Central,Lower Back Pain,Medication,2023-10-03,2023-10-23,20,True,2,2,Private,5
+501916,82,F,Central,Asthma,Combined Therapy,2024-06-08,2024-06-11,3,True,1,2,None,2
+430749,82,F,Central,Depression,Lifestyle Changes,2024-01-10,2024-02-02,23,True,10,2,None,4
+429322,19,F,East,Lower Back Pain,Physical Therapy,2024-07-17,2024-08-01,15,True,8,0,Public,1
+602826,19,F,East,Hypertension,Surgery,2024-08-28,2024-09-11,14,True,7,2,Private,1
+131414,20,F,Central,Hypertension,Counseling,2023-01-24,2023-02-16,23,True,2,3,None,3
+673540,69,M,West,Heart Disease,Counseling,2023-08-01,2023-08-28,27,True,9,2,Public,5
+471832,69,M,West,Type 2 Diabetes,Surgery,2023-01-24,2023-02-03,10,False,3,3,Private,2
+713145,69,M,West,Lower Back Pain,Medication,2023-11-24,2023-11-30,6,False,5,0,Private,1
+361249,20,M,East,Hypertension,Medication,2024-01-03,2024-01-23,20,True,3,1,Private,1
+920607,20,M,East,Asthma,Counseling,2023-03-07,2023-03-13,6,True,8,3,Public,4
+818164,20,M,East,Anxiety,Medication,2024-09-01,2024-09-11,10,False,8,2,Public,2
+670872,24,F,North,Asthma,Counseling,2024-01-30,2024-02-13,14,False,2,2,Public,1
+190802,76,F,East,COPD,Medication,2024-02-27,2024-03-14,16,True,6,1,None,2
+135300,56,M,South,Asthma,Physical Therapy,2024-07-16,2024-08-10,25,False,1,1,Private,2
+527290,56,M,South,Depression,Lifestyle Changes,2023-10-30,2023-11-05,6,True,5,0,Private,2
+910385,56,M,South,Arthritis,Medication,2024-11-04,2024-11-18,14,False,7,3,None,4
+871776,34,F,West,Depression,Medication,2023-01-10,2023-01-20,10,True,2,2,None,3
+543269,34,F,West,Type 2 Diabetes,Physical Therapy,2023-03-04,2023-03-18,14,True,8,1,Public,1
+318897,34,F,West,Heart Disease,Surgery,2023-03-26,2023-04-23,28,False,4,3,None,1
+169834,18,M,South,Lower Back Pain,Lifestyle Changes,2023-04-04,2023-04-15,11,True,4,1,Public,5
+980143,61,M,Central,Depression,Counseling,2023-08-05,2023-08-11,6,True,6,3,Public,4
+236422,61,M,Central,Obesity,Medication,2024-05-31,2024-06-22,22,False,5,3,Private,3
+993508,61,M,Central,Hypertension,Counseling,2023-08-23,2023-09-12,20,True,6,3,Public,1
+544103,59,M,West,Heart Disease,Physical Therapy,2024-11-27,2024-12-10,13,True,8,1,Private,0
+297846,85,F,West,Depression,Counseling,2024-10-23,2024-10-28,5,True,3,2,Private,1
+82690,85,F,West,Anxiety,Physical Therapy,2024-09-15,2024-09-27,12,False,7,3,Private,0
+205837,56,F,North,COPD,Counseling,2023-06-10,2023-06-20,10,True,7,0,Private,5
+577599,56,F,North,Heart Disease,Medication,2024-04-04,2024-04-30,26,True,10,3,Public,0
+131250,56,F,North,Obesity,Medication,2023-06-29,2023-07-15,16,True,3,2,Private,2
+317534,75,M,Central,Lower Back Pain,Counseling,2024-03-27,2024-03-30,3,False,4,1,Private,1
+559392,75,M,Central,Obesity,Combined Therapy,2024-03-19,2024-03-28,9,False,6,3,Private,3
+526986,75,M,Central,Depression,Surgery,2023-02-08,2023-03-03,23,False,4,3,Private,0
+176827,81,F,East,COPD,Surgery,2024-04-08,2024-04-15,7,True,5,0,Private,4
+987346,82,M,Central,Arthritis,Surgery,2024-03-01,2024-03-18,17,False,2,1,None,4
+161684,73,F,East,Hypertension,Medication,2024-02-22,2024-02-23,1,False,3,3,Public,3
+690731,73,F,East,Heart Disease,Medication,2023-04-09,2023-04-27,18,False,3,3,Public,2
+755638,80,M,Central,Obesity,Surgery,2024-03-27,2024-04-03,7,True,5,0,None,2
+634534,80,M,Central,Heart Disease,Counseling,2024-10-28,2024-11-14,17,True,6,0,None,1
+883456,41,M,East,Anxiety,Physical Therapy,2023-08-17,2023-09-16,30,True,3,2,Private,0
+590996,41,M,East,Arthritis,Physical Therapy,2024-11-14,2024-12-02,18,False,4,2,Private,4
+865322,41,M,East,Lower Back Pain,Counseling,2022-12-29,2023-01-21,23,False,6,1,Private,0
+29751,49,F,East,Hypertension,Surgery,2024-09-28,2024-10-02,4,True,8,3,Private,5
+47670,84,M,North,COPD,Counseling,2023-01-30,2023-02-09,10,False,7,1,Private,5
+808475,84,M,North,Type 2 Diabetes,Medication,2024-04-09,2024-05-03,24,True,4,2,Public,4
+277511,42,M,North,Asthma,Medication,2024-02-18,2024-03-05,16,True,4,3,None,0
+221048,30,F,North,Type 2 Diabetes,Combined Therapy,2024-04-16,2024-04-26,10,True,4,3,None,3
+599929,30,F,North,Hypertension,Combined Therapy,2024-07-15,2024-08-01,17,True,9,0,Public,3
+648133,37,F,North,Obesity,Lifestyle Changes,2023-10-17,2023-11-15,29,True,1,1,None,5
+31757,81,M,East,COPD,Surgery,2024-04-07,2024-04-09,2,False,1,1,Public,5
+932180,81,M,East,Hypertension,Combined Therapy,2023-12-19,2024-01-16,28,False,2,3,None,0
+572079,81,M,East,Depression,Medication,2024-03-29,2024-04-09,11,True,1,0,Public,2
+673088,53,F,East,Depression,Lifestyle Changes,2023-07-10,2023-08-02,23,True,8,1,Private,3
+506404,53,F,East,Type 2 Diabetes,Counseling,2023-07-20,2023-08-15,26,True,9,1,None,4
+843776,53,F,East,Asthma,Counseling,2023-06-06,2023-06-22,16,False,8,3,Private,5
+718264,56,F,South,Anxiety,Lifestyle Changes,2024-08-16,2024-09-06,21,False,5,2,None,0
+311882,56,F,South,Asthma,Surgery,2023-10-09,2023-11-03,25,True,2,2,None,3
+76517,56,F,South,COPD,Surgery,2023-11-15,2023-12-06,21,False,10,3,Private,3
+62823,78,F,West,Type 2 Diabetes,Medication,2024-05-15,2024-05-21,6,True,5,0,Public,3
+460959,78,F,West,Depression,Surgery,2023-03-30,2023-04-03,4,True,3,2,Private,5
+507774,68,F,Central,Asthma,Counseling,2023-10-16,2023-11-13,28,True,10,3,None,1
+213933,68,F,Central,Lower Back Pain,Surgery,2023-11-23,2023-11-27,4,True,5,3,None,3
+636129,68,F,Central,COPD,Surgery,2023-08-19,2023-08-28,9,True,6,2,Private,3
+327766,27,M,North,Lower Back Pain,Counseling,2023-03-19,2023-04-18,30,False,4,1,Private,4
+753258,30,M,Central,Type 2 Diabetes,Counseling,2024-09-27,2024-10-03,6,False,5,2,Public,4
+769864,71,M,South,Type 2 Diabetes,Medication,2023-08-03,2023-08-27,24,False,9,2,Public,5
+362147,71,M,South,Anxiety,Lifestyle Changes,2024-09-26,2024-09-27,1,False,4,0,Private,3
+137118,80,M,North,Depression,Counseling,2023-10-03,2023-10-28,25,True,1,2,Private,2
+388539,80,M,North,Asthma,Physical Therapy,2024-07-10,2024-07-15,5,True,7,3,Private,2
+588933,29,F,Central,Depression,Lifestyle Changes,2024-01-01,2024-01-02,1,True,2,0,None,3
+334617,72,F,Central,Depression,Combined Therapy,2023-02-18,2023-02-20,2,True,4,2,None,3
+489131,72,F,Central,Hypertension,Combined Therapy,2023-06-03,2023-06-27,24,True,6,2,None,5
+280464,76,M,East,Lower Back Pain,Surgery,2023-03-03,2023-03-07,4,False,7,0,None,3
+259961,77,F,North,COPD,Combined Therapy,2023-11-12,2023-11-23,11,False,9,2,Private,1
+101514,20,M,Central,Depression,Medication,2023-03-17,2023-03-20,3,True,8,3,Public,4
+304309,42,F,Central,Arthritis,Physical Therapy,2023-01-06,2023-01-08,2,False,1,1,None,4
+906141,42,F,Central,Anxiety,Medication,2023-09-22,2023-10-07,15,False,10,3,Private,3
+438446,49,M,North,Obesity,Lifestyle Changes,2024-03-19,2024-03-23,4,True,1,0,Private,4
+907340,67,M,Central,Anxiety,Surgery,2023-06-08,2023-06-19,11,False,6,0,None,3
+167457,67,M,Central,Asthma,Counseling,2024-10-28,2024-11-09,12,True,4,3,Private,4
+343341,67,M,Central,Arthritis,Medication,2024-08-20,2024-08-29,9,True,9,3,Public,1
+605748,26,F,West,Heart Disease,Lifestyle Changes,2024-11-22,2024-12-07,15,True,6,2,Private,1
+327905,26,F,West,Type 2 Diabetes,Combined Therapy,2024-06-10,2024-07-06,26,True,3,2,None,3
+800190,22,F,West,Hypertension,Surgery,2023-04-24,2023-05-10,16,False,4,1,Private,1
+522469,72,M,Central,Lower Back Pain,Counseling,2023-03-31,2023-04-26,26,False,3,3,Private,5
+489491,34,M,West,Asthma,Physical Therapy,2024-01-01,2024-01-24,23,False,2,1,Public,2
+921777,34,M,West,Anxiety,Physical Therapy,2023-12-20,2024-01-11,22,True,4,1,Private,5
+521530,34,M,West,Hypertension,Medication,2023-07-25,2023-08-10,16,False,3,0,None,3
+94423,49,M,Central,Anxiety,Physical Therapy,2022-12-16,2022-12-28,12,False,2,0,Public,0
+529996,35,M,North,Heart Disease,Surgery,2023-09-29,2023-10-08,9,True,10,3,None,2
+252422,35,M,North,Type 2 Diabetes,Lifestyle Changes,2023-11-18,2023-12-10,22,False,7,1,Private,0
+611680,54,M,East,Heart Disease,Counseling,2023-05-14,2023-06-11,28,False,6,2,Private,0
+51021,54,M,East,Hypertension,Surgery,2023-08-29,2023-09-06,8,True,9,1,Public,3
+295023,19,F,West,Type 2 Diabetes,Counseling,2023-01-06,2023-02-05,30,False,1,2,None,1
+626543,41,F,Central,Arthritis,Lifestyle Changes,2023-12-17,2023-12-25,8,True,1,0,None,4
+883791,41,F,Central,Heart Disease,Lifestyle Changes,2024-10-13,2024-11-07,25,True,7,0,None,5
+705188,23,F,West,COPD,Surgery,2024-04-19,2024-04-23,4,True,1,0,None,4
+299628,23,F,West,Arthritis,Combined Therapy,2023-11-28,2023-12-02,4,True,10,2,None,3
+8574,23,F,West,Depression,Physical Therapy,2024-01-18,2024-02-10,23,True,6,3,Public,1
+112718,54,M,East,Type 2 Diabetes,Counseling,2024-09-16,2024-09-27,11,True,2,1,Public,1
+140440,54,M,East,Anxiety,Lifestyle Changes,2023-10-28,2023-11-19,22,True,5,1,None,5
+277319,59,F,South,Arthritis,Medication,2024-10-13,2024-10-20,7,True,2,3,Private,2
+383545,59,F,South,Depression,Medication,2024-06-15,2024-06-24,9,True,7,2,Public,2
+422842,18,M,South,Arthritis,Surgery,2024-07-13,2024-07-18,5,True,3,2,None,4
+47440,74,F,South,Obesity,Surgery,2023-09-08,2023-09-26,18,True,7,2,Public,1
+53642,63,F,Central,Asthma,Surgery,2023-10-05,2023-10-24,19,False,7,1,None,2
+589107,63,F,Central,Obesity,Counseling,2024-02-13,2024-02-29,16,True,1,2,Public,4
+380133,51,F,West,Arthritis,Counseling,2023-04-28,2023-05-11,13,True,6,1,Public,1
+302620,83,M,West,Depression,Medication,2024-01-31,2024-02-29,29,False,5,0,Private,5
+405116,83,M,West,Arthritis,Medication,2023-01-24,2023-01-26,2,True,10,1,Private,1
+472230,83,M,West,Lower Back Pain,Lifestyle Changes,2023-12-24,2024-01-06,13,False,2,0,Private,4
+576566,75,M,East,Obesity,Lifestyle Changes,2024-07-13,2024-08-04,22,False,2,1,Private,1
+865401,61,M,West,Hypertension,Physical Therapy,2023-07-03,2023-07-06,3,True,1,1,Private,4
+713449,73,M,East,Asthma,Lifestyle Changes,2024-03-26,2024-03-28,2,True,5,1,Public,2
+124582,73,M,East,Obesity,Physical Therapy,2024-03-16,2024-04-09,24,False,6,2,Private,0
+101377,26,M,East,Arthritis,Lifestyle Changes,2023-03-07,2023-03-19,12,False,9,2,None,0
+391326,55,M,Central,Lower Back Pain,Surgery,2023-09-29,2023-10-15,16,True,3,0,Private,5
+355556,55,M,Central,Depression,Surgery,2024-08-06,2024-08-28,22,True,5,0,Private,2
+984558,55,M,Central,Hypertension,Physical Therapy,2024-02-04,2024-02-19,15,True,6,3,Public,3
+791638,44,F,North,COPD,Lifestyle Changes,2023-09-07,2023-09-09,2,True,5,3,Private,5
+208727,44,F,North,Arthritis,Counseling,2023-03-20,2023-03-30,10,True,8,3,None,0
+533853,44,F,North,Obesity,Counseling,2024-03-09,2024-04-08,30,False,6,1,None,2
+524369,25,F,West,Type 2 Diabetes,Surgery,2023-10-05,2023-10-26,21,True,6,2,None,1
+47504,25,F,West,Lower Back Pain,Lifestyle Changes,2022-12-29,2023-01-05,7,True,8,2,Private,4
+143693,35,F,South,Anxiety,Medication,2022-12-28,2022-12-31,3,True,4,3,Private,0
+349218,35,F,South,Arthritis,Medication,2024-06-04,2024-06-12,8,True,5,3,Private,2
+496756,35,F,South,COPD,Surgery,2024-08-13,2024-09-01,19,True,9,2,Public,5
+479187,78,M,East,Depression,Lifestyle Changes,2024-01-05,2024-02-03,29,True,8,3,Public,0
+635710,78,M,East,Anxiety,Physical Therapy,2023-03-23,2023-04-14,22,True,3,3,Private,0
+540546,82,F,North,COPD,Combined Therapy,2024-10-21,2024-11-17,27,True,8,3,Public,5
+343897,65,M,West,Arthritis,Physical Therapy,2023-03-16,2023-03-24,8,False,6,2,None,0
+642848,65,M,West,COPD,Lifestyle Changes,2024-11-20,2024-12-12,22,False,4,3,Public,1
+412042,65,M,West,Hypertension,Combined Therapy,2023-08-02,2023-08-22,20,True,5,0,Public,2
+775232,35,M,South,Obesity,Combined Therapy,2024-03-20,2024-03-22,2,True,8,1,Private,3
+313769,35,M,South,Anxiety,Combined Therapy,2024-09-12,2024-09-23,11,True,5,2,None,1
+352713,59,M,South,Heart Disease,Physical Therapy,2024-03-03,2024-03-29,26,True,2,1,Private,0
+868524,59,M,South,Lower Back Pain,Counseling,2023-12-27,2024-01-18,22,False,5,1,None,5
+558198,59,M,South,Asthma,Physical Therapy,2023-12-28,2024-01-20,23,True,5,3,Public,0
+743167,79,F,Central,COPD,Medication,2023-12-13,2024-01-09,27,True,3,2,Public,5
+314353,79,F,Central,Heart Disease,Surgery,2024-02-08,2024-03-03,24,True,4,1,Public,3
+855374,79,F,Central,Type 2 Diabetes,Lifestyle Changes,2023-12-01,2023-12-30,29,True,8,1,None,3
+386251,85,M,Central,Obesity,Lifestyle Changes,2022-12-10,2022-12-13,3,False,6,3,Public,0
+706537,85,M,Central,Asthma,Combined Therapy,2023-08-12,2023-08-19,7,False,5,0,Public,2
+436774,30,F,West,Asthma,Medication,2023-02-21,2023-03-12,19,True,3,0,Public,2
+322623,30,F,West,Lower Back Pain,Surgery,2024-02-24,2024-03-21,26,True,8,1,Public,5
+942425,77,M,South,Anxiety,Lifestyle Changes,2024-08-07,2024-08-15,8,True,7,2,Private,3
+914462,77,M,South,Type 2 Diabetes,Lifestyle Changes,2024-06-13,2024-06-25,12,False,2,1,Public,2
+659827,49,M,West,Asthma,Counseling,2024-05-15,2024-06-10,26,False,8,1,None,1
+625905,23,M,South,Obesity,Lifestyle Changes,2022-12-18,2022-12-30,12,True,3,1,Private,1
+278428,23,M,South,Lower Back Pain,Combined Therapy,2023-12-01,2023-12-06,5,True,3,3,None,1
+820934,26,F,Central,COPD,Combined Therapy,2024-04-20,2024-05-19,29,False,8,1,Private,0
+606574,26,F,Central,Asthma,Medication,2024-07-22,2024-08-01,10,False,3,0,Private,2
+238596,67,M,West,Type 2 Diabetes,Lifestyle Changes,2024-02-19,2024-03-16,26,True,5,0,Private,5
+53849,67,M,West,Heart Disease,Counseling,2024-06-10,2024-06-25,15,True,2,0,Private,5
+503787,19,M,West,Depression,Counseling,2024-02-24,2024-03-08,13,True,5,2,Public,1
+549697,19,M,West,Lower Back Pain,Physical Therapy,2023-04-09,2023-04-13,4,True,6,0,None,0
+649840,19,M,West,Obesity,Combined Therapy,2024-03-30,2024-04-15,16,True,8,3,Private,5
+882027,34,M,East,Lower Back Pain,Combined Therapy,2024-07-21,2024-08-17,27,True,6,1,Public,0
+154954,46,M,Central,Hypertension,Medication,2023-09-19,2023-10-03,14,True,8,0,Public,5
+713793,46,M,Central,Heart Disease,Counseling,2024-08-27,2024-09-01,5,True,3,3,Private,1
+33104,36,M,Central,Type 2 Diabetes,Medication,2023-06-04,2023-06-22,18,True,10,0,Public,2
+994265,36,M,Central,Depression,Lifestyle Changes,2024-02-15,2024-02-16,1,False,2,2,Private,5
+115233,36,M,Central,COPD,Surgery,2024-05-25,2024-06-24,30,True,1,3,Private,5
+19857,72,M,North,Lower Back Pain,Counseling,2023-04-25,2023-05-08,13,True,4,3,None,2
+328930,72,M,North,Heart Disease,Combined Therapy,2023-11-05,2023-12-02,27,True,3,1,Private,1
+158787,45,F,South,Obesity,Physical Therapy,2023-10-19,2023-11-14,26,True,2,0,None,5
+724042,45,F,South,Hypertension,Counseling,2023-10-14,2023-11-01,18,True,5,1,Public,2
+430311,45,F,South,Type 2 Diabetes,Combined Therapy,2023-05-05,2023-06-03,29,True,2,2,None,2
+812617,23,F,West,Hypertension,Surgery,2023-12-22,2024-01-07,16,False,1,3,Public,3
+965236,23,F,West,Heart Disease,Medication,2024-03-16,2024-03-19,3,True,4,3,None,5
+915215,23,F,West,Arthritis,Combined Therapy,2023-11-29,2023-12-18,19,True,4,0,Private,5
+771581,56,M,East,Lower Back Pain,Lifestyle Changes,2024-09-16,2024-10-13,27,False,9,2,Public,2
+65306,80,F,North,Obesity,Surgery,2024-06-14,2024-07-06,22,False,3,1,Private,5
+144789,80,F,North,Heart Disease,Medication,2024-05-29,2024-05-30,1,True,1,0,Private,1
+217413,80,F,North,Lower Back Pain,Physical Therapy,2024-01-04,2024-01-21,17,True,3,2,Private,3
+340839,51,F,West,Lower Back Pain,Combined Therapy,2024-02-06,2024-03-04,27,False,7,2,Private,0
+501608,51,F,West,COPD,Counseling,2024-04-25,2024-05-10,15,True,8,0,Public,1
+395129,51,F,West,Arthritis,Medication,2024-01-10,2024-01-16,6,True,6,1,Private,3
+181594,67,M,West,Lower Back Pain,Counseling,2023-07-29,2023-08-20,22,False,1,2,Public,4
+956431,57,F,Central,Arthritis,Lifestyle Changes,2023-11-20,2023-12-08,18,True,1,2,Private,4
+358955,57,F,Central,Depression,Medication,2024-01-16,2024-02-15,30,False,6,0,None,5
+371496,57,F,Central,Anxiety,Counseling,2024-01-26,2024-02-02,7,True,2,0,Public,1
+809489,27,M,West,Type 2 Diabetes,Medication,2024-05-05,2024-05-15,10,True,4,1,Public,4
+755944,27,M,West,Anxiety,Lifestyle Changes,2024-10-01,2024-10-21,20,True,5,2,Private,3
+674558,27,M,West,Obesity,Physical Therapy,2024-05-09,2024-05-11,2,True,2,0,Public,1
+726991,60,M,East,Depression,Combined Therapy,2024-08-13,2024-08-14,1,True,5,3,None,4
+639711,32,F,South,Lower Back Pain,Combined Therapy,2023-06-21,2023-07-17,26,True,4,3,Private,5
+201603,32,F,South,Arthritis,Medication,2023-12-09,2023-12-28,19,True,8,2,Private,3
+292559,46,M,West,Depression,Lifestyle Changes,2023-06-07,2023-06-16,9,True,5,2,None,0
+312999,46,M,West,Hypertension,Medication,2024-02-04,2024-02-17,13,False,2,0,Public,3
+987219,46,M,West,COPD,Lifestyle Changes,2023-05-21,2023-05-23,2,True,3,2,Private,0
+808634,27,M,South,Asthma,Combined Therapy,2023-07-17,2023-07-19,2,True,7,2,None,4
+739142,78,M,Central,Heart Disease,Lifestyle Changes,2023-07-10,2023-07-30,20,False,10,0,Private,4
+723769,45,M,North,Type 2 Diabetes,Surgery,2023-05-07,2023-05-08,1,True,5,0,Public,2
+512756,45,M,North,Arthritis,Counseling,2024-05-28,2024-06-24,27,True,2,2,None,5
+503110,45,M,North,Depression,Surgery,2023-08-01,2023-08-26,25,True,5,2,None,1
+587713,65,M,Central,Arthritis,Counseling,2023-08-25,2023-08-28,3,True,5,3,None,4
+979878,65,M,Central,Hypertension,Combined Therapy,2024-11-22,2024-11-27,5,False,1,3,Public,4
+756719,61,M,East,Obesity,Counseling,2024-08-06,2024-08-26,20,True,2,1,Private,4
+301769,61,M,East,Asthma,Medication,2023-06-28,2023-07-17,19,False,6,2,Private,2
+601334,51,M,East,Lower Back Pain,Medication,2023-03-02,2023-03-06,4,True,10,0,Public,1
+569576,51,M,East,Anxiety,Medication,2024-05-06,2024-05-09,3,True,6,2,Private,2
+939272,29,M,Central,Obesity,Physical Therapy,2023-09-18,2023-10-06,18,True,2,1,None,4
+858130,29,M,Central,Type 2 Diabetes,Physical Therapy,2023-09-30,2023-10-13,13,True,10,2,None,4
+810616,29,M,Central,Asthma,Medication,2023-08-23,2023-09-12,20,True,8,0,Public,3
+153591,78,F,North,Anxiety,Counseling,2024-08-13,2024-09-03,21,False,2,3,None,3
+44109,80,M,Central,Obesity,Counseling,2023-07-11,2023-07-20,9,True,3,2,Public,1
+748831,80,M,Central,Anxiety,Surgery,2023-07-09,2023-07-11,2,True,7,2,Public,4
+363188,35,F,North,Lower Back Pain,Counseling,2023-01-28,2023-02-27,30,True,2,0,Private,3
+463864,67,M,West,Type 2 Diabetes,Counseling,2024-11-14,2024-11-18,4,True,4,3,Private,2
+268900,67,M,West,Anxiety,Surgery,2024-04-20,2024-05-09,19,True,7,3,Private,2
+502351,18,F,West,COPD,Combined Therapy,2024-06-30,2024-07-17,17,True,1,1,None,5
+211883,18,F,West,Asthma,Surgery,2023-05-13,2023-06-11,29,True,5,3,None,3
+564739,18,F,West,Depression,Lifestyle Changes,2024-09-01,2024-09-24,23,False,6,2,None,2
+978346,39,F,North,Anxiety,Combined Therapy,2023-06-26,2023-07-06,10,True,5,3,Public,2
+729988,39,F,North,Obesity,Medication,2024-02-07,2024-03-06,28,True,8,3,None,2
+143941,39,F,North,Asthma,Medication,2023-06-26,2023-07-25,29,False,1,1,Private,3
+645584,63,F,South,Hypertension,Counseling,2023-02-20,2023-03-16,24,True,3,2,Public,1
+615336,63,F,South,Depression,Physical Therapy,2024-06-25,2024-06-26,1,False,7,2,Public,3
+254235,63,F,South,COPD,Counseling,2023-06-01,2023-06-23,22,False,1,3,Private,3
+702371,38,M,North,COPD,Counseling,2023-01-06,2023-02-03,28,False,6,3,Private,4
+556837,82,F,South,Obesity,Counseling,2024-10-31,2024-11-22,22,True,9,1,Public,4
+668933,82,F,South,Type 2 Diabetes,Surgery,2023-05-22,2023-06-21,30,True,8,2,Private,3
+55040,70,F,East,Arthritis,Counseling,2023-05-27,2023-05-29,2,False,7,3,Public,5
+433377,70,F,East,Depression,Physical Therapy,2023-02-13,2023-03-01,16,True,4,1,None,4
+752204,33,M,South,Type 2 Diabetes,Combined Therapy,2023-08-11,2023-09-08,28,False,1,2,None,0
+105428,33,M,South,Obesity,Physical Therapy,2023-11-29,2023-12-03,4,True,5,3,Private,0
+808206,33,M,South,Lower Back Pain,Medication,2024-05-10,2024-05-24,14,False,1,3,Private,5
+5433,58,F,South,Arthritis,Counseling,2023-03-14,2023-03-23,9,True,7,3,None,1
+974231,37,M,West,Heart Disease,Lifestyle Changes,2024-01-29,2024-02-03,5,True,9,3,Public,3
+426673,37,M,West,Obesity,Lifestyle Changes,2023-03-30,2023-04-24,25,True,4,3,Private,5
+980452,48,M,East,Anxiety,Medication,2024-04-18,2024-04-30,12,False,3,3,Public,3
+921068,60,M,North,Lower Back Pain,Lifestyle Changes,2024-10-12,2024-10-19,7,False,10,0,None,4
+500641,25,M,Central,Arthritis,Lifestyle Changes,2023-12-02,2023-12-30,28,True,9,1,None,2
+209144,38,M,East,Heart Disease,Surgery,2024-04-16,2024-05-09,23,False,4,2,Private,3
+301198,38,M,East,Type 2 Diabetes,Lifestyle Changes,2024-07-07,2024-08-02,26,True,2,3,Private,5
+299279,18,M,East,Arthritis,Counseling,2023-08-04,2023-08-27,23,True,2,0,Private,5
+62036,18,M,East,Heart Disease,Medication,2024-04-12,2024-04-17,5,False,2,2,None,3
+806066,18,M,East,COPD,Physical Therapy,2024-11-02,2024-12-01,29,True,9,1,None,4
+683984,26,F,West,Depression,Medication,2023-02-05,2023-02-07,2,False,3,2,None,3
+243500,26,F,West,Type 2 Diabetes,Lifestyle Changes,2024-02-16,2024-03-11,24,True,8,0,Private,5
+774568,21,M,South,Depression,Lifestyle Changes,2024-01-17,2024-02-02,16,False,6,3,None,1
+891638,21,M,South,Heart Disease,Counseling,2024-06-11,2024-07-04,23,False,10,1,Public,3
+39110,71,F,South,Obesity,Medication,2024-11-24,2024-12-15,21,False,5,2,None,2
+966232,71,F,South,Anxiety,Physical Therapy,2024-11-06,2024-11-27,21,False,5,1,None,3
+438184,77,F,Central,Type 2 Diabetes,Physical Therapy,2023-04-12,2023-04-27,15,True,3,3,None,4
+878292,77,F,Central,Obesity,Physical Therapy,2024-10-13,2024-10-21,8,False,4,3,Private,5
+979288,77,F,Central,Arthritis,Lifestyle Changes,2023-04-13,2023-05-02,19,True,1,3,Public,3
+38105,78,M,West,Type 2 Diabetes,Medication,2024-11-11,2024-12-07,26,True,8,3,None,3
+416278,80,F,North,Hypertension,Physical Therapy,2024-09-07,2024-09-21,14,True,10,3,Public,1
+519447,80,F,North,Lower Back Pain,Counseling,2024-08-01,2024-08-11,10,False,10,0,None,1
+982105,51,M,South,Heart Disease,Lifestyle Changes,2023-04-21,2023-05-06,15,True,10,1,Public,3
+914663,51,M,South,COPD,Combined Therapy,2024-07-01,2024-07-03,2,True,3,2,Public,1
+303528,30,F,East,Anxiety,Counseling,2024-11-16,2024-12-06,20,True,5,0,Private,5
+39286,42,F,East,Arthritis,Combined Therapy,2024-10-08,2024-11-07,30,False,9,3,Private,1
+312886,42,F,East,Hypertension,Surgery,2022-12-05,2022-12-16,11,True,8,1,Private,4
+632063,24,M,South,Depression,Counseling,2024-02-12,2024-02-17,5,True,5,3,None,0
+973555,52,M,South,Lower Back Pain,Counseling,2023-02-19,2023-03-09,18,True,10,3,None,0
+298384,52,M,South,Arthritis,Lifestyle Changes,2023-08-15,2023-09-07,23,True,9,1,Private,3
+672464,52,M,South,Asthma,Lifestyle Changes,2023-11-15,2023-12-05,20,True,10,2,Private,1
+549787,46,M,East,Asthma,Lifestyle Changes,2024-01-23,2024-02-13,21,False,3,2,None,5
+932456,39,M,South,Asthma,Surgery,2023-12-16,2024-01-09,24,True,4,1,Private,2
+140718,39,M,South,Obesity,Medication,2024-11-26,2024-12-26,30,True,10,1,Private,2
+528705,39,M,South,COPD,Combined Therapy,2024-09-19,2024-10-06,17,True,2,1,Private,3
+286090,71,F,South,Depression,Surgery,2023-11-26,2023-12-03,7,False,7,2,None,3
+848102,71,F,South,Anxiety,Medication,2023-04-26,2023-05-07,11,False,1,3,Private,5
+346747,71,F,South,COPD,Surgery,2023-02-23,2023-03-22,27,False,8,0,Public,3
+766634,40,M,South,Lower Back Pain,Surgery,2023-04-03,2023-04-19,16,True,5,3,Private,2
+679776,40,M,South,Asthma,Surgery,2023-11-19,2023-12-05,16,True,5,1,None,4
+753504,48,F,South,Heart Disease,Physical Therapy,2023-06-15,2023-07-01,16,True,10,2,None,3
+14768,29,F,East,Lower Back Pain,Combined Therapy,2023-04-21,2023-04-22,1,True,1,2,Public,1
+353487,29,F,East,Depression,Lifestyle Changes,2024-06-22,2024-07-21,29,True,2,2,None,5
+309355,29,F,East,Anxiety,Physical Therapy,2024-08-03,2024-08-27,24,True,3,3,None,3
+707160,79,F,East,Anxiety,Combined Therapy,2024-02-12,2024-02-20,8,True,6,3,None,4
+202544,79,F,East,Obesity,Combined Therapy,2024-07-08,2024-07-10,2,True,5,0,Private,0
+640632,42,F,South,Hypertension,Combined Therapy,2023-04-13,2023-05-13,30,True,7,3,None,2
+669752,42,F,South,Arthritis,Combined Therapy,2024-09-22,2024-10-04,12,True,2,1,Private,0
+425187,53,F,West,Heart Disease,Medication,2024-10-24,2024-11-10,17,True,10,2,None,2
+448479,53,F,West,Anxiety,Combined Therapy,2024-08-31,2024-09-05,5,False,10,3,Public,0
+343856,45,F,North,Hypertension,Medication,2024-01-02,2024-01-18,16,False,5,0,Private,2
+420304,45,F,North,Depression,Counseling,2023-02-03,2023-02-21,18,True,8,2,None,1
+100018,45,F,North,Lower Back Pain,Medication,2024-04-30,2024-05-01,1,True,1,3,None,0
+147442,36,F,East,Type 2 Diabetes,Counseling,2023-04-20,2023-05-01,11,True,3,0,None,0
+339320,36,F,East,COPD,Physical Therapy,2023-12-03,2023-12-30,27,False,2,2,Private,4
+260096,36,F,East,Heart Disease,Medication,2024-11-23,2024-12-21,28,False,6,1,None,1
+273453,51,F,North,Anxiety,Medication,2022-12-03,2022-12-12,9,True,7,1,Public,5
+246961,51,F,North,Obesity,Lifestyle Changes,2023-09-21,2023-09-30,9,True,2,3,Private,2
+790371,62,M,Central,Lower Back Pain,Medication,2023-11-09,2023-11-20,11,True,9,1,Public,0
+345637,57,F,North,Obesity,Medication,2023-06-23,2023-07-07,14,True,10,1,Public,4
+610754,57,F,North,Lower Back Pain,Combined Therapy,2023-07-20,2023-08-10,21,True,5,0,Private,4
+600705,79,M,North,Heart Disease,Combined Therapy,2024-06-11,2024-06-26,15,True,4,0,Public,4
+274258,32,F,West,Hypertension,Medication,2022-12-06,2022-12-12,6,True,10,3,Private,4
+377017,32,F,West,Asthma,Lifestyle Changes,2024-04-18,2024-04-24,6,True,10,0,Private,4
+247781,32,F,West,Anxiety,Combined Therapy,2024-05-19,2024-05-24,5,False,1,1,Private,1
+700224,28,M,North,Obesity,Medication,2023-01-15,2023-02-12,28,False,9,1,None,4
+488002,28,M,North,Depression,Medication,2023-02-27,2023-03-25,26,False,9,2,Private,0
+167475,28,M,North,Lower Back Pain,Medication,2023-07-24,2023-08-15,22,True,4,2,Private,5
+719400,72,F,North,Depression,Lifestyle Changes,2023-10-08,2023-11-02,25,True,5,1,None,4
+967946,76,F,East,Lower Back Pain,Lifestyle Changes,2023-12-23,2024-01-06,14,True,1,2,None,3
+930927,61,F,North,Anxiety,Lifestyle Changes,2024-10-23,2024-11-08,16,True,9,0,Private,2
+807236,61,F,North,Arthritis,Lifestyle Changes,2024-05-27,2024-06-21,25,False,9,3,Public,2
+723821,61,F,North,Type 2 Diabetes,Counseling,2023-07-27,2023-08-12,16,True,6,1,None,2
+669737,64,M,West,Heart Disease,Physical Therapy,2023-02-27,2023-03-21,22,False,6,1,Public,1
+986327,64,M,West,Asthma,Lifestyle Changes,2024-11-08,2024-11-19,11,False,6,0,None,5
+385397,64,M,West,Depression,Medication,2023-07-15,2023-07-19,4,True,10,3,Public,5
+231577,84,F,East,COPD,Surgery,2024-03-19,2024-03-20,1,True,3,1,None,0
+140057,84,F,East,Asthma,Counseling,2023-05-17,2023-05-25,8,False,9,2,None,2
+160626,69,F,South,COPD,Physical Therapy,2023-12-04,2023-12-09,5,True,9,0,None,5
+784056,41,F,West,Arthritis,Counseling,2023-11-16,2023-12-16,30,True,10,2,Public,4
+391774,41,F,West,Asthma,Surgery,2024-03-12,2024-03-29,17,True,4,2,Public,4
+736038,41,F,West,Heart Disease,Counseling,2023-10-16,2023-11-13,28,False,1,1,Private,4
+957136,80,F,North,Type 2 Diabetes,Surgery,2024-01-28,2024-02-20,23,False,5,3,Private,3
+794139,80,F,North,Lower Back Pain,Medication,2023-11-28,2023-12-01,3,True,5,1,Public,0
+840952,80,F,North,Depression,Lifestyle Changes,2024-01-19,2024-01-21,2,False,1,1,Public,5
+865708,76,F,Central,Asthma,Surgery,2024-04-26,2024-05-08,12,False,4,0,Public,1
+798867,76,F,Central,Obesity,Surgery,2023-05-16,2023-06-02,17,True,3,1,Public,3
+713390,36,M,East,Lower Back Pain,Medication,2023-06-08,2023-07-03,25,True,1,1,Public,1
+624756,36,M,East,Type 2 Diabetes,Surgery,2024-07-06,2024-07-29,23,True,10,2,Private,3
+825618,36,M,East,Arthritis,Combined Therapy,2024-10-06,2024-10-22,16,False,7,2,Public,2
+551033,25,F,South,Heart Disease,Combined Therapy,2023-01-30,2023-02-06,7,True,4,3,None,4
+553829,63,F,South,COPD,Medication,2023-11-09,2023-12-04,25,True,4,0,None,1
+379358,63,F,South,Asthma,Surgery,2024-05-27,2024-06-25,29,True,7,0,None,4
+961800,79,M,North,Arthritis,Lifestyle Changes,2023-01-27,2023-02-14,18,False,8,0,None,2
+117659,79,M,North,Depression,Lifestyle Changes,2024-02-09,2024-02-23,14,False,7,3,Public,0
+869032,29,M,North,COPD,Physical Therapy,2023-01-14,2023-02-04,21,False,6,2,Private,5
+946746,21,F,South,Asthma,Combined Therapy,2024-01-27,2024-02-25,29,True,5,2,Public,1
+211976,21,F,South,Anxiety,Surgery,2023-12-25,2024-01-23,29,False,3,2,None,3
+562728,28,M,North,Asthma,Surgery,2024-02-15,2024-03-07,21,True,8,3,Private,4
+172529,28,M,North,Arthritis,Medication,2023-03-24,2023-04-06,13,True,7,3,Private,2
+895993,28,M,North,Obesity,Surgery,2023-08-09,2023-09-05,27,True,7,0,Private,1
+463303,66,M,West,Hypertension,Medication,2024-01-06,2024-02-03,28,True,1,1,Public,3
+713341,66,M,West,Lower Back Pain,Medication,2023-02-26,2023-03-05,7,False,4,3,Private,0
+751742,66,M,West,Asthma,Physical Therapy,2023-05-06,2023-05-13,7,False,6,2,Private,0
+512573,31,F,North,Heart Disease,Combined Therapy,2024-02-23,2024-03-07,13,True,4,1,None,3
+942553,72,F,East,COPD,Combined Therapy,2023-02-06,2023-02-21,15,False,7,3,Public,5
+467122,72,F,East,Arthritis,Medication,2023-12-29,2024-01-01,3,True,10,0,Public,3
+58338,80,F,North,Heart Disease,Combined Therapy,2024-08-17,2024-08-23,6,True,10,0,Private,0
+138353,80,F,North,Type 2 Diabetes,Medication,2023-11-15,2023-12-09,24,False,10,0,None,0
+435604,41,F,West,Heart Disease,Medication,2023-12-31,2024-01-09,9,True,1,0,Private,5
+591303,41,F,South,Hypertension,Combined Therapy,2023-11-17,2023-11-30,13,False,7,2,Private,4
+585941,41,F,South,Asthma,Medication,2023-01-11,2023-01-25,14,False,7,0,Private,4
+705448,24,F,East,Hypertension,Counseling,2023-11-22,2023-11-30,8,False,7,0,Private,5
+323139,24,F,East,Asthma,Counseling,2024-08-15,2024-08-25,10,False,8,2,Public,5
+22827,24,F,East,Lower Back Pain,Physical Therapy,2024-06-11,2024-06-30,19,False,4,1,Public,1
+266817,68,F,West,COPD,Combined Therapy,2023-10-01,2023-10-03,2,False,1,3,Public,1
+3161,68,F,West,Depression,Lifestyle Changes,2024-08-23,2024-09-06,14,True,5,1,Public,5
+228486,68,F,West,Asthma,Combined Therapy,2024-06-29,2024-07-26,27,True,7,3,Public,3
+76577,25,F,Central,Depression,Physical Therapy,2024-02-20,2024-03-09,18,True,7,0,Public,1
+444278,69,F,Central,Lower Back Pain,Physical Therapy,2023-01-02,2023-01-04,2,False,8,1,Private,3
+734406,69,F,Central,COPD,Counseling,2023-08-22,2023-09-14,23,True,8,2,Private,2
+567451,69,F,Central,Depression,Medication,2023-01-16,2023-01-31,15,False,5,3,Public,4
+979981,48,F,Central,Type 2 Diabetes,Combined Therapy,2023-01-13,2023-02-04,22,True,9,0,Private,2
+72371,48,F,Central,Hypertension,Surgery,2024-10-22,2024-10-28,6,True,8,2,Public,0
+495002,29,M,South,Anxiety,Counseling,2024-11-22,2024-12-16,24,True,6,3,Private,1
+301036,29,M,South,Arthritis,Combined Therapy,2022-12-22,2023-01-02,11,True,8,3,Public,2
+188724,74,M,West,Hypertension,Surgery,2023-10-11,2023-11-10,30,True,2,1,None,1
+142007,84,F,West,COPD,Lifestyle Changes,2024-07-17,2024-08-14,28,False,9,1,Private,3
+672687,84,F,West,Anxiety,Surgery,2024-07-14,2024-07-19,5,False,4,3,None,4
+677255,68,M,West,Arthritis,Physical Therapy,2024-06-16,2024-06-24,8,True,6,1,Private,2
+392650,68,M,West,Obesity,Lifestyle Changes,2023-10-20,2023-11-03,14,True,1,1,Public,0
+401058,18,M,North,Heart Disease,Counseling,2024-10-20,2024-11-07,18,True,7,1,Public,2
+911862,54,M,North,Hypertension,Physical Therapy,2023-11-11,2023-12-10,29,True,5,2,None,5
+950814,54,M,North,Lower Back Pain,Combined Therapy,2024-11-09,2024-12-08,29,False,2,3,None,2
+393892,54,M,North,COPD,Physical Therapy,2023-09-17,2023-09-24,7,False,4,3,Public,2
+715894,19,F,North,Type 2 Diabetes,Lifestyle Changes,2023-01-29,2023-01-30,1,True,1,1,None,5
+917036,19,F,North,Lower Back Pain,Physical Therapy,2024-04-25,2024-04-29,4,True,4,2,Public,3
+139449,19,F,North,Asthma,Lifestyle Changes,2024-01-20,2024-02-19,30,False,6,0,None,4
+902075,71,M,East,Type 2 Diabetes,Counseling,2024-04-18,2024-05-16,28,True,5,1,Public,1
+124395,20,F,South,Arthritis,Medication,2023-08-25,2023-08-29,4,True,6,0,None,2
+563356,51,F,North,Hypertension,Combined Therapy,2023-04-15,2023-05-01,16,True,3,1,None,0
+554531,51,F,North,Depression,Physical Therapy,2023-09-29,2023-10-11,12,True,10,3,None,5
+763214,68,M,East,Anxiety,Counseling,2023-03-06,2023-04-01,26,False,4,3,None,1
+875373,68,M,East,Hypertension,Counseling,2023-05-19,2023-05-20,1,True,10,3,None,4
+792911,68,M,East,COPD,Surgery,2022-11-30,2022-12-21,21,True,4,0,Public,2
+312856,84,F,South,Heart Disease,Counseling,2022-12-15,2022-12-19,4,False,8,0,Private,4
+706215,84,F,South,Hypertension,Combined Therapy,2023-11-22,2023-12-17,25,True,6,3,Public,2
+570892,84,F,South,Obesity,Medication,2024-06-08,2024-06-30,22,False,5,2,Public,5
+557772,26,F,Central,Hypertension,Physical Therapy,2023-10-23,2023-11-05,13,True,9,0,Public,5
+863355,26,F,Central,COPD,Surgery,2023-09-18,2023-10-01,13,True,4,0,None,4
+259535,69,F,South,Obesity,Lifestyle Changes,2023-05-25,2023-06-15,21,True,9,3,None,4
+362974,32,M,West,Heart Disease,Counseling,2023-11-20,2023-12-16,26,False,9,3,Private,5
+289039,32,M,West,COPD,Medication,2023-03-28,2023-04-23,26,True,7,1,None,2
+982946,32,M,West,Anxiety,Lifestyle Changes,2023-04-23,2023-05-20,27,True,2,1,Public,4
+760242,56,F,East,COPD,Surgery,2024-10-07,2024-10-18,11,True,7,3,None,0
+118326,46,F,South,Anxiety,Combined Therapy,2024-07-14,2024-07-20,6,False,7,1,Public,5
+848799,83,F,North,Asthma,Combined Therapy,2022-12-23,2023-01-02,10,True,1,2,Public,5
+439605,83,F,North,Anxiety,Medication,2024-04-23,2024-05-07,14,False,5,2,Public,1
+803265,32,F,North,Lower Back Pain,Lifestyle Changes,2024-03-19,2024-04-06,18,True,6,2,Public,5
+926685,83,M,Central,Asthma,Medication,2024-11-24,2024-12-24,30,False,9,2,None,3
+16405,83,M,Central,Type 2 Diabetes,Combined Therapy,2024-10-18,2024-10-23,5,True,1,2,Private,4
+216092,36,F,North,Lower Back Pain,Lifestyle Changes,2023-06-02,2023-06-08,6,False,1,2,Public,4
+105797,36,F,North,Hypertension,Combined Therapy,2023-01-19,2023-01-23,4,True,8,0,Private,3
+35207,34,F,West,Obesity,Surgery,2024-03-03,2024-03-30,27,True,9,2,Private,5
+626822,34,F,West,Heart Disease,Physical Therapy,2023-11-09,2023-11-17,8,True,1,3,Public,0
+737449,47,M,North,Heart Disease,Medication,2024-05-02,2024-05-21,19,True,3,0,None,3
+51040,47,M,North,Asthma,Counseling,2024-10-05,2024-10-14,9,True,4,1,None,5
+776513,82,M,South,COPD,Combined Therapy,2023-06-06,2023-06-23,17,True,3,1,Private,5
+421805,82,M,South,Heart Disease,Physical Therapy,2023-01-01,2023-01-04,3,True,6,2,None,4
+245722,79,F,Central,Type 2 Diabetes,Lifestyle Changes,2023-11-03,2023-11-28,25,True,4,2,None,5
+227823,48,F,North,Anxiety,Counseling,2024-01-21,2024-01-24,3,True,7,1,Private,3
+905686,48,F,North,Heart Disease,Medication,2024-07-05,2024-08-01,27,True,5,0,Private,2
+59185,67,F,South,Anxiety,Combined Therapy,2024-07-22,2024-08-12,21,True,9,2,None,2
+528373,67,F,South,Heart Disease,Medication,2023-03-16,2023-03-26,10,True,6,3,None,5
+245536,67,F,South,Arthritis,Combined Therapy,2023-07-10,2023-07-12,2,False,6,2,Private,1
+960911,67,M,South,COPD,Lifestyle Changes,2024-08-22,2024-09-01,10,True,7,2,None,2
+604095,67,M,South,Anxiety,Counseling,2024-06-18,2024-07-18,30,True,5,1,Public,1
+605526,51,F,North,Depression,Physical Therapy,2023-08-02,2023-08-30,28,False,8,3,Private,0
+810065,51,F,North,Type 2 Diabetes,Combined Therapy,2024-03-06,2024-03-27,21,True,9,1,Public,1
+858136,47,F,Central,Asthma,Lifestyle Changes,2024-05-03,2024-05-06,3,True,1,1,None,5
+248411,47,F,Central,COPD,Counseling,2023-08-04,2023-08-25,21,True,6,3,None,5
+918823,47,F,Central,Anxiety,Medication,2023-07-20,2023-08-04,15,False,9,1,Private,0
+692282,68,F,South,Type 2 Diabetes,Lifestyle Changes,2023-03-19,2023-04-11,23,True,9,1,None,4
+231780,68,F,South,Obesity,Surgery,2024-01-06,2024-02-01,26,False,5,1,Public,2
+315098,19,M,West,Arthritis,Counseling,2023-10-15,2023-10-26,11,False,7,1,None,5
+63918,64,M,West,Anxiety,Counseling,2023-06-29,2023-07-08,9,True,9,2,Public,5
+994595,64,M,West,Asthma,Combined Therapy,2024-02-03,2024-02-19,16,True,1,0,None,2
+922446,64,M,West,Depression,Lifestyle Changes,2024-03-01,2024-03-12,11,True,5,2,Public,1
+955858,83,M,West,COPD,Counseling,2024-06-21,2024-07-14,23,True,2,0,Public,2
+656401,83,M,West,Depression,Medication,2023-04-13,2023-05-09,26,False,1,1,None,1
+447952,82,M,North,Arthritis,Medication,2024-05-08,2024-05-24,16,True,8,1,None,5
+519696,42,M,East,Lower Back Pain,Combined Therapy,2024-02-02,2024-02-10,8,True,4,1,Public,3
+361145,42,M,East,Heart Disease,Combined Therapy,2023-01-03,2023-01-05,2,False,2,1,None,5
+703953,48,M,West,COPD,Combined Therapy,2024-04-10,2024-05-06,26,True,5,3,None,0
+823975,48,M,West,Anxiety,Combined Therapy,2023-09-20,2023-09-28,8,True,4,2,Public,2
+334217,40,M,Central,Obesity,Physical Therapy,2024-01-09,2024-01-18,9,True,3,3,None,4
+436548,36,F,Central,Heart Disease,Physical Therapy,2024-05-21,2024-06-17,27,False,9,2,Private,0
+156466,61,F,Central,Type 2 Diabetes,Physical Therapy,2023-10-11,2023-10-20,9,True,1,0,None,3
+394747,61,F,Central,COPD,Counseling,2023-07-18,2023-07-22,4,True,7,0,None,2
+791062,61,F,Central,Heart Disease,Surgery,2023-04-19,2023-04-22,3,True,5,2,Private,5
+496520,47,M,West,Type 2 Diabetes,Surgery,2024-01-19,2024-01-25,6,True,5,0,Public,0
+890598,47,M,West,Obesity,Surgery,2023-06-03,2023-06-17,14,True,8,1,None,5
+315344,52,M,North,Hypertension,Lifestyle Changes,2023-05-22,2023-06-19,28,False,5,1,Public,3
+741948,52,M,North,Depression,Medication,2024-09-24,2024-10-02,8,True,3,0,Public,5
+844917,23,F,Central,Asthma,Medication,2023-03-20,2023-04-10,21,False,4,1,Public,1
+959175,39,F,South,Arthritis,Medication,2023-11-22,2023-12-12,20,True,2,3,Public,3
+589704,39,F,South,COPD,Surgery,2023-01-11,2023-01-16,5,True,1,3,Public,3
+436740,39,F,South,Hypertension,Combined Therapy,2023-10-14,2023-10-17,3,True,9,3,Private,1
+555736,60,M,South,Obesity,Counseling,2024-02-03,2024-02-14,11,True,8,0,Public,5
+407286,60,M,South,Lower Back Pain,Counseling,2023-03-12,2023-03-27,15,True,7,1,Public,2
+267382,80,M,West,Anxiety,Medication,2023-06-04,2023-07-02,28,False,8,2,Public,5
+346305,38,M,South,Heart Disease,Lifestyle Changes,2023-05-04,2023-05-26,22,True,3,2,Public,3
+82911,38,M,South,Anxiety,Physical Therapy,2024-04-13,2024-05-07,24,True,9,3,Private,3
+471635,38,M,South,Lower Back Pain,Combined Therapy,2024-11-13,2024-12-10,27,True,9,3,Private,4
+389102,26,M,Central,Hypertension,Physical Therapy,2024-09-15,2024-10-15,30,True,10,1,None,1
+561654,26,M,Central,Anxiety,Medication,2023-02-07,2023-03-07,28,True,7,3,None,2
+869695,26,M,Central,Asthma,Surgery,2024-06-12,2024-06-28,16,True,3,2,Private,0
+54040,48,F,West,Depression,Surgery,2023-04-24,2023-05-04,10,False,4,0,Public,2
+395489,48,F,West,Heart Disease,Counseling,2023-06-24,2023-07-19,25,True,7,0,Public,5
+634356,74,M,East,COPD,Medication,2024-05-04,2024-05-26,22,True,6,1,None,1
+41468,74,M,East,Asthma,Surgery,2024-03-10,2024-03-13,3,False,10,1,Public,2
+76319,34,M,East,COPD,Combined Therapy,2024-10-06,2024-11-01,26,False,2,1,None,4
+843737,48,M,Central,Heart Disease,Medication,2023-04-23,2023-05-02,9,False,9,2,Private,4
+616126,48,M,Central,COPD,Combined Therapy,2024-07-11,2024-07-16,5,True,4,3,Private,2
+704066,48,M,Central,Arthritis,Lifestyle Changes,2024-06-12,2024-07-07,25,True,2,1,Public,0
+227558,33,M,East,Type 2 Diabetes,Lifestyle Changes,2024-02-05,2024-02-10,5,False,8,1,Public,4
+219036,33,M,East,Depression,Lifestyle Changes,2023-12-05,2023-12-15,10,False,6,0,Public,1
+951092,46,M,West,Hypertension,Lifestyle Changes,2024-10-03,2024-10-05,2,True,9,2,Private,2
+317915,46,M,West,Arthritis,Physical Therapy,2023-08-13,2023-08-31,18,True,4,3,Public,3
+16078,46,M,West,COPD,Combined Therapy,2024-11-03,2024-12-01,28,False,4,0,Private,3
+982683,42,M,East,Type 2 Diabetes,Combined Therapy,2023-05-11,2023-05-18,7,False,9,3,Public,4
+777493,49,M,South,Lower Back Pain,Surgery,2023-04-24,2023-05-24,30,True,8,1,Private,0
+783159,71,M,East,Arthritis,Physical Therapy,2023-02-27,2023-03-15,16,False,7,0,None,2
+502184,22,F,West,Depression,Lifestyle Changes,2024-07-05,2024-07-21,16,True,6,2,Public,2
+254377,22,F,West,COPD,Surgery,2024-11-07,2024-11-09,2,True,3,1,Private,0
+633760,33,M,North,Anxiety,Lifestyle Changes,2024-05-21,2024-06-15,25,True,5,0,Private,1
+214447,33,M,North,Type 2 Diabetes,Medication,2024-05-27,2024-06-19,23,True,5,2,Public,2
+959579,84,M,North,Type 2 Diabetes,Medication,2023-10-02,2023-10-19,17,True,2,0,None,4
+578897,84,M,North,Anxiety,Surgery,2023-06-01,2023-06-23,22,True,1,3,Public,1
+813185,84,M,North,Heart Disease,Medication,2023-08-04,2023-08-24,20,True,3,2,Public,4
+399152,31,M,South,Hypertension,Surgery,2023-07-05,2023-07-14,9,True,7,1,Public,5
+559572,54,M,Central,Arthritis,Combined Therapy,2023-11-25,2023-12-20,25,True,6,2,Public,5
+376710,54,M,Central,Asthma,Lifestyle Changes,2024-04-14,2024-05-08,24,False,2,3,None,2
+274267,28,M,West,Anxiety,Lifestyle Changes,2023-07-25,2023-08-17,23,True,4,3,Private,0
+537727,60,F,North,Asthma,Counseling,2023-09-03,2023-09-19,16,True,7,0,Private,2
+521433,19,M,East,Depression,Physical Therapy,2024-10-13,2024-10-25,12,True,1,1,None,2
+103398,19,M,East,COPD,Counseling,2023-11-24,2023-11-29,5,True,6,0,Public,5
+757505,19,M,East,Anxiety,Counseling,2024-08-12,2024-09-03,22,True,7,1,None,5
+798625,19,M,East,Asthma,Medication,2023-11-27,2023-12-24,27,True,8,0,None,4
+335788,80,F,Central,Arthritis,Lifestyle Changes,2024-09-10,2024-09-27,17,True,3,2,Private,5
+212994,81,M,West,Arthritis,Surgery,2024-11-07,2024-11-23,16,False,7,1,Private,5
+328122,81,M,West,Heart Disease,Combined Therapy,2023-09-11,2023-09-23,12,False,6,3,Private,5
+47936,81,M,West,Depression,Physical Therapy,2023-10-15,2023-11-07,23,True,3,3,None,5
+906058,71,F,South,COPD,Physical Therapy,2024-02-07,2024-02-09,2,True,6,0,Private,5
+777259,71,F,South,Depression,Counseling,2023-05-18,2023-05-23,5,True,2,1,None,3
+17007,62,F,South,Obesity,Medication,2023-03-21,2023-03-23,2,True,10,2,Private,2
+580189,63,M,West,Asthma,Medication,2023-06-18,2023-07-14,26,True,10,1,Private,1
+612401,63,M,West,Lower Back Pain,Medication,2024-11-23,2024-11-28,5,True,8,0,Private,2
+754987,63,M,West,Type 2 Diabetes,Combined Therapy,2024-02-20,2024-03-10,19,True,3,1,None,1
+309531,36,F,West,Type 2 Diabetes,Lifestyle Changes,2023-10-18,2023-10-19,1,True,5,3,None,2
+205721,76,M,South,Obesity,Counseling,2023-03-26,2023-04-05,10,True,8,1,Public,2
+241192,76,M,South,COPD,Lifestyle Changes,2023-08-11,2023-08-25,14,False,2,0,Private,3
+597467,22,F,East,Heart Disease,Physical Therapy,2023-09-19,2023-10-01,12,True,6,0,None,4
+257666,22,F,East,Asthma,Combined Therapy,2024-09-05,2024-09-16,11,True,3,2,None,0
+577390,32,F,Central,COPD,Physical Therapy,2023-12-20,2024-01-01,12,True,3,1,Public,2
+989294,62,F,East,Heart Disease,Surgery,2024-04-19,2024-05-12,23,True,6,2,None,0
+353961,62,F,East,Asthma,Combined Therapy,2024-05-12,2024-05-15,3,True,2,1,Private,4
+800441,37,F,North,Lower Back Pain,Physical Therapy,2023-06-15,2023-06-23,8,False,4,1,None,2
+512356,37,F,North,Obesity,Medication,2024-08-27,2024-09-20,24,False,3,2,Private,5
+672865,37,F,North,Arthritis,Combined Therapy,2024-06-12,2024-06-28,16,False,4,3,None,5
+514426,43,M,East,Asthma,Medication,2024-06-24,2024-07-05,11,True,10,2,None,1
+176405,43,M,East,Obesity,Surgery,2023-11-20,2023-11-22,2,True,10,2,Public,0
+833592,67,M,South,Anxiety,Medication,2024-06-19,2024-06-24,5,True,4,1,Public,2
+177487,67,M,South,COPD,Lifestyle Changes,2023-08-28,2023-09-04,7,False,3,1,Public,5
+755303,29,F,Central,Type 2 Diabetes,Counseling,2023-03-16,2023-04-07,22,True,10,3,Private,4
+512036,29,F,Central,Obesity,Lifestyle Changes,2024-01-26,2024-01-30,4,False,9,1,Private,0
+961438,22,F,Central,Depression,Physical Therapy,2023-04-19,2023-04-20,1,True,8,1,Private,0
+568471,22,F,Central,Heart Disease,Lifestyle Changes,2024-10-18,2024-10-24,6,True,4,0,None,5
+61585,23,F,West,Depression,Combined Therapy,2024-04-09,2024-04-13,4,True,10,0,Private,4
+35466,70,F,West,Type 2 Diabetes,Medication,2024-01-08,2024-01-19,11,False,7,3,Private,5
+887826,81,F,West,Lower Back Pain,Combined Therapy,2024-09-09,2024-09-29,20,True,3,0,None,1
+991101,81,F,West,Obesity,Physical Therapy,2023-01-24,2023-01-27,3,True,3,3,None,5
+50871,81,F,West,Anxiety,Lifestyle Changes,2024-08-24,2024-09-05,12,True,7,1,None,4
+6693,21,F,East,Obesity,Surgery,2024-07-13,2024-07-22,9,False,5,0,Public,3
+144170,48,M,West,Arthritis,Combined Therapy,2023-10-14,2023-11-01,18,True,6,2,Public,0
+661338,48,M,West,Lower Back Pain,Surgery,2024-09-12,2024-10-02,20,False,8,3,Private,2
+71269,48,M,West,Depression,Surgery,2023-05-26,2023-06-11,16,True,10,3,None,0
+158366,35,M,Central,COPD,Surgery,2024-05-30,2024-05-31,1,True,10,1,None,2
+229344,35,M,Central,Anxiety,Medication,2022-12-05,2022-12-07,2,False,3,3,Private,5
+478160,35,M,Central,Arthritis,Surgery,2023-12-25,2024-01-15,21,True,8,2,None,1
+63386,19,M,West,Hypertension,Surgery,2023-09-13,2023-10-13,30,False,2,3,Private,2
+668706,81,M,North,Hypertension,Medication,2024-03-21,2024-04-16,26,True,5,3,None,1
+979269,32,F,South,Depression,Lifestyle Changes,2024-04-28,2024-05-22,24,True,7,2,Public,3
+957089,32,F,South,Type 2 Diabetes,Combined Therapy,2024-03-20,2024-04-01,12,False,3,2,None,4
+691309,78,M,South,Lower Back Pain,Surgery,2023-12-08,2024-01-07,30,True,2,2,Public,5
+16495,63,F,South,Type 2 Diabetes,Medication,2023-12-11,2023-12-16,5,False,10,2,Public,0
+558065,63,F,South,COPD,Combined Therapy,2022-12-03,2022-12-28,25,False,8,2,None,1
+431319,63,F,South,Depression,Counseling,2024-01-30,2024-02-22,23,False,8,2,None,1
+17538,33,M,East,Type 2 Diabetes,Medication,2022-12-07,2022-12-21,14,False,6,0,Public,4
+757273,33,M,East,Depression,Counseling,2024-01-13,2024-01-31,18,True,7,0,Private,1
+561762,33,M,East,COPD,Combined Therapy,2023-06-29,2023-07-29,30,False,8,3,None,4
+17975,82,M,West,Obesity,Surgery,2023-07-08,2023-07-09,1,False,10,1,None,4
+852657,82,M,West,COPD,Medication,2023-12-23,2023-12-31,8,True,3,0,Private,5
+706774,23,M,West,Asthma,Counseling,2024-05-23,2024-06-02,10,False,7,0,None,0
+845328,74,M,Central,Lower Back Pain,Physical Therapy,2023-10-28,2023-11-27,30,True,2,3,Private,0
+953966,74,M,Central,COPD,Surgery,2024-11-26,2024-12-03,7,True,7,2,Private,3
+112214,74,M,Central,Type 2 Diabetes,Surgery,2023-04-16,2023-04-17,1,True,4,1,None,1
+100992,57,F,South,Asthma,Medication,2024-11-10,2024-12-04,24,False,9,0,Private,4
