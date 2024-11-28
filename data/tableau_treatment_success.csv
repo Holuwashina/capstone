@@ -1,0 +1,61 @@
+Treatment,Diagnosis,mean,count
+Combined Therapy,Anxiety,0.75,28
+Combined Therapy,Arthritis,0.7741935483870968,31
+Combined Therapy,Asthma,0.8214285714285714,28
+Combined Therapy,COPD,0.6,40
+Combined Therapy,Depression,0.76,25
+Combined Therapy,Heart Disease,0.6060606060606061,33
+Combined Therapy,Hypertension,0.7352941176470589,34
+Combined Therapy,Lower Back Pain,0.6,25
+Combined Therapy,Obesity,0.7941176470588235,34
+Combined Therapy,Type 2 Diabetes,0.6216216216216216,37
+Counseling,Anxiety,0.5588235294117647,34
+Counseling,Arthritis,0.6578947368421053,38
+Counseling,Asthma,0.4722222222222222,36
+Counseling,COPD,0.6774193548387096,31
+Counseling,Depression,0.6666666666666666,33
+Counseling,Heart Disease,0.5,30
+Counseling,Hypertension,0.8387096774193549,31
+Counseling,Lower Back Pain,0.6111111111111112,36
+Counseling,Obesity,0.5757575757575758,33
+Counseling,Type 2 Diabetes,0.6944444444444444,36
+Lifestyle Changes,Anxiety,0.7777777777777778,27
+Lifestyle Changes,Arthritis,0.5925925925925926,27
+Lifestyle Changes,Asthma,0.6764705882352942,34
+Lifestyle Changes,COPD,0.5,40
+Lifestyle Changes,Depression,0.6739130434782609,46
+Lifestyle Changes,Heart Disease,0.7948717948717948,39
+Lifestyle Changes,Hypertension,0.7777777777777778,27
+Lifestyle Changes,Lower Back Pain,0.6538461538461539,26
+Lifestyle Changes,Obesity,0.5625,32
+Lifestyle Changes,Type 2 Diabetes,0.5882352941176471,34
+Medication,Anxiety,0.6176470588235294,34
+Medication,Arthritis,0.8055555555555556,36
+Medication,Asthma,0.47368421052631576,38
+Medication,COPD,0.7586206896551724,29
+Medication,Depression,0.6285714285714286,35
+Medication,Heart Disease,0.65,40
+Medication,Hypertension,0.7222222222222222,36
+Medication,Lower Back Pain,0.6666666666666666,36
+Medication,Obesity,0.5405405405405406,37
+Medication,Type 2 Diabetes,0.7714285714285715,35
+Physical Therapy,Anxiety,0.6764705882352942,34
+Physical Therapy,Arthritis,0.5714285714285714,21
+Physical Therapy,Asthma,0.625,24
+Physical Therapy,COPD,0.7714285714285715,35
+Physical Therapy,Depression,0.6923076923076923,39
+Physical Therapy,Heart Disease,0.6538461538461539,26
+Physical Therapy,Hypertension,0.7307692307692307,26
+Physical Therapy,Lower Back Pain,0.6666666666666666,30
+Physical Therapy,Obesity,0.7441860465116279,43
+Physical Therapy,Type 2 Diabetes,0.6333333333333333,30
+Surgery,Anxiety,0.6363636363636364,44
+Surgery,Arthritis,0.8,25
+Surgery,Asthma,0.6956521739130435,46
+Surgery,COPD,0.7058823529411765,34
+Surgery,Depression,0.6451612903225806,31
+Surgery,Heart Disease,0.6451612903225806,31
+Surgery,Hypertension,0.6829268292682927,41
+Surgery,Lower Back Pain,0.7058823529411765,34
+Surgery,Obesity,0.5609756097560976,41
+Surgery,Type 2 Diabetes,0.7368421052631579,38

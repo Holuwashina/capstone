@@ -1,0 +1,51 @@
+Region,Diagnosis,count
+Central,Anxiety,34
+Central,Arthritis,47
+Central,Asthma,45
+Central,COPD,44
+Central,Depression,44
+Central,Heart Disease,44
+Central,Hypertension,43
+Central,Lower Back Pain,34
+Central,Obesity,50
+Central,Type 2 Diabetes,47
+East,Anxiety,38
+East,Arthritis,30
+East,Asthma,37
+East,COPD,41
+East,Depression,32
+East,Heart Disease,31
+East,Hypertension,32
+East,Lower Back Pain,34
+East,Obesity,29
+East,Type 2 Diabetes,30
+North,Anxiety,45
+North,Arthritis,39
+North,Asthma,36
+North,COPD,44
+North,Depression,47
+North,Heart Disease,40
+North,Hypertension,39
+North,Lower Back Pain,45
+North,Obesity,54
+North,Type 2 Diabetes,43
+South,Anxiety,47
+South,Arthritis,28
+South,Asthma,36
+South,COPD,35
+South,Depression,35
+South,Heart Disease,34
+South,Hypertension,41
+South,Lower Back Pain,36
+South,Obesity,43
+South,Type 2 Diabetes,38
+West,Anxiety,37
+West,Arthritis,34
+West,Asthma,52
+West,COPD,45
+West,Depression,51
+West,Heart Disease,50
+West,Hypertension,40
+West,Lower Back Pain,38
+West,Obesity,44
+West,Type 2 Diabetes,52

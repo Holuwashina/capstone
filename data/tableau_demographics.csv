@@ -1,0 +1,1748 @@
+Diagnosis,Age,Gender,Region,count
+Anxiety,18,M,West,1
+Anxiety,19,M,East,1
+Anxiety,19,M,North,1
+Anxiety,19,M,South,1
+Anxiety,20,M,East,1
+Anxiety,20,M,North,1
+Anxiety,21,F,East,1
+Anxiety,21,F,South,1
+Anxiety,21,M,North,1
+Anxiety,21,M,West,1
+Anxiety,22,M,Central,1
+Anxiety,22,M,North,1
+Anxiety,23,F,South,1
+Anxiety,23,M,Central,1
+Anxiety,24,F,North,1
+Anxiety,24,M,East,1
+Anxiety,25,F,East,1
+Anxiety,25,F,West,1
+Anxiety,25,M,South,1
+Anxiety,25,M,West,1
+Anxiety,26,M,Central,1
+Anxiety,27,M,West,3
+Anxiety,28,F,East,1
+Anxiety,28,M,Central,1
+Anxiety,28,M,East,1
+Anxiety,28,M,North,1
+Anxiety,28,M,West,1
+Anxiety,29,F,East,1
+Anxiety,29,F,North,1
+Anxiety,29,F,South,1
+Anxiety,29,M,East,1
+Anxiety,29,M,North,1
+Anxiety,29,M,South,1
+Anxiety,29,M,West,1
+Anxiety,30,F,East,1
+Anxiety,30,M,North,1
+Anxiety,31,F,Central,1
+Anxiety,31,M,East,1
+Anxiety,31,M,South,2
+Anxiety,32,F,West,1
+Anxiety,32,M,North,1
+Anxiety,32,M,West,1
+Anxiety,33,F,South,1
+Anxiety,33,M,North,2
+Anxiety,34,F,Central,1
+Anxiety,34,M,Central,1
+Anxiety,34,M,North,1
+Anxiety,34,M,West,1
+Anxiety,35,F,Central,1
+Anxiety,35,F,East,1
+Anxiety,35,F,North,1
+Anxiety,35,F,South,1
+Anxiety,35,M,Central,1
+Anxiety,35,M,South,2
+Anxiety,37,F,North,1
+Anxiety,37,F,South,1
+Anxiety,38,F,Central,1
+Anxiety,38,M,Central,1
+Anxiety,38,M,South,1
+Anxiety,39,F,North,1
+Anxiety,40,F,Central,2
+Anxiety,41,M,East,1
+Anxiety,41,M,South,1
+Anxiety,42,F,Central,1
+Anxiety,42,M,North,1
+Anxiety,43,F,East,2
+Anxiety,43,F,South,1
+Anxiety,44,F,West,2
+Anxiety,45,F,East,1
+Anxiety,45,M,West,1
+Anxiety,46,F,South,2
+Anxiety,46,M,East,1
+Anxiety,46,M,West,1
+Anxiety,47,F,Central,1
+Anxiety,47,F,West,1
+Anxiety,47,M,North,1
+Anxiety,47,M,South,1
+Anxiety,48,F,North,2
+Anxiety,48,M,East,1
+Anxiety,48,M,North,2
+Anxiety,48,M,West,2
+Anxiety,49,F,South,1
+Anxiety,49,M,Central,2
+Anxiety,50,F,West,1
+Anxiety,50,M,Central,1
+Anxiety,50,M,North,2
+Anxiety,50,M,South,1
+Anxiety,51,F,North,1
+Anxiety,51,M,East,1
+Anxiety,52,F,West,1
+Anxiety,52,M,North,1
+Anxiety,53,F,Central,1
+Anxiety,53,F,West,1
+Anxiety,53,M,East,1
+Anxiety,54,M,East,1
+Anxiety,55,F,North,2
+Anxiety,55,F,West,1
+Anxiety,55,M,Central,1
+Anxiety,55,M,North,1
+Anxiety,56,F,Central,1
+Anxiety,56,F,East,1
+Anxiety,56,F,South,1
+Anxiety,56,M,East,1
+Anxiety,57,F,Central,1
+Anxiety,57,F,East,1
+Anxiety,57,F,South,1
+Anxiety,57,M,East,1
+Anxiety,58,F,Central,1
+Anxiety,58,M,East,1
+Anxiety,58,M,West,1
+Anxiety,59,M,Central,1
+Anxiety,59,M,West,1
+Anxiety,60,F,East,1
+Anxiety,60,F,North,1
+Anxiety,61,F,Central,1
+Anxiety,61,F,North,1
+Anxiety,62,F,East,1
+Anxiety,63,F,Central,1
+Anxiety,63,M,Central,1
+Anxiety,64,M,South,1
+Anxiety,64,M,West,1
+Anxiety,65,M,South,1
+Anxiety,66,F,East,1
+Anxiety,66,F,South,1
+Anxiety,67,F,North,1
+Anxiety,67,F,South,1
+Anxiety,67,M,Central,1
+Anxiety,67,M,South,2
+Anxiety,67,M,West,1
+Anxiety,68,M,East,1
+Anxiety,68,M,South,1
+Anxiety,69,F,South,2
+Anxiety,69,M,North,1
+Anxiety,69,M,South,1
+Anxiety,70,F,South,1
+Anxiety,70,M,North,1
+Anxiety,70,M,South,1
+Anxiety,71,F,Central,1
+Anxiety,71,F,East,1
+Anxiety,71,F,South,2
+Anxiety,71,M,South,1
+Anxiety,73,M,West,1
+Anxiety,74,F,South,1
+Anxiety,74,M,North,1
+Anxiety,75,F,East,1
+Anxiety,75,F,North,1
+Anxiety,76,F,Central,1
+Anxiety,76,F,East,1
+Anxiety,76,F,West,1
+Anxiety,76,M,Central,1
+Anxiety,76,M,West,1
+Anxiety,77,F,West,1
+Anxiety,77,M,South,2
+Anxiety,77,M,West,1
+Anxiety,78,F,North,1
+Anxiety,78,M,East,1
+Anxiety,78,M,North,1
+Anxiety,79,F,Central,1
+Anxiety,79,F,East,1
+Anxiety,79,F,North,1
+Anxiety,80,F,South,1
+Anxiety,80,M,Central,1
+Anxiety,80,M,West,1
+Anxiety,81,F,North,1
+Anxiety,81,F,West,1
+Anxiety,82,M,North,1
+Anxiety,83,F,East,1
+Anxiety,83,F,North,2
+Anxiety,83,F,South,2
+Anxiety,83,M,North,1
+Anxiety,84,F,South,1
+Anxiety,84,F,West,1
+Anxiety,84,M,Central,1
+Anxiety,84,M,East,2
+Anxiety,84,M,North,1
+Anxiety,85,F,South,2
+Anxiety,85,F,West,1
+Anxiety,85,M,West,1
+Arthritis,18,M,East,1
+Arthritis,18,M,South,1
+Arthritis,19,M,West,1
+Arthritis,20,F,Central,1
+Arthritis,20,F,South,2
+Arthritis,21,F,East,1
+Arthritis,22,M,North,1
+Arthritis,23,F,North,1
+Arthritis,23,F,West,3
+Arthritis,24,F,North,1
+Arthritis,24,M,East,1
+Arthritis,24,M,North,1
+Arthritis,25,F,West,1
+Arthritis,25,M,Central,2
+Arthritis,25,M,West,1
+Arthritis,26,M,Central,1
+Arthritis,26,M,East,1
+Arthritis,27,M,East,1
+Arthritis,27,M,West,1
+Arthritis,28,F,Central,2
+Arthritis,28,M,North,1
+Arthritis,29,M,East,1
+Arthritis,29,M,South,1
+Arthritis,30,F,West,1
+Arthritis,31,M,North,1
+Arthritis,31,M,South,1
+Arthritis,32,F,South,1
+Arthritis,32,M,Central,1
+Arthritis,33,F,North,1
+Arthritis,34,M,North,1
+Arthritis,35,F,North,1
+Arthritis,35,F,South,1
+Arthritis,35,F,West,1
+Arthritis,35,M,Central,1
+Arthritis,35,M,North,1
+Arthritis,36,F,Central,2
+Arthritis,36,M,East,2
+Arthritis,36,M,West,1
+Arthritis,37,F,North,1
+Arthritis,37,M,Central,1
+Arthritis,38,M,Central,2
+Arthritis,38,M,West,1
+Arthritis,39,F,North,1
+Arthritis,39,F,South,2
+Arthritis,39,M,East,2
+Arthritis,40,F,Central,1
+Arthritis,40,F,West,1
+Arthritis,41,F,Central,3
+Arthritis,41,F,West,1
+Arthritis,41,M,East,1
+Arthritis,42,F,Central,2
+Arthritis,42,F,East,1
+Arthritis,42,F,South,1
+Arthritis,43,F,North,1
+Arthritis,44,F,North,1
+Arthritis,45,F,Central,1
+Arthritis,45,M,East,1
+Arthritis,45,M,North,1
+Arthritis,45,M,West,1
+Arthritis,46,F,North,1
+Arthritis,46,F,South,1
+Arthritis,46,M,Central,1
+Arthritis,46,M,West,1
+Arthritis,47,M,North,1
+Arthritis,47,M,South,1
+Arthritis,48,M,Central,2
+Arthritis,48,M,West,2
+Arthritis,49,F,Central,1
+Arthritis,49,F,East,1
+Arthritis,49,F,North,1
+Arthritis,49,M,South,1
+Arthritis,50,M,North,1
+Arthritis,51,F,West,2
+Arthritis,52,F,Central,1
+Arthritis,52,F,North,1
+Arthritis,52,F,West,1
+Arthritis,52,M,South,1
+Arthritis,53,F,North,2
+Arthritis,53,M,North,1
+Arthritis,54,F,North,1
+Arthritis,54,M,Central,1
+Arthritis,55,F,South,1
+Arthritis,56,F,North,1
+Arthritis,56,M,East,1
+Arthritis,56,M,South,3
+Arthritis,57,F,Central,1
+Arthritis,57,F,South,1
+Arthritis,57,M,East,1
+Arthritis,57,M,South,1
+Arthritis,58,F,Central,1
+Arthritis,58,F,South,1
+Arthritis,59,F,Central,1
+Arthritis,59,F,South,1
+Arthritis,59,M,North,1
+Arthritis,60,F,South,1
+Arthritis,61,F,Central,1
+Arthritis,61,F,East,1
+Arthritis,61,F,North,1
+Arthritis,61,M,North,1
+Arthritis,64,F,East,1
+Arthritis,64,F,West,1
+Arthritis,64,M,North,1
+Arthritis,65,F,Central,1
+Arthritis,65,F,East,1
+Arthritis,65,M,Central,1
+Arthritis,65,M,West,1
+Arthritis,66,F,East,1
+Arthritis,66,M,Central,2
+Arthritis,66,M,East,1
+Arthritis,67,F,South,1
+Arthritis,67,M,Central,1
+Arthritis,67,M,North,1
+Arthritis,68,M,West,1
+Arthritis,69,F,Central,1
+Arthritis,69,F,East,1
+Arthritis,69,F,West,1
+Arthritis,69,M,West,2
+Arthritis,70,F,Central,2
+Arthritis,70,F,East,1
+Arthritis,71,F,East,2
+Arthritis,71,F,West,1
+Arthritis,71,M,East,1
+Arthritis,71,M,West,1
+Arthritis,72,F,Central,1
+Arthritis,72,F,East,1
+Arthritis,73,F,South,1
+Arthritis,73,M,West,1
+Arthritis,74,F,South,2
+Arthritis,74,F,West,1
+Arthritis,74,M,Central,1
+Arthritis,75,F,North,1
+Arthritis,75,M,East,1
+Arthritis,76,F,South,1
+Arthritis,76,F,West,1
+Arthritis,76,M,North,1
+Arthritis,77,F,Central,1
+Arthritis,77,F,East,1
+Arthritis,79,F,North,2
+Arthritis,79,M,North,1
+Arthritis,80,F,Central,1
+Arthritis,80,M,Central,2
+Arthritis,81,M,West,1
+Arthritis,82,F,Central,2
+Arthritis,82,M,Central,1
+Arthritis,82,M,North,1
+Arthritis,83,F,North,1
+Arthritis,83,F,West,1
+Arthritis,83,M,West,1
+Arthritis,84,F,East,1
+Arthritis,85,M,North,2
+Asthma,18,F,Central,1
+Asthma,18,F,West,1
+Asthma,18,M,East,1
+Asthma,18,M,West,2
+Asthma,19,F,North,2
+Asthma,19,M,East,1
+Asthma,20,F,North,1
+Asthma,20,M,East,1
+Asthma,20,M,South,2
+Asthma,21,F,South,1
+Asthma,21,M,Central,1
+Asthma,22,F,East,1
+Asthma,22,M,Central,1
+Asthma,22,M,North,1
+Asthma,22,M,West,1
+Asthma,23,F,Central,1
+Asthma,23,F,West,1
+Asthma,23,M,West,1
+Asthma,24,F,East,1
+Asthma,24,F,North,1
+Asthma,24,F,West,3
+Asthma,24,M,West,1
+Asthma,25,F,East,2
+Asthma,26,F,Central,1
+Asthma,26,F,West,1
+Asthma,26,M,Central,1
+Asthma,26,M,East,1
+Asthma,27,F,North,1
+Asthma,27,M,South,1
+Asthma,28,F,West,1
+Asthma,28,M,Central,1
+Asthma,28,M,North,1
+Asthma,29,M,Central,1
+Asthma,29,M,North,1
+Asthma,30,F,West,1
+Asthma,30,M,South,1
+Asthma,31,F,South,2
+Asthma,31,M,South,2
+Asthma,32,F,West,1
+Asthma,33,F,West,1
+Asthma,33,M,South,1
+Asthma,34,F,Central,1
+Asthma,34,F,North,1
+Asthma,34,M,West,1
+Asthma,35,M,Central,1
+Asthma,35,M,West,1
+Asthma,36,F,Central,1
+Asthma,36,M,East,1
+Asthma,37,F,Central,1
+Asthma,37,F,North,1
+Asthma,37,F,South,1
+Asthma,38,F,Central,1
+Asthma,38,M,Central,1
+Asthma,39,F,North,1
+Asthma,39,M,South,1
+Asthma,40,F,Central,1
+Asthma,40,F,North,1
+Asthma,40,M,South,1
+Asthma,41,F,South,1
+Asthma,41,F,West,2
+Asthma,41,M,East,1
+Asthma,41,M,South,1
+Asthma,41,M,West,1
+Asthma,42,M,North,2
+Asthma,43,F,Central,1
+Asthma,43,F,East,2
+Asthma,43,F,North,1
+Asthma,43,M,East,1
+Asthma,43,M,West,1
+Asthma,44,F,North,1
+Asthma,45,M,East,1
+Asthma,45,M,South,1
+Asthma,46,F,East,1
+Asthma,46,F,South,1
+Asthma,46,M,East,1
+Asthma,47,F,Central,1
+Asthma,47,F,West,1
+Asthma,47,M,North,1
+Asthma,47,M,South,1
+Asthma,48,F,North,2
+Asthma,48,M,Central,1
+Asthma,48,M,North,1
+Asthma,48,M,South,1
+Asthma,49,F,Central,1
+Asthma,49,M,South,1
+Asthma,49,M,West,1
+Asthma,50,M,North,1
+Asthma,51,F,Central,1
+Asthma,51,M,North,1
+Asthma,52,F,West,1
+Asthma,52,M,Central,1
+Asthma,52,M,South,1
+Asthma,52,M,West,1
+Asthma,53,F,East,1
+Asthma,53,M,East,1
+Asthma,54,M,Central,2
+Asthma,55,M,North,1
+Asthma,55,M,South,1
+Asthma,55,M,West,1
+Asthma,56,F,Central,1
+Asthma,56,F,South,1
+Asthma,56,M,East,1
+Asthma,56,M,South,1
+Asthma,57,F,South,1
+Asthma,58,F,South,1
+Asthma,58,M,East,2
+Asthma,59,M,Central,1
+Asthma,59,M,North,1
+Asthma,59,M,South,1
+Asthma,60,F,North,1
+Asthma,60,M,West,1
+Asthma,61,M,East,1
+Asthma,61,M,North,1
+Asthma,62,F,East,2
+Asthma,62,F,South,1
+Asthma,63,F,Central,1
+Asthma,63,F,South,1
+Asthma,63,M,East,1
+Asthma,63,M,West,1
+Asthma,64,F,West,2
+Asthma,64,M,South,1
+Asthma,64,M,West,2
+Asthma,66,F,East,1
+Asthma,66,F,South,1
+Asthma,66,M,West,1
+Asthma,67,F,North,1
+Asthma,67,M,Central,1
+Asthma,68,F,Central,1
+Asthma,68,F,West,1
+Asthma,69,F,Central,1
+Asthma,69,F,East,1
+Asthma,69,F,West,2
+Asthma,69,M,South,1
+Asthma,69,M,West,2
+Asthma,70,F,Central,1
+Asthma,71,F,East,1
+Asthma,71,F,West,1
+Asthma,71,M,West,2
+Asthma,72,F,Central,1
+Asthma,73,F,East,1
+Asthma,73,M,East,1
+Asthma,73,M,West,1
+Asthma,74,F,Central,1
+Asthma,74,F,South,1
+Asthma,74,F,West,1
+Asthma,74,M,Central,1
+Asthma,74,M,East,1
+Asthma,74,M,North,1
+Asthma,74,M,South,1
+Asthma,74,M,West,1
+Asthma,75,F,Central,1
+Asthma,75,F,North,1
+Asthma,75,M,South,1
+Asthma,75,M,West,1
+Asthma,76,F,Central,1
+Asthma,77,F,Central,2
+Asthma,77,F,North,1
+Asthma,77,M,East,1
+Asthma,77,M,South,1
+Asthma,77,M,West,1
+Asthma,78,F,North,1
+Asthma,78,F,West,1
+Asthma,78,M,West,1
+Asthma,79,F,East,1
+Asthma,79,M,Central,1
+Asthma,80,F,North,2
+Asthma,80,F,West,1
+Asthma,80,M,Central,1
+Asthma,80,M,North,1
+Asthma,81,F,West,1
+Asthma,82,F,Central,2
+Asthma,82,F,East,1
+Asthma,82,M,Central,1
+Asthma,82,M,North,1
+Asthma,82,M,West,1
+Asthma,83,F,Central,1
+Asthma,83,F,East,1
+Asthma,83,F,North,1
+Asthma,83,F,West,1
+Asthma,83,M,Central,1
+Asthma,84,F,East,1
+Asthma,84,M,East,1
+Asthma,85,M,Central,1
+COPD,18,F,Central,1
+COPD,18,F,East,1
+COPD,18,F,North,1
+COPD,18,F,West,1
+COPD,18,M,East,1
+COPD,18,M,North,1
+COPD,18,M,West,1
+COPD,19,F,North,2
+COPD,19,M,East,1
+COPD,19,M,South,1
+COPD,20,F,Central,1
+COPD,20,F,North,1
+COPD,20,F,South,1
+COPD,20,F,West,1
+COPD,20,M,West,1
+COPD,21,M,Central,1
+COPD,21,M,North,1
+COPD,21,M,West,1
+COPD,22,F,West,1
+COPD,22,M,Central,1
+COPD,23,F,West,2
+COPD,24,F,West,2
+COPD,24,M,North,1
+COPD,24,M,South,1
+COPD,25,F,East,3
+COPD,26,F,Central,2
+COPD,26,F,West,1
+COPD,26,M,Central,1
+COPD,26,M,North,1
+COPD,26,M,West,1
+COPD,27,F,East,1
+COPD,27,F,North,1
+COPD,27,M,North,1
+COPD,28,F,West,2
+COPD,29,M,Central,1
+COPD,29,M,North,2
+COPD,30,F,West,1
+COPD,30,M,South,1
+COPD,31,F,East,1
+COPD,32,F,Central,1
+COPD,32,M,Central,2
+COPD,32,M,West,1
+COPD,33,M,East,1
+COPD,33,M,West,1
+COPD,34,F,North,1
+COPD,34,M,East,1
+COPD,34,M,North,1
+COPD,34,M,South,1
+COPD,34,M,West,1
+COPD,35,F,North,1
+COPD,35,F,South,1
+COPD,35,F,West,1
+COPD,35,M,Central,1
+COPD,35,M,North,1
+COPD,36,F,Central,1
+COPD,36,F,East,1
+COPD,36,F,West,1
+COPD,36,M,Central,1
+COPD,36,M,East,1
+COPD,37,F,North,1
+COPD,37,M,West,1
+COPD,38,M,North,1
+COPD,39,F,North,1
+COPD,39,F,South,2
+COPD,39,M,South,1
+COPD,40,F,Central,1
+COPD,40,F,East,1
+COPD,42,F,Central,1
+COPD,42,F,South,1
+COPD,43,F,Central,2
+COPD,43,F,East,1
+COPD,43,F,North,1
+COPD,43,F,West,1
+COPD,43,M,North,1
+COPD,44,F,North,1
+COPD,44,M,South,1
+COPD,45,F,Central,1
+COPD,45,F,East,1
+COPD,46,F,Central,1
+COPD,46,F,East,1
+COPD,46,M,East,1
+COPD,46,M,West,2
+COPD,47,F,Central,1
+COPD,47,M,West,1
+COPD,48,M,Central,1
+COPD,48,M,West,1
+COPD,49,F,Central,1
+COPD,49,F,East,1
+COPD,49,F,South,1
+COPD,49,M,South,1
+COPD,51,F,West,2
+COPD,51,M,South,1
+COPD,52,F,South,1
+COPD,53,F,North,1
+COPD,53,M,West,1
+COPD,54,M,Central,1
+COPD,54,M,North,1
+COPD,55,F,Central,1
+COPD,55,F,North,1
+COPD,55,F,West,1
+COPD,55,M,Central,1
+COPD,55,M,North,1
+COPD,56,F,East,1
+COPD,56,F,North,2
+COPD,56,F,South,1
+COPD,56,M,Central,1
+COPD,56,M,East,2
+COPD,56,M,North,1
+COPD,56,M,West,1
+COPD,57,F,Central,1
+COPD,57,M,East,1
+COPD,58,F,Central,1
+COPD,58,M,East,1
+COPD,58,M,South,1
+COPD,59,M,Central,1
+COPD,60,F,East,1
+COPD,60,F,South,1
+COPD,60,M,West,1
+COPD,61,F,Central,1
+COPD,62,F,South,1
+COPD,63,F,North,1
+COPD,63,F,South,3
+COPD,63,M,Central,1
+COPD,63,M,East,1
+COPD,64,F,East,1
+COPD,64,F,West,2
+COPD,64,M,South,1
+COPD,65,F,West,1
+COPD,65,M,West,1
+COPD,67,M,South,2
+COPD,68,F,Central,1
+COPD,68,F,North,2
+COPD,68,F,West,2
+COPD,68,M,Central,1
+COPD,68,M,East,1
+COPD,68,M,West,1
+COPD,69,F,Central,1
+COPD,69,F,South,1
+COPD,69,M,East,1
+COPD,69,M,South,1
+COPD,70,F,Central,1
+COPD,70,F,East,1
+COPD,70,F,West,1
+COPD,70,M,East,1
+COPD,70,M,North,1
+COPD,71,F,South,2
+COPD,72,F,East,1
+COPD,72,M,Central,1
+COPD,74,F,South,2
+COPD,74,M,Central,2
+COPD,74,M,East,1
+COPD,74,M,South,1
+COPD,75,F,Central,1
+COPD,75,F,East,1
+COPD,76,F,East,1
+COPD,76,M,South,1
+COPD,77,F,North,1
+COPD,77,F,South,1
+COPD,77,M,Central,1
+COPD,78,F,Central,1
+COPD,78,F,West,1
+COPD,78,M,West,1
+COPD,79,F,Central,1
+COPD,79,F,North,1
+COPD,79,M,North,2
+COPD,80,F,East,1
+COPD,80,F,North,2
+COPD,81,F,East,1
+COPD,81,F,North,1
+COPD,81,M,East,1
+COPD,81,M,North,1
+COPD,82,F,North,1
+COPD,82,M,Central,1
+COPD,82,M,East,1
+COPD,82,M,South,1
+COPD,82,M,West,1
+COPD,83,M,West,1
+COPD,84,F,East,2
+COPD,84,F,West,1
+COPD,84,M,East,1
+COPD,84,M,North,1
+COPD,85,M,North,1
+Depression,18,F,Central,1
+Depression,18,F,West,1
+Depression,18,M,North,1
+Depression,18,M,West,1
+Depression,19,M,East,2
+Depression,19,M,West,1
+Depression,20,F,Central,1
+Depression,20,F,South,1
+Depression,20,M,Central,3
+Depression,20,M,North,1
+Depression,20,M,South,1
+Depression,20,M,West,2
+Depression,21,F,Central,1
+Depression,21,F,East,1
+Depression,21,F,South,1
+Depression,21,M,South,1
+Depression,22,F,Central,1
+Depression,22,F,South,1
+Depression,22,F,West,1
+Depression,22,M,East,1
+Depression,22,M,North,1
+Depression,23,F,Central,1
+Depression,23,F,North,1
+Depression,23,F,South,1
+Depression,23,F,West,3
+Depression,23,M,Central,1
+Depression,23,M,East,1
+Depression,24,M,South,1
+Depression,25,F,Central,1
+Depression,25,F,North,1
+Depression,25,F,West,1
+Depression,26,F,West,1
+Depression,26,M,Central,1
+Depression,26,M,East,1
+Depression,27,M,North,1
+Depression,28,F,Central,1
+Depression,28,F,East,1
+Depression,28,M,North,1
+Depression,29,F,Central,1
+Depression,29,F,East,1
+Depression,29,F,North,1
+Depression,29,M,North,1
+Depression,29,M,South,1
+Depression,30,M,North,1
+Depression,31,F,South,1
+Depression,31,M,Central,1
+Depression,32,F,South,1
+Depression,33,F,Central,1
+Depression,33,F,North,1
+Depression,33,F,South,2
+Depression,33,M,East,2
+Depression,33,M,South,1
+Depression,33,M,West,1
+Depression,34,F,North,1
+Depression,34,F,West,1
+Depression,34,M,North,1
+Depression,35,F,Central,1
+Depression,35,F,East,1
+Depression,35,F,West,1
+Depression,35,M,East,1
+Depression,36,F,West,1
+Depression,36,M,Central,1
+Depression,37,F,Central,1
+Depression,37,M,South,1
+Depression,39,F,North,1
+Depression,39,F,South,2
+Depression,39,M,West,2
+Depression,40,F,North,1
+Depression,40,F,West,1
+Depression,41,F,West,1
+Depression,41,M,South,1
+Depression,41,M,West,1
+Depression,42,F,South,1
+Depression,43,F,West,1
+Depression,43,M,North,1
+Depression,43,M,West,1
+Depression,44,M,North,1
+Depression,45,F,East,1
+Depression,45,F,North,1
+Depression,45,F,South,1
+Depression,45,M,North,1
+Depression,45,M,West,2
+Depression,46,M,Central,1
+Depression,46,M,West,2
+Depression,47,M,South,1
+Depression,48,F,West,1
+Depression,48,M,Central,1
+Depression,48,M,North,1
+Depression,48,M,West,2
+Depression,49,F,Central,1
+Depression,49,F,South,2
+Depression,50,F,West,1
+Depression,50,M,North,2
+Depression,50,M,West,1
+Depression,51,F,North,2
+Depression,51,M,North,2
+Depression,52,F,North,1
+Depression,52,F,West,1
+Depression,52,M,North,2
+Depression,52,M,South,1
+Depression,53,F,East,1
+Depression,53,M,East,1
+Depression,53,M,South,1
+Depression,54,M,East,1
+Depression,55,F,Central,1
+Depression,55,M,Central,2
+Depression,55,M,North,1
+Depression,55,M,West,1
+Depression,56,M,South,1
+Depression,56,M,West,1
+Depression,57,F,Central,1
+Depression,58,M,Central,1
+Depression,59,F,South,1
+Depression,59,M,West,1
+Depression,60,M,East,1
+Depression,60,M,West,1
+Depression,61,F,North,1
+Depression,61,F,South,1
+Depression,61,M,Central,1
+Depression,61,M,North,1
+Depression,63,F,Central,1
+Depression,63,F,North,1
+Depression,63,F,South,2
+Depression,64,F,West,1
+Depression,64,M,Central,1
+Depression,64,M,North,2
+Depression,64,M,West,2
+Depression,66,F,East,1
+Depression,66,F,North,1
+Depression,66,M,Central,2
+Depression,67,M,East,1
+Depression,68,F,West,2
+Depression,68,M,Central,1
+Depression,69,F,Central,1
+Depression,69,F,North,1
+Depression,69,M,South,1
+Depression,70,F,Central,1
+Depression,70,F,East,2
+Depression,70,M,East,1
+Depression,71,F,Central,1
+Depression,71,F,East,1
+Depression,71,F,South,2
+Depression,71,M,Central,1
+Depression,72,F,Central,3
+Depression,72,F,North,1
+Depression,73,F,West,1
+Depression,74,F,South,1
+Depression,74,F,West,1
+Depression,74,M,West,1
+Depression,75,F,East,3
+Depression,75,M,Central,1
+Depression,77,F,East,1
+Depression,77,F,North,1
+Depression,77,M,South,1
+Depression,78,F,West,1
+Depression,78,M,East,1
+Depression,79,F,East,1
+Depression,79,F,North,1
+Depression,79,F,West,1
+Depression,79,M,North,1
+Depression,79,M,West,1
+Depression,80,F,North,1
+Depression,80,M,Central,1
+Depression,80,M,North,1
+Depression,81,F,South,1
+Depression,81,M,East,1
+Depression,81,M,North,1
+Depression,81,M,West,1
+Depression,82,F,Central,1
+Depression,82,M,North,1
+Depression,83,M,Central,1
+Depression,83,M,West,2
+Depression,84,F,Central,1
+Depression,84,F,East,1
+Depression,84,M,East,1
+Depression,85,F,West,1
+Depression,85,M,North,2
+Heart Disease,18,M,East,1
+Heart Disease,18,M,North,2
+Heart Disease,19,F,East,1
+Heart Disease,19,F,South,1
+Heart Disease,19,M,North,1
+Heart Disease,20,F,Central,1
+Heart Disease,20,F,North,1
+Heart Disease,20,F,South,1
+Heart Disease,20,M,North,1
+Heart Disease,20,M,South,1
+Heart Disease,21,F,East,1
+Heart Disease,21,M,Central,2
+Heart Disease,21,M,South,1
+Heart Disease,22,F,Central,1
+Heart Disease,22,F,East,1
+Heart Disease,22,M,East,1
+Heart Disease,22,M,West,1
+Heart Disease,23,F,Central,1
+Heart Disease,23,F,West,2
+Heart Disease,23,M,Central,1
+Heart Disease,24,F,West,1
+Heart Disease,24,M,South,1
+Heart Disease,25,F,South,1
+Heart Disease,25,M,Central,1
+Heart Disease,26,F,West,2
+Heart Disease,26,M,West,1
+Heart Disease,27,F,East,2
+Heart Disease,27,M,North,1
+Heart Disease,27,M,West,1
+Heart Disease,28,F,Central,1
+Heart Disease,28,F,East,1
+Heart Disease,28,F,West,1
+Heart Disease,29,F,West,2
+Heart Disease,29,M,East,1
+Heart Disease,29,M,North,1
+Heart Disease,30,F,West,2
+Heart Disease,30,M,Central,1
+Heart Disease,30,M,East,1
+Heart Disease,30,M,West,1
+Heart Disease,31,F,North,1
+Heart Disease,31,F,South,1
+Heart Disease,32,M,Central,1
+Heart Disease,32,M,West,1
+Heart Disease,33,F,North,1
+Heart Disease,33,M,North,1
+Heart Disease,33,M,West,1
+Heart Disease,34,F,West,2
+Heart Disease,34,M,Central,1
+Heart Disease,35,F,West,1
+Heart Disease,35,M,Central,1
+Heart Disease,35,M,East,1
+Heart Disease,35,M,North,2
+Heart Disease,35,M,West,1
+Heart Disease,36,F,Central,2
+Heart Disease,36,F,East,1
+Heart Disease,36,F,North,1
+Heart Disease,37,F,North,1
+Heart Disease,37,M,Central,1
+Heart Disease,37,M,West,1
+Heart Disease,38,M,Central,1
+Heart Disease,38,M,East,1
+Heart Disease,38,M,South,1
+Heart Disease,39,F,Central,1
+Heart Disease,39,F,North,1
+Heart Disease,39,F,South,1
+Heart Disease,39,M,Central,1
+Heart Disease,40,F,North,1
+Heart Disease,40,M,Central,1
+Heart Disease,41,F,Central,1
+Heart Disease,41,F,West,2
+Heart Disease,42,M,East,1
+Heart Disease,42,M,West,1
+Heart Disease,43,M,North,2
+Heart Disease,43,M,South,1
+Heart Disease,43,M,West,1
+Heart Disease,45,M,West,1
+Heart Disease,46,F,Central,1
+Heart Disease,46,F,West,1
+Heart Disease,46,M,Central,1
+Heart Disease,46,M,West,1
+Heart Disease,47,F,North,1
+Heart Disease,47,M,North,1
+Heart Disease,48,F,North,2
+Heart Disease,48,F,South,1
+Heart Disease,48,F,West,1
+Heart Disease,48,M,Central,1
+Heart Disease,48,M,North,1
+Heart Disease,49,F,Central,2
+Heart Disease,49,F,North,1
+Heart Disease,49,M,South,1
+Heart Disease,50,M,Central,1
+Heart Disease,50,M,South,1
+Heart Disease,51,M,South,1
+Heart Disease,52,F,West,2
+Heart Disease,53,F,North,2
+Heart Disease,53,F,West,1
+Heart Disease,53,M,East,1
+Heart Disease,53,M,West,1
+Heart Disease,54,F,South,1
+Heart Disease,54,F,West,1
+Heart Disease,54,M,East,1
+Heart Disease,55,F,Central,1
+Heart Disease,55,M,South,1
+Heart Disease,56,F,Central,1
+Heart Disease,56,F,North,1
+Heart Disease,56,M,South,1
+Heart Disease,58,F,Central,2
+Heart Disease,58,M,East,1
+Heart Disease,58,M,West,1
+Heart Disease,59,F,North,1
+Heart Disease,59,M,South,1
+Heart Disease,59,M,West,1
+Heart Disease,60,F,South,1
+Heart Disease,61,F,Central,1
+Heart Disease,61,F,East,1
+Heart Disease,61,M,East,1
+Heart Disease,62,F,East,1
+Heart Disease,62,F,South,1
+Heart Disease,62,M,South,1
+Heart Disease,63,F,Central,1
+Heart Disease,63,M,East,1
+Heart Disease,63,M,West,1
+Heart Disease,64,F,Central,1
+Heart Disease,64,F,East,1
+Heart Disease,64,M,South,1
+Heart Disease,64,M,West,1
+Heart Disease,65,F,East,2
+Heart Disease,65,F,West,1
+Heart Disease,65,M,Central,1
+Heart Disease,66,M,Central,1
+Heart Disease,67,F,South,1
+Heart Disease,67,M,West,1
+Heart Disease,68,M,South,1
+Heart Disease,68,M,West,1
+Heart Disease,69,F,Central,1
+Heart Disease,69,F,West,1
+Heart Disease,69,M,East,1
+Heart Disease,69,M,South,1
+Heart Disease,69,M,West,1
+Heart Disease,70,F,Central,2
+Heart Disease,71,F,East,1
+Heart Disease,71,M,Central,1
+Heart Disease,72,F,South,1
+Heart Disease,72,M,North,1
+Heart Disease,73,F,East,2
+Heart Disease,73,F,West,1
+Heart Disease,73,M,South,1
+Heart Disease,74,F,West,1
+Heart Disease,74,M,South,1
+Heart Disease,75,F,East,1
+Heart Disease,75,F,North,2
+Heart Disease,76,F,Central,1
+Heart Disease,76,F,South,1
+Heart Disease,77,M,South,1
+Heart Disease,78,F,East,1
+Heart Disease,78,F,North,1
+Heart Disease,78,M,Central,1
+Heart Disease,78,M,West,1
+Heart Disease,79,F,Central,1
+Heart Disease,79,M,Central,1
+Heart Disease,79,M,North,1
+Heart Disease,79,M,South,1
+Heart Disease,79,M,West,2
+Heart Disease,80,F,North,2
+Heart Disease,80,M,Central,1
+Heart Disease,81,M,North,1
+Heart Disease,81,M,West,1
+Heart Disease,82,M,East,1
+Heart Disease,82,M,South,1
+Heart Disease,83,F,North,1
+Heart Disease,84,F,South,1
+Heart Disease,84,M,North,1
+Heart Disease,85,F,West,1
+Heart Disease,85,M,North,2
+Heart Disease,85,M,South,1
+Hypertension,18,M,West,1
+Hypertension,19,F,East,1
+Hypertension,19,F,South,1
+Hypertension,19,M,North,1
+Hypertension,19,M,West,1
+Hypertension,20,F,Central,2
+Hypertension,20,F,North,1
+Hypertension,20,F,West,1
+Hypertension,20,M,East,1
+Hypertension,20,M,South,1
+Hypertension,21,F,West,1
+Hypertension,21,M,Central,2
+Hypertension,22,F,West,1
+Hypertension,22,M,East,1
+Hypertension,23,F,South,1
+Hypertension,23,F,West,2
+Hypertension,23,M,East,1
+Hypertension,24,F,East,1
+Hypertension,24,M,North,1
+Hypertension,24,M,South,1
+Hypertension,24,M,West,1
+Hypertension,25,F,South,1
+Hypertension,25,M,East,1
+Hypertension,26,F,Central,1
+Hypertension,26,F,North,1
+Hypertension,26,M,Central,1
+Hypertension,26,M,North,1
+Hypertension,26,M,West,1
+Hypertension,27,F,Central,1
+Hypertension,27,F,North,1
+Hypertension,27,M,West,1
+Hypertension,28,F,East,1
+Hypertension,28,M,North,1
+Hypertension,29,F,North,1
+Hypertension,29,F,South,1
+Hypertension,29,F,West,1
+Hypertension,29,M,East,1
+Hypertension,29,M,South,1
+Hypertension,30,F,North,1
+Hypertension,30,M,Central,1
+Hypertension,30,M,East,1
+Hypertension,31,F,South,1
+Hypertension,31,M,Central,1
+Hypertension,31,M,North,1
+Hypertension,31,M,South,3
+Hypertension,32,F,Central,1
+Hypertension,32,F,West,1
+Hypertension,33,F,North,1
+Hypertension,33,M,South,1
+Hypertension,33,M,West,1
+Hypertension,34,M,Central,1
+Hypertension,34,M,West,1
+Hypertension,35,F,West,1
+Hypertension,35,M,Central,1
+Hypertension,35,M,South,2
+Hypertension,36,F,North,2
+Hypertension,36,M,North,1
+Hypertension,36,M,West,2
+Hypertension,37,F,Central,1
+Hypertension,37,M,South,1
+Hypertension,37,M,West,1
+Hypertension,38,F,East,1
+Hypertension,38,F,South,1
+Hypertension,39,F,Central,1
+Hypertension,39,F,South,1
+Hypertension,39,F,West,1
+Hypertension,39,M,Central,1
+Hypertension,39,M,East,1
+Hypertension,39,M,West,2
+Hypertension,40,F,East,1
+Hypertension,40,F,North,1
+Hypertension,40,M,Central,1
+Hypertension,41,F,Central,1
+Hypertension,41,F,South,1
+Hypertension,41,M,East,1
+Hypertension,42,F,Central,1
+Hypertension,42,F,East,1
+Hypertension,42,F,South,2
+Hypertension,43,F,East,2
+Hypertension,43,M,West,1
+Hypertension,45,F,North,1
+Hypertension,45,F,South,1
+Hypertension,45,M,West,1
+Hypertension,46,M,Central,1
+Hypertension,46,M,West,2
+Hypertension,47,M,South,1
+Hypertension,48,F,Central,1
+Hypertension,48,F,North,3
+Hypertension,48,M,Central,1
+Hypertension,49,F,Central,1
+Hypertension,49,F,East,1
+Hypertension,49,F,South,1
+Hypertension,50,F,South,1
+Hypertension,50,F,West,1
+Hypertension,50,M,North,1
+Hypertension,51,F,Central,1
+Hypertension,51,F,North,1
+Hypertension,52,F,North,1
+Hypertension,52,F,South,1
+Hypertension,52,F,West,1
+Hypertension,52,M,North,1
+Hypertension,52,M,South,1
+Hypertension,52,M,West,1
+Hypertension,54,M,East,2
+Hypertension,54,M,North,1
+Hypertension,55,F,Central,1
+Hypertension,55,F,North,1
+Hypertension,55,M,Central,2
+Hypertension,56,M,North,1
+Hypertension,56,M,South,1
+Hypertension,56,M,West,1
+Hypertension,57,F,Central,1
+Hypertension,57,M,South,1
+Hypertension,58,F,Central,1
+Hypertension,58,M,North,1
+Hypertension,59,F,Central,1
+Hypertension,59,M,West,2
+Hypertension,60,F,East,1
+Hypertension,61,F,East,1
+Hypertension,61,F,South,1
+Hypertension,61,M,Central,1
+Hypertension,61,M,West,1
+Hypertension,62,M,South,1
+Hypertension,63,F,South,1
+Hypertension,63,M,West,1
+Hypertension,64,F,West,1
+Hypertension,64,M,Central,1
+Hypertension,64,M,East,1
+Hypertension,64,M,South,1
+Hypertension,65,F,Central,1
+Hypertension,65,F,East,1
+Hypertension,65,M,Central,1
+Hypertension,65,M,West,1
+Hypertension,66,M,East,1
+Hypertension,66,M,South,1
+Hypertension,66,M,West,1
+Hypertension,68,F,North,1
+Hypertension,68,M,East,1
+Hypertension,68,M,North,1
+Hypertension,69,F,Central,1
+Hypertension,69,F,East,1
+Hypertension,70,F,Central,1
+Hypertension,70,F,East,1
+Hypertension,70,M,Central,1
+Hypertension,70,M,North,1
+Hypertension,70,M,South,1
+Hypertension,71,F,East,1
+Hypertension,71,M,Central,1
+Hypertension,71,M,East,1
+Hypertension,71,M,West,1
+Hypertension,72,F,Central,1
+Hypertension,72,M,Central,1
+Hypertension,72,M,West,1
+Hypertension,73,F,East,1
+Hypertension,73,M,South,1
+Hypertension,73,M,West,1
+Hypertension,74,M,North,2
+Hypertension,74,M,West,1
+Hypertension,75,F,North,1
+Hypertension,75,M,South,1
+Hypertension,76,F,East,1
+Hypertension,76,F,South,1
+Hypertension,77,M,South,1
+Hypertension,80,F,North,2
+Hypertension,80,M,Central,1
+Hypertension,81,F,Central,1
+Hypertension,81,M,East,1
+Hypertension,81,M,North,2
+Hypertension,82,F,Central,1
+Hypertension,82,M,North,1
+Hypertension,83,F,North,1
+Hypertension,83,M,Central,1
+Hypertension,84,F,South,2
+Hypertension,85,F,South,1
+Lower Back Pain,18,F,North,1
+Lower Back Pain,18,F,South,1
+Lower Back Pain,18,M,South,1
+Lower Back Pain,19,F,East,1
+Lower Back Pain,19,F,North,1
+Lower Back Pain,19,M,South,1
+Lower Back Pain,19,M,West,1
+Lower Back Pain,22,M,West,2
+Lower Back Pain,23,F,South,1
+Lower Back Pain,23,M,South,1
+Lower Back Pain,24,F,East,1
+Lower Back Pain,24,F,North,1
+Lower Back Pain,24,F,West,2
+Lower Back Pain,24,M,North,1
+Lower Back Pain,25,F,East,2
+Lower Back Pain,25,F,North,1
+Lower Back Pain,25,F,West,1
+Lower Back Pain,25,M,Central,1
+Lower Back Pain,25,M,South,1
+Lower Back Pain,25,M,West,1
+Lower Back Pain,26,F,North,1
+Lower Back Pain,27,M,North,1
+Lower Back Pain,28,M,East,1
+Lower Back Pain,28,M,North,1
+Lower Back Pain,29,F,East,1
+Lower Back Pain,30,F,West,1
+Lower Back Pain,30,M,Central,1
+Lower Back Pain,30,M,East,1
+Lower Back Pain,30,M,South,2
+Lower Back Pain,31,F,Central,1
+Lower Back Pain,31,M,East,2
+Lower Back Pain,32,F,North,2
+Lower Back Pain,32,F,South,1
+Lower Back Pain,33,F,North,1
+Lower Back Pain,33,F,South,1
+Lower Back Pain,33,M,East,1
+Lower Back Pain,33,M,South,1
+Lower Back Pain,34,F,North,1
+Lower Back Pain,34,M,East,1
+Lower Back Pain,35,F,North,1
+Lower Back Pain,35,F,West,1
+Lower Back Pain,35,M,West,1
+Lower Back Pain,36,F,North,1
+Lower Back Pain,36,M,East,1
+Lower Back Pain,36,M,West,1
+Lower Back Pain,37,F,North,1
+Lower Back Pain,37,M,South,1
+Lower Back Pain,37,M,West,1
+Lower Back Pain,38,M,South,1
+Lower Back Pain,38,M,West,1
+Lower Back Pain,39,M,East,2
+Lower Back Pain,40,F,North,1
+Lower Back Pain,40,M,South,2
+Lower Back Pain,41,M,East,2
+Lower Back Pain,42,M,East,1
+Lower Back Pain,42,M,South,1
+Lower Back Pain,43,M,West,1
+Lower Back Pain,44,F,South,1
+Lower Back Pain,44,M,West,1
+Lower Back Pain,45,F,North,2
+Lower Back Pain,46,F,Central,1
+Lower Back Pain,46,F,East,1
+Lower Back Pain,46,M,West,2
+Lower Back Pain,47,M,South,1
+Lower Back Pain,48,M,North,1
+Lower Back Pain,48,M,West,1
+Lower Back Pain,49,F,South,1
+Lower Back Pain,49,M,Central,1
+Lower Back Pain,49,M,South,1
+Lower Back Pain,50,F,South,1
+Lower Back Pain,50,F,West,1
+Lower Back Pain,51,F,West,1
+Lower Back Pain,51,M,East,1
+Lower Back Pain,51,M,North,1
+Lower Back Pain,52,F,Central,2
+Lower Back Pain,52,M,Central,1
+Lower Back Pain,52,M,South,2
+Lower Back Pain,53,F,Central,1
+Lower Back Pain,53,F,North,2
+Lower Back Pain,53,M,South,1
+Lower Back Pain,54,F,South,1
+Lower Back Pain,54,M,North,1
+Lower Back Pain,55,F,Central,1
+Lower Back Pain,55,M,Central,2
+Lower Back Pain,55,M,West,1
+Lower Back Pain,56,F,North,1
+Lower Back Pain,56,M,East,2
+Lower Back Pain,56,M,North,1
+Lower Back Pain,56,M,West,1
+Lower Back Pain,57,F,North,1
+Lower Back Pain,59,M,North,1
+Lower Back Pain,59,M,South,1
+Lower Back Pain,60,M,East,1
+Lower Back Pain,60,M,North,1
+Lower Back Pain,60,M,South,1
+Lower Back Pain,60,M,West,1
+Lower Back Pain,61,F,East,2
+Lower Back Pain,61,M,East,1
+Lower Back Pain,62,M,Central,1
+Lower Back Pain,63,M,Central,1
+Lower Back Pain,63,M,West,1
+Lower Back Pain,64,F,West,1
+Lower Back Pain,64,M,Central,1
+Lower Back Pain,64,M,North,1
+Lower Back Pain,66,F,North,1
+Lower Back Pain,66,M,West,1
+Lower Back Pain,67,M,West,1
+Lower Back Pain,68,F,Central,2
+Lower Back Pain,68,M,North,1
+Lower Back Pain,68,M,South,1
+Lower Back Pain,69,F,Central,1
+Lower Back Pain,69,F,North,1
+Lower Back Pain,69,F,West,1
+Lower Back Pain,69,M,West,3
+Lower Back Pain,70,F,Central,1
+Lower Back Pain,70,F,East,2
+Lower Back Pain,70,M,South,1
+Lower Back Pain,71,F,Central,1
+Lower Back Pain,71,M,East,1
+Lower Back Pain,71,M,West,1
+Lower Back Pain,72,F,Central,1
+Lower Back Pain,72,M,Central,1
+Lower Back Pain,72,M,North,1
+Lower Back Pain,73,F,Central,1
+Lower Back Pain,73,M,South,1
+Lower Back Pain,73,M,West,1
+Lower Back Pain,74,F,West,1
+Lower Back Pain,74,M,Central,2
+Lower Back Pain,74,M,North,1
+Lower Back Pain,75,F,East,1
+Lower Back Pain,75,F,West,1
+Lower Back Pain,75,M,Central,1
+Lower Back Pain,75,M,South,1
+Lower Back Pain,76,F,East,1
+Lower Back Pain,76,F,South,1
+Lower Back Pain,76,M,East,1
+Lower Back Pain,76,M,North,1
+Lower Back Pain,77,F,Central,1
+Lower Back Pain,77,F,East,1
+Lower Back Pain,77,M,South,1
+Lower Back Pain,78,M,South,1
+Lower Back Pain,79,F,South,1
+Lower Back Pain,79,M,Central,1
+Lower Back Pain,79,M,North,1
+Lower Back Pain,79,M,West,1
+Lower Back Pain,80,F,North,3
+Lower Back Pain,80,M,Central,1
+Lower Back Pain,80,M,South,1
+Lower Back Pain,81,F,West,1
+Lower Back Pain,81,M,North,2
+Lower Back Pain,82,F,Central,1
+Lower Back Pain,83,F,Central,1
+Lower Back Pain,83,M,Central,2
+Lower Back Pain,83,M,North,1
+Lower Back Pain,83,M,West,1
+Lower Back Pain,84,F,Central,1
+Lower Back Pain,84,M,East,1
+Lower Back Pain,85,F,East,1
+Lower Back Pain,85,M,North,3
+Obesity,18,F,Central,1
+Obesity,18,F,North,1
+Obesity,19,F,East,1
+Obesity,19,F,North,1
+Obesity,19,M,East,1
+Obesity,19,M,West,1
+Obesity,20,F,North,1
+Obesity,20,M,Central,1
+Obesity,20,M,North,1
+Obesity,20,M,South,1
+Obesity,21,F,East,1
+Obesity,21,F,West,1
+Obesity,21,M,North,1
+Obesity,22,M,Central,1
+Obesity,23,F,Central,1
+Obesity,23,F,West,1
+Obesity,23,M,Central,2
+Obesity,23,M,South,1
+Obesity,24,M,North,2
+Obesity,25,F,North,1
+Obesity,25,F,West,2
+Obesity,26,F,North,1
+Obesity,27,M,West,3
+Obesity,28,F,Central,1
+Obesity,28,F,West,1
+Obesity,28,M,Central,1
+Obesity,28,M,East,1
+Obesity,28,M,North,2
+Obesity,29,F,Central,1
+Obesity,29,F,West,1
+Obesity,29,M,Central,1
+Obesity,29,M,East,1
+Obesity,29,M,South,1
+Obesity,30,M,East,2
+Obesity,31,M,South,2
+Obesity,32,F,West,1
+Obesity,33,F,Central,2
+Obesity,33,F,North,1
+Obesity,33,M,North,2
+Obesity,33,M,South,2
+Obesity,33,M,West,1
+Obesity,34,F,North,1
+Obesity,34,F,West,1
+Obesity,34,M,North,2
+Obesity,34,M,South,1
+Obesity,35,F,North,1
+Obesity,35,F,West,1
+Obesity,35,M,Central,1
+Obesity,35,M,East,1
+Obesity,35,M,North,1
+Obesity,35,M,South,2
+Obesity,36,F,Central,2
+Obesity,36,F,East,1
+Obesity,36,F,North,1
+Obesity,37,F,North,3
+Obesity,37,F,South,1
+Obesity,37,M,Central,1
+Obesity,37,M,West,1
+Obesity,38,F,East,1
+Obesity,38,F,South,1
+Obesity,38,M,West,1
+Obesity,39,F,North,2
+Obesity,39,F,South,1
+Obesity,39,M,North,1
+Obesity,39,M,South,1
+Obesity,40,F,East,1
+Obesity,40,M,Central,1
+Obesity,41,F,Central,1
+Obesity,41,F,West,1
+Obesity,42,F,Central,1
+Obesity,42,M,South,1
+Obesity,42,M,West,1
+Obesity,43,F,Central,1
+Obesity,43,F,North,1
+Obesity,43,M,East,1
+Obesity,44,F,East,1
+Obesity,44,F,North,1
+Obesity,44,F,South,1
+Obesity,44,F,West,1
+Obesity,44,M,South,1
+Obesity,45,F,South,1
+Obesity,45,F,West,2
+Obesity,45,M,West,1
+Obesity,46,F,Central,1
+Obesity,46,F,East,1
+Obesity,46,M,Central,1
+Obesity,46,M,North,1
+Obesity,47,M,West,1
+Obesity,48,M,Central,1
+Obesity,49,F,Central,1
+Obesity,49,M,Central,1
+Obesity,49,M,North,1
+Obesity,49,M,South,1
+Obesity,50,F,West,1
+Obesity,50,M,North,1
+Obesity,50,M,West,1
+Obesity,51,F,Central,1
+Obesity,51,F,North,1
+Obesity,51,F,West,1
+Obesity,52,M,Central,1
+Obesity,52,M,North,1
+Obesity,52,M,South,2
+Obesity,53,F,North,2
+Obesity,54,F,North,2
+Obesity,54,F,South,1
+Obesity,54,F,West,1
+Obesity,55,F,North,2
+Obesity,55,M,North,2
+Obesity,55,M,South,2
+Obesity,56,F,North,1
+Obesity,56,M,South,1
+Obesity,57,F,Central,1
+Obesity,57,F,North,1
+Obesity,57,M,South,1
+Obesity,58,F,Central,1
+Obesity,58,M,Central,1
+Obesity,59,M,North,2
+Obesity,60,M,South,1
+Obesity,61,F,Central,1
+Obesity,61,M,Central,1
+Obesity,61,M,East,1
+Obesity,62,F,East,1
+Obesity,62,F,South,1
+Obesity,62,M,South,1
+Obesity,63,F,Central,1
+Obesity,63,F,North,1
+Obesity,63,F,South,1
+Obesity,64,F,East,1
+Obesity,64,M,East,1
+Obesity,65,M,Central,1
+Obesity,65,M,West,1
+Obesity,66,F,North,1
+Obesity,66,F,South,1
+Obesity,66,M,Central,1
+Obesity,66,M,South,1
+Obesity,68,F,South,1
+Obesity,68,M,Central,2
+Obesity,68,M,North,1
+Obesity,68,M,West,1
+Obesity,69,F,Central,1
+Obesity,69,F,South,2
+Obesity,69,F,West,2
+Obesity,69,M,South,1
+Obesity,70,F,East,1
+Obesity,70,F,West,1
+Obesity,70,M,East,1
+Obesity,71,F,Central,1
+Obesity,71,F,South,1
+Obesity,71,M,East,1
+Obesity,72,M,West,1
+Obesity,73,F,South,1
+Obesity,73,F,West,1
+Obesity,73,M,East,1
+Obesity,74,F,South,1
+Obesity,74,F,West,1
+Obesity,74,M,Central,1
+Obesity,74,M,West,2
+Obesity,75,F,East,1
+Obesity,75,F,North,1
+Obesity,75,F,West,1
+Obesity,75,M,Central,1
+Obesity,75,M,East,1
+Obesity,75,M,North,1
+Obesity,76,F,Central,1
+Obesity,76,F,East,1
+Obesity,76,F,West,1
+Obesity,76,M,South,1
+Obesity,77,F,Central,2
+Obesity,77,M,Central,1
+Obesity,77,M,West,1
+Obesity,79,F,Central,1
+Obesity,79,F,East,2
+Obesity,79,F,North,1
+Obesity,79,F,West,1
+Obesity,79,M,Central,1
+Obesity,80,F,North,1
+Obesity,80,M,Central,2
+Obesity,81,F,West,2
+Obesity,82,F,South,1
+Obesity,82,M,East,1
+Obesity,82,M,West,1
+Obesity,84,F,North,1
+Obesity,84,F,South,1
+Obesity,84,M,East,1
+Obesity,85,F,South,1
+Obesity,85,M,Central,1
+Obesity,85,M,North,1
+Type 2 Diabetes,18,F,Central,1
+Type 2 Diabetes,18,M,West,1
+Type 2 Diabetes,19,F,North,1
+Type 2 Diabetes,19,F,West,1
+Type 2 Diabetes,19,M,North,1
+Type 2 Diabetes,20,F,Central,1
+Type 2 Diabetes,20,F,North,1
+Type 2 Diabetes,20,F,South,1
+Type 2 Diabetes,20,M,South,1
+Type 2 Diabetes,21,F,West,1
+Type 2 Diabetes,21,M,Central,2
+Type 2 Diabetes,22,F,South,1
+Type 2 Diabetes,22,M,Central,1
+Type 2 Diabetes,22,M,East,1
+Type 2 Diabetes,22,M,North,1
+Type 2 Diabetes,23,F,North,2
+Type 2 Diabetes,23,M,Central,1
+Type 2 Diabetes,25,F,East,1
+Type 2 Diabetes,25,F,West,1
+Type 2 Diabetes,26,F,West,2
+Type 2 Diabetes,26,M,Central,1
+Type 2 Diabetes,27,F,East,1
+Type 2 Diabetes,27,M,East,1
+Type 2 Diabetes,27,M,West,3
+Type 2 Diabetes,28,F,Central,1
+Type 2 Diabetes,28,F,East,1
+Type 2 Diabetes,29,F,Central,1
+Type 2 Diabetes,29,F,West,1
+Type 2 Diabetes,29,M,Central,1
+Type 2 Diabetes,30,F,North,1
+Type 2 Diabetes,30,M,Central,1
+Type 2 Diabetes,30,M,East,1
+Type 2 Diabetes,30,M,North,1
+Type 2 Diabetes,30,M,West,1
+Type 2 Diabetes,31,F,South,1
+Type 2 Diabetes,31,M,East,1
+Type 2 Diabetes,31,M,North,1
+Type 2 Diabetes,32,F,South,1
+Type 2 Diabetes,32,F,West,1
+Type 2 Diabetes,32,M,North,1
+Type 2 Diabetes,33,F,South,1
+Type 2 Diabetes,33,M,East,2
+Type 2 Diabetes,33,M,North,1
+Type 2 Diabetes,33,M,South,1
+Type 2 Diabetes,33,M,West,1
+Type 2 Diabetes,34,F,North,2
+Type 2 Diabetes,34,F,West,1
+Type 2 Diabetes,34,M,West,1
+Type 2 Diabetes,35,M,North,2
+Type 2 Diabetes,35,M,South,1
+Type 2 Diabetes,36,F,Central,1
+Type 2 Diabetes,36,F,East,1
+Type 2 Diabetes,36,F,West,1
+Type 2 Diabetes,36,M,Central,1
+Type 2 Diabetes,36,M,East,1
+Type 2 Diabetes,36,M,South,1
+Type 2 Diabetes,36,M,West,2
+Type 2 Diabetes,37,F,Central,1
+Type 2 Diabetes,37,F,South,1
+Type 2 Diabetes,38,F,East,1
+Type 2 Diabetes,38,M,Central,1
+Type 2 Diabetes,38,M,East,1
+Type 2 Diabetes,39,F,Central,1
+Type 2 Diabetes,39,F,North,1
+Type 2 Diabetes,39,M,East,1
+Type 2 Diabetes,40,F,Central,1
+Type 2 Diabetes,40,M,Central,1
+Type 2 Diabetes,40,M,South,1
+Type 2 Diabetes,42,M,East,1
+Type 2 Diabetes,43,F,East,1
+Type 2 Diabetes,43,F,West,1
+Type 2 Diabetes,43,M,North,1
+Type 2 Diabetes,44,F,North,1
+Type 2 Diabetes,44,F,West,1
+Type 2 Diabetes,44,M,South,1
+Type 2 Diabetes,45,F,Central,1
+Type 2 Diabetes,45,F,South,1
+Type 2 Diabetes,45,M,North,1
+Type 2 Diabetes,45,M,West,2
+Type 2 Diabetes,46,F,Central,2
+Type 2 Diabetes,46,M,Central,1
+Type 2 Diabetes,46,M,West,1
+Type 2 Diabetes,47,F,East,1
+Type 2 Diabetes,47,F,West,1
+Type 2 Diabetes,47,M,West,2
+Type 2 Diabetes,48,F,Central,1
+Type 2 Diabetes,48,F,North,2
+Type 2 Diabetes,48,M,North,1
+Type 2 Diabetes,49,F,Central,2
+Type 2 Diabetes,49,F,East,1
+Type 2 Diabetes,49,F,North,2
+Type 2 Diabetes,49,F,South,1
+Type 2 Diabetes,50,F,West,1
+Type 2 Diabetes,50,M,South,1
+Type 2 Diabetes,51,F,North,1
+Type 2 Diabetes,51,F,West,1
+Type 2 Diabetes,51,M,North,1
+Type 2 Diabetes,52,F,Central,1
+Type 2 Diabetes,53,F,Central,1
+Type 2 Diabetes,53,F,East,1
+Type 2 Diabetes,53,F,North,2
+Type 2 Diabetes,53,M,East,1
+Type 2 Diabetes,54,F,North,1
+Type 2 Diabetes,54,F,West,1
+Type 2 Diabetes,54,M,East,1
+Type 2 Diabetes,54,M,South,1
+Type 2 Diabetes,55,F,South,1
+Type 2 Diabetes,55,M,West,1
+Type 2 Diabetes,56,F,Central,1
+Type 2 Diabetes,56,F,East,1
+Type 2 Diabetes,56,M,West,2
+Type 2 Diabetes,57,F,West,1
+Type 2 Diabetes,58,F,Central,2
+Type 2 Diabetes,58,F,West,1
+Type 2 Diabetes,58,M,North,1
+Type 2 Diabetes,59,F,North,1
+Type 2 Diabetes,59,M,Central,1
+Type 2 Diabetes,60,F,South,1
+Type 2 Diabetes,61,F,Central,1
+Type 2 Diabetes,61,F,North,1
+Type 2 Diabetes,61,M,North,1
+Type 2 Diabetes,63,F,South,1
+Type 2 Diabetes,63,M,West,1
+Type 2 Diabetes,64,M,South,1
+Type 2 Diabetes,65,F,East,1
+Type 2 Diabetes,65,M,South,1
+Type 2 Diabetes,65,M,West,1
+Type 2 Diabetes,67,M,West,2
+Type 2 Diabetes,68,F,Central,1
+Type 2 Diabetes,68,F,North,1
+Type 2 Diabetes,68,F,South,1
+Type 2 Diabetes,68,F,West,1
+Type 2 Diabetes,68,M,Central,2
+Type 2 Diabetes,69,F,South,2
+Type 2 Diabetes,69,M,East,1
+Type 2 Diabetes,69,M,South,1
+Type 2 Diabetes,69,M,West,1
+Type 2 Diabetes,70,F,Central,1
+Type 2 Diabetes,70,F,East,1
+Type 2 Diabetes,70,F,West,2
+Type 2 Diabetes,70,M,Central,1
+Type 2 Diabetes,70,M,South,1
+Type 2 Diabetes,71,M,East,1
+Type 2 Diabetes,71,M,South,1
+Type 2 Diabetes,71,M,West,1
+Type 2 Diabetes,72,M,Central,1
+Type 2 Diabetes,73,F,Central,1
+Type 2 Diabetes,73,F,East,1
+Type 2 Diabetes,73,F,South,1
+Type 2 Diabetes,73,M,South,1
+Type 2 Diabetes,73,M,West,1
+Type 2 Diabetes,74,F,South,1
+Type 2 Diabetes,74,F,West,1
+Type 2 Diabetes,74,M,Central,1
+Type 2 Diabetes,74,M,North,1
+Type 2 Diabetes,75,F,West,1
+Type 2 Diabetes,75,M,North,1
+Type 2 Diabetes,75,M,West,1
+Type 2 Diabetes,76,M,West,1
+Type 2 Diabetes,77,F,Central,1
+Type 2 Diabetes,77,F,East,1
+Type 2 Diabetes,77,M,East,1
+Type 2 Diabetes,77,M,South,2
+Type 2 Diabetes,78,F,West,1
+Type 2 Diabetes,78,M,West,1
+Type 2 Diabetes,79,F,Central,3
+Type 2 Diabetes,79,F,West,1
+Type 2 Diabetes,79,M,North,1
+Type 2 Diabetes,79,M,South,1
+Type 2 Diabetes,80,F,North,2
+Type 2 Diabetes,80,M,South,1
+Type 2 Diabetes,81,F,Central,1
+Type 2 Diabetes,82,F,South,1
+Type 2 Diabetes,82,M,North,1
+Type 2 Diabetes,83,F,North,1
+Type 2 Diabetes,83,F,South,1
+Type 2 Diabetes,83,F,West,1
+Type 2 Diabetes,83,M,Central,2
+Type 2 Diabetes,84,F,South,1
+Type 2 Diabetes,84,M,East,1
+Type 2 Diabetes,84,M,North,2
+Type 2 Diabetes,85,M,South,1
