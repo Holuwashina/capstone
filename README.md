@@ -23,7 +23,7 @@ docker-compose up --build
 ```
 
 2. Access Jupyter Notebook:
-   - Open your browser and go to: http://localhost:8888
+   - Open your browser and go to: http://localhost:8888 OR https://nbviewer.org/github/Holuwashina/capstone/blob/master/notebooks/complete_healthcare_analysis.ipynb?flush_cache=true
    - Token: healthconnect
 
 3. Start analyzing the data:
